@@ -39,7 +39,7 @@ class TRGoals:
         if "bit.ly" in redirect_url or "error" in redirect_url:
             konsol.log("[yellow][!] 5 denemeden sonra bit.ly çözülemedi, yedek linke geçiliyor...")
             try:
-                redirect_url = self.redirect_gec("https://t.co/aOAO1eIsqE")
+                redirect_url = self.redirect_gec("https://redirect-09385010482752.pages.dev/")
             except Exception as e:
                 raise ValueError(f"Yedek linkten de domain alınamadı: {e}")
 
