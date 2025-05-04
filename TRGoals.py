@@ -107,6 +107,7 @@ class TRGoals:
         # API çağrısı kaldırıldı, doğrudan istek yapılıyor
         response = self.httpx.get(kontrol_url, follow_redirects=True)
 
+        # Base URL'yi almayı deniyoruz
         if not (yayin_ara := re.search(r'var baseurl = "(https?:\/\/[^"]+)"', response.text)):
             secici = Selector(response.text)
             baslik = secici.xpath("//title/text()").get()
@@ -117,7 +118,8 @@ class TRGoals:
                 konsol.print(response.text)
                 raise ValueError("Base URL bulunamadı!")
 
-        yayin_url = yayin_ara[1]
+        # Eğer baseurl bulunduysa, onu kullanıyoruz
+        yayin_url = yayin_ara[1] if yayin_ara else eski_yayin_url
         konsol.log(f"[green][+] Yeni Yayın URL : {yayin_url}")
 
         yeni_m3u_icerik = m3u_icerik.replace(eski_yayin_url, yayin_url)
