@@ -221,7 +221,7 @@ https://ottcdn.kablowebtv.net/live_turksat_sub3/nbatv_stream/index.m3u8?wmsAuthS
 
 #EXTINF:-1 tvg-name="NBA TV B" tvg-language="English" tvg-country="USA" tvg-id="Spor_NBATVB" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/8/89/Nbatv.png" group-title="Spor",NBA TV B
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://trgoals1319.xyz//
+#EXTVLCOPT:http-referrer=https://trgoals1319.xyz/
 https://d0.4928d54d950ee70q45.click/yayinnbatv.m3u8
 
 #EXTINF:-1 tvg-name="NBA TV C" tvg-language="English" tvg-country="USA" tvg-id="Spor_NBATVC" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/8/89/Nbatv.png" group-title="Spor",NBA TV C
