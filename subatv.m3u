@@ -390,6 +390,10 @@ https://subatvdeneme.kerimmkirac.workers.dev/?url=https://r14.af92.workers.dev/s
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 https://kerimmkiraccano.kerimmkirac.workers.dev/?url=https://üüü.mevzuhls37.cfd/yayinb5.m3u8
 
+#EXTINF:-1 tvg-name="beIN SPORTS 5 | B" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_beINSPORTS5_B" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUQFeNVDh8-PJHWL3BaC-qM6f9pczlHXJCFQ&s" group-title="Spor",beIN SPORTS 5 B
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+https://subatvdeneme.kerimmkirac.workers.dev/?url=https://r14.af92.workers.dev/static/bs5.m3u8&referer=https%3A%2F%2Ftaraftarium.co%2F&proxy=evet&useragent=okhttp%2F4.12.0
+
 #EXTINF:-1 tvg-name="beIN SPORTS Max | A" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_beINSPORTSMax_A" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png" group-title="Spor",beIN SPORTS Max A
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 https://subatvdeneme.kerimmkirac.workers.dev/?url=https://tv1.arectv30.sbs/live/bm1.m3u8&referer=https%3A%2F%2Ftaraftarium.co%2F&proxy=evet&useragent=okhttp%2F4.12.0
