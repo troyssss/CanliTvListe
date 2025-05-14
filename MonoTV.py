@@ -13,7 +13,7 @@ class MonoTV:
         )
 
     def yayin_urlini_al(self):
-        json_endpoint = "https://casintrotv12.com/domain.php"
+        json_endpoint = "https://royalvipcanlimac.com/domain.php"
         log.log(f"[cyan][~] domain.php çağrılıyor: {json_endpoint}")
         try:
             response = self.httpx.get(json_endpoint)
