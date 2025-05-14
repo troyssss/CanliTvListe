@@ -348,7 +348,7 @@ https://ottcdn.kablowebtv.net/live_turksat_sub3/ssport2_stream/index.m3u8?wmsAut
 
 #EXTINF:-1 tvg-name="S SPORT 2 | B" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_SSPORT2B" tvg-logo="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20230302923321.png" group-title="Spor",S SPORT 2 B
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-https://subatvdeneme.kerimmkirac.workers.dev/?url=https://tv1.arectv30.sbs/live/pl1.m3u8&referer=https%3A%2F%2Ftaraftarium.co%2F&proxy=evet&useragent=okhttp%2F4.12.0
+https://subatvdeneme.kerimmkirac.workers.dev/?url=https://r14.af94.workers.dev/static/ss2.m3u8&referer=https%3A%2F%2Ftaraftarium.co%2F&proxy=evet&useragent=okhttp%2F4.12.0
 
 
 
