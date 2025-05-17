@@ -12,6 +12,12 @@ https://tv-trt2.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="2114" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/bc458b63-fe9e-40c2-b8a3-d56dc7189e0a.png" group-title="Spor ", beIN Sports Haber
 https://ottcdn.kablowebtv.net/live_turksat_sub3//index.m3u8?=
 
+#EXTINF:-1 tvg-id="2003" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/16752eb5-4001-4b31-860c-ab947ed2c86d.png" group-title="Ulusal", Cnbc-e
+https://ottcdn.kablowebtv.net/live_turksat_sub3/cnbce_stream/index.m3u8?
+
+#EXTINF:-1 tvg-id="3002" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/2fdd6eb0-bd9e-44ef-ad0e-7f2c4cf3a8a7.png" group-title="Ulusal Haber", Szc Tv
+https://ottcdn.kablowebtv.net/live_turksat_sub3/szctv_stream/index.m3
+
 # * » Haber « * #
 #EXTINF:-1 tvg-name="TRT Haber" tvg-language="Turkish" tvg-country="TR" tvg-id="Haber_TRT" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/8971102.png" group-title="Haber",TRT Haber
 https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
