@@ -62,13 +62,13 @@ jobs:
               # Yeni M3U dosyasından kanal-URL eşleşmelerini al
               new_channels = parse_m3u('yeni.m3u')
               
-              if not os.path.exists('subatv.m3u'):
-                  print("subatv.m3u dosyası bulunamadı, oluşturuluyor...")
-                  with open('subatv.m3u', 'w', encoding='utf-8') as f:
+              if not os.path.exists('subatv1.m3u'):
+                  print("subatv1.m3u dosyası bulunamadı, oluşturuluyor...")
+                  with open('subatv1.m3u', 'w', encoding='utf-8') as f:
                       f.write("#EXTM3U\n")
               
               # subatv.m3u dosyasını oku
-              with open('subatv.m3u', 'r', encoding='utf-8') as f:
+              with open('subatv1.m3u', 'r', encoding='utf-8') as f:
                   lines = f.readlines()
               
               updated_lines = []
