@@ -122,12 +122,12 @@ jobs:
           def update_subatv_m3u():
               yeni_kanallar = parse_m3u('yeni.m3u')
 
-              if not os.path.exists('subatv1.m3u'):
-                  print("subatv1.m3u bulunamadı. Yeni oluşturuluyor...")
-                  with open('subatv1.m3u', 'w', encoding='utf-8') as f:
+              if not os.path.exists('subatv.m3u'):
+                  print("subatv.m3u bulunamadı. Yeni oluşturuluyor...")
+                  with open('subatv.m3u', 'w', encoding='utf-8') as f:
                       f.write("#EXTM3U\n")
 
-              with open('subatv1.m3u', 'r', encoding='utf-8') as f:
+              with open('subatv.m3u', 'r', encoding='utf-8') as f:
                   satirlar = f.readlines()
 
               guncellenmis = []
@@ -155,10 +155,10 @@ jobs:
                           guncellenmis.append(satirlar[i])
                   i += 1
 
-              with open('subatv1.m3u', 'w', encoding='utf-8') as f:
+              with open('subatv.m3u', 'w', encoding='utf-8') as f:
                   f.writelines(guncellenmis)
 
-              print("✅ subatv1.m3u başarıyla güncellendi!")
+              print("✅ subatv.m3u başarıyla güncellendi!")
 
           if __name__ == "__main__":
               update_subatv_m3u()
@@ -170,6 +170,6 @@ jobs:
         run: |
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
-          git add yeni.m3u subatv1.m3u
+          git add yeni.m3u subatv.m3u
           git commit -m "🔄 M3U listeleri otomatik olarak güncellendi" || echo "⚠️ Değişiklik yok"
           git push https://${{ secrets.PAT }}@github.com/kerimmkirac/CanliTvListe.git
