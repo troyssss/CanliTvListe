@@ -1,0 +1,41 @@
+#EXTM3U
+
+# * » TRT « * #
+#EXTINF:-1 tvg-name="TRT 1" tvg-language="Turkish" tvg-country="TR" tvg-id="TRT_1" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/10660277.png" group-title="TRT",TRT 1
+https://tv-trt1.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-name="TRT 2" tvg-language="Turkish" tvg-country="TR" tvg-id="TRT_2" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/7027954.png" group-title="TRT",TRT 2
+https://tv-trt2.medya.trt.com.tr/master_720.m3u8
+
+#EXTINF:-1 tvg-id="2114" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/bc458b63-fe9e-40c2-b8a3-d56dc7189e0a.png" group-title="Spor ", beIN Sports Haber
+https://ottcdn.kablowebtv.net/live_turksat_sub3/beinsportshaber_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xNy8yMDI1IDY6MDg6NDYgQU0maGFzaF92YWx1ZT1UQ1BFNHI1T1BxKzdDVkFQMk8yZUF3PT0mdmFsaWRtaW51dGVzPTI4ODAmaWQ9MDkzZDcyMGEtNTAyYy00MWVkLWE4MGYtMmI4MTY5ODRmYjk1LDg5NzQxZmVjLTFkMzMtNGMwMC1hZmNkLTNmZGFmZTBiNmEyZCwxNTJiZDUzOS02MjIwLTQ0MjctYTkxNS1iZjRiZDA2OGQ3ZTgsYTY5OWI4M2YtODI2Yi00ZDk5LTkzNjEtYzhhMzEzMjE4ZDQ2LDAsOjpmZmZmOjEwLjAuMC4y
+
+# * » Haber « * #
+#EXTINF:-1 tvg-name="TRT Haber" tvg-language="Turkish" tvg-country="TR" tvg-id="Haber_TRT" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/8971102.png" group-title="Haber",TRT Haber
+https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
+
+#EXTINF:-1 tvg-name="Haber Türk" tvg-language="Turkish" tvg-country="TR" tvg-id="Haber_HaberTurk" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/5dc2bf0c866ac331e0feb216" group-title="Haber",Haber Türk
+https://ciner.daioncdn.net/haberturktv/haberturktv.m3u8?app=c98ab0b0-50cc-495b-bb37-778e91f5ff5b&ce=3
+
+#EXTINF:-1 tvg-name="CNN Türk" tvg-language="Turkish" tvg-country="TR" tvg-id="Haber_CNNTurk" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/61236013866ac319e8143500" group-title="Haber",CNN Türk
+http://apc.workrdc2.xyz:80/mehmetkemaliclik84k3/gfZaS6hDu58T/102436
+
+# * » Ulusal « * #
+#EXTINF:-1 tvg-name="ATV" tvg-language="Turkish" tvg-country="TR" tvg-id="Ulusal_ATV" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/5c3f2ec5866ac30fa0702c53" group-title="Ulusal",ATV
+http://stream.tvcdn.net/ulusal/atv.m3u8
+
+#EXTINF:-1 tvg-name="Show TV" tvg-language="Turkish" tvg-country="TR" tvg-id="Ulusal_ShowTV" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/5c3f2ec5866ac30fa0702c55" group-title="Ulusal",Show TV
+https://ciner-live.daioncdn.net/showtv/showtv.m3u8
+
+#EXTINF:-1 tvg-name="Kanal D" tvg-language="Turkish" tvg-country="TR" tvg-id="Ulusal_KanalD" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/5c3f2ec5866ac30fa0702c57" group-title="Ulusal",Kanal D
+https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
+
+#EXTINF:-1 tvg-name="Star TV" tvg-language="Turkish" tvg-country="TR" tvg-id="Ulusal_StarTV" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/5c3f2ec5866ac30fa0702c59" group-title="Ulusal",Star TV
+https://dogus-live.daioncdn.net/startv/startv.m3u8
+
+#EXTINF:-1 tvg-name="TV8" tvg-language="Turkish" tvg-country="TR" tvg-id="Ulusal_TV8" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/5c3f2ec5866ac30fa0702c5b" group-title="Ulusal",TV8
+http://stream.tvcdn.net/ulusal/tv8.m3u8
+
+# * » Belgesel « * #
+#EXTINF:-1 tvg-name="TRT Belgesel" tvg-language="Turkish" tvg-country="TR" tvg-id="Belgesel_TRTBelgesel" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/7027783.png" group-title="Belgesel",TRT Belgesel
+https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
