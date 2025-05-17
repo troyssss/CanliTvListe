@@ -135,9 +135,8 @@ https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/playlist.m3u8
 
 # * » Sinema « * #
 
-#EXTINF:-1 tvg-name="FX Kanalı" tvg-id="" tvg-logo="https://c.prectv47.lol/uploads/cache/channel_thumb/uploads/jpg/8fd173c2cc744c90bc96ba5627b0d816.jpg" group-title="RecTV @tabiptv",FX Kanalı
-#EXTVLCOPT:http-user-agent=okhttp/4.12.0
-https://saran-live.ercdn.net/fx/index.m3u8
+#EXTINF:-1 tvg-name="FX" tvg-id="3602" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/01053a55-0936-405c-8017-d33ef351706f.png" group-title="Sinema ve Dizi",FX
+https://ottcdn.kablowebtv.net/live_turksat_sub/fx_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xNy8yMDI1IDY6MDg6NDYgQU0maGFzaF92YWx1ZT1UQ1BFNHI1T1BxKzdDVkFQMk8yZUF3PT0mdmFsaWRtaW51dGVzPTI4ODAmaWQ9MDkzZDcyMGEtNTAyYy00MWVkLWE4MGYtMmI4MTY5ODRmYjk1LDg5NzQxZmVjLTFkMzMtNGMwMC1hZmNkLTNmZGFmZTBiNmEyZCwxNTJiZDUzOS02MjIwLTQ0MjctYTkxNS1iZjRiZDA2OGQ3ZTgsYTY5OWI4M2YtODI2Yi00ZDk5LTkzNjEtYzhhMzEzMjE4ZDQ2LDAsOjpmZmZmOjEwLjAuMC4y
 
 #EXTINF:-1 tvg-name="Sinema Tv" tvg-id="1908" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/22c5fe05-d70b-4c68-98fb-03bae4870e81.png" group-title="Sinema ve Dizi",Sinema Tv
 https://ottcdn.kablowebtv.net/live_turksat_sub3/sinematv_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xNy8yMDI1IDY6MDg6NDYgQU0maGFzaF92YWx1ZT1UQ1BFNHI1T1BxKzdDVkFQMk8yZUF3PT0mdmFsaWRtaW51dGVzPTI4ODAmaWQ9MDkzZDcyMGEtNTAyYy00MWVkLWE4MGYtMmI4MTY5ODRmYjk1LDg5NzQxZmVjLTFkMzMtNGMwMC1hZmNkLTNmZGFmZTBiNmEyZCwxNTJiZDUzOS02MjIwLTQ0MjctYTkxNS1iZjRiZDA2OGQ3ZTgsYTY5OWI4M2YtODI2Yi00ZDk5LTkzNjEtYzhhMzEzMjE4ZDQ2LDAsOjpmZmZmOjEwLjAuMC4y
@@ -281,10 +280,10 @@ https://ottcdn.kablowebtv.net/live_turksat_sub3/ulusalkanal_stream/index.m3u8?wm
 #EXTINF:-1 tvg-name="GZT TV" tvg-language="Turkish" tvg-country="TR" tvg-id="Genel_GZTTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/GZT_logo.svg/694px-GZT_logo.svg.png" group-title="Genel",GZT TV
 https://mn-nl.mncdn.com/gzttv/gzttv/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Lalegül TV" tvg-language="Turkish" tvg-country="TR" tvg-id="Genel_LalegulTV" tvg-logo="https://pbs.twimg.com/profile_images/1310471094344781824/mHv5RJn5_400x400.png" group-title="Genel",Lalegül TV
+#EXTINF:-1 tvg-name="Lalegül TV" tvg-language="Turkish" tvg-country="TR" tvg-id="Genel_LalegulTV" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/8322c403-9f7c-4b5a-aef1-7c65e56ee8a6.png" group-title="Genel",Lalegül TV
 https://lbl.netmedya.net/hls/lalegultv.m3u8
 
-#EXTINF:-1 tvg-name="Kanal 7" tvg-language="Turkish" tvg-country="TR" tvg-id="Genel_Kanal7" tvg-logo="https://pbs.twimg.com/profile_images/1237020778450817025/A5oEtr15_400x400.png" group-title="Genel",Kanal 7
+#EXTINF:-1 tvg-name="Kanal 7" tvg-language="Turkish" tvg-country="TR" tvg-id="Genel_Kanal7" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/f218c717-723e-49e3-a3f0-428979d2fa3e.png" group-title="Genel",Kanal 7
 https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
 
 #EXTINF:-1 tvg-name="Life TV" tvg-language="Turkish" tvg-country="TR" tvg-id="Genel_LifeTV" tvg-logo="https://i.imgur.com/lWeJxm0.png" group-title="Genel",Life TV
@@ -315,19 +314,19 @@ https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr
 
 
 # * » Spor « * #
-#EXTINF:-1 tvg-name="TRT Spor" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_TRT" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/13687983.png" group-title="Spor",TRT Spor
+#EXTINF:-1 tvg-name="TRT Spor" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_TRT" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/46319886-6c97-4640-8d63-8e4b11511c74.png" group-title="Spor",TRT Spor
 https://tv-trtspor1.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-name="TRT Spor Yıldız" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_SporYildiz" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/11290418.png" group-title="Spor",TRT Spor Yıldız
+#EXTINF:-1 tvg-name="TRT Spor Yıldız" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_SporYildiz" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/02ef58a4-349a-49a6-8df2-82fb71c6554d.png" group-title="Spor",TRT Spor Yıldız
 https://tv-trtspor2.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-name="A Spor" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_ASPOR" tvg-logo="https://img.piri.net/resim/imagecrop/2017/02/04/10/40/resized_c1339-1837a183aspor.jpg" group-title="Spor",A Spor
+#EXTINF:-1 tvg-name="A Spor" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_ASPOR" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/9d28401f-2d4e-4862-85e2-69773f6f45f4.png" group-title="Spor",A Spor
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
 #EXTINF:-1 tvg-name="Sports TV" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_SportsTV" tvg-logo="http://assets.tvcdn.net/96bc5554-741b-4e91-8b4f-7b3bcc1e4c1d.png" group-title="Spor",Sports TV
 https://live.sportstv.com.tr/hls/low/sportstv.m3u8
 # ? http://stream.tvcdn.net/spor/sports-tv.m3u8/
 
-#EXTINF:-1 tvg-name="HT Spor " tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_Ht_Spor" tvg-logo="https://www.htspor.com/images/manifest/social-share-logo.png" group-title="Spor",Ht spor
+#EXTINF:-1 tvg-name="HT Spor " tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_Ht_Spor" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/213d42ff-51ba-4591-ae43-a35779496d93.png" group-title="Spor",Ht spor
 https://ciner-live.daioncdn.net/ht-spor/ht-spor_1080p.m3u8
 
 #EXTINF:-1 tvg-name="beIN Sports Haber" tvg-id="2114" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/bc458b63-fe9e-40c2-b8a3-d56dc7189e0a.png" group-title="Spor",beIN Sports Haber
@@ -353,14 +352,14 @@ https://ottcdn.kablowebtv.net/live_turksat_sub3/nbatv_stream/index.m3u8?wmsAuthS
 https://tv1.arectv30.sbs/live/fight.m3u8
 
 
-#EXTINF:-1 tvg-name="Euro Sport 1 A" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_EuroSportA" tvg-logo="https://w7.pngwing.com/pngs/350/883/png-transparent-eurosport-1-eurosport-2-television-channel-1-euro-television-blue-angle.png" group-title="Spor",Euro Sport 1 B
+#EXTINF:-1 tvg-name="Euro Sport 1 A" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_EuroSportA" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/54cad412-5f3a-4184-b5fc-d567a5de7160.png" group-title="Spor",Euro Sport 1 B
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 https://subatvdeneme.kerimmkirac.workers.dev/?url=https://tv1.arectv30.sbs/live/euro1.m3u8&referer=https%3A%2F%2Ftaraftarium.co%2F&proxy=evet&useragent=okhttp%2F4.12.0
 
 #EXTINF:-1 tvg-name="Eurosport 1 B" tvg-id="2002" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/54cad412-5f3a-4184-b5fc-d567a5de7160.png" group-title="Spor",Eurosport 1 B
 https://ottcdn.kablowebtv.net/live_turksat_sub3/eurosport1hd_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xNy8yMDI1IDY6MDg6NDYgQU0maGFzaF92YWx1ZT1UQ1BFNHI1T1BxKzdDVkFQMk8yZUF3PT0mdmFsaWRtaW51dGVzPTI4ODAmaWQ9MDkzZDcyMGEtNTAyYy00MWVkLWE4MGYtMmI4MTY5ODRmYjk1LDg5NzQxZmVjLTFkMzMtNGMwMC1hZmNkLTNmZGFmZTBiNmEyZCwxNTJiZDUzOS02MjIwLTQ0MjctYTkxNS1iZjRiZDA2OGQ3ZTgsYTY5OWI4M2YtODI2Yi00ZDk5LTkzNjEtYzhhMzEzMjE4ZDQ2LDAsOjpmZmZmOjEwLjAuMC4y
 
-#EXTINF:-1 tvg-name="Euro Sport 2 A" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_EuroSport2A" tvg-logo="https://w7.pngwing.com/pngs/327/493/png-transparent-eurosport-1-television-channel-logo-eurosport-2-others-miscellaneous-television-text.png" group-title="Spor",Euro Sport 2
+#EXTINF:-1 tvg-name="Euro Sport 2 A" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_EuroSport2A" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/a4cbdd15-1509-408f-a108-65b8f88f2066.png" group-title="Spor",Euro Sport 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 https://subatvdeneme.kerimmkirac.workers.dev/?url=https://tv1.arectv30.sbs/live/euro2.m3u8&referer=https%3A%2F%2Ftaraftarium.co%2F&proxy=evet&useragent=okhttp%2F4.12.0
 
