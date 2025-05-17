@@ -93,6 +93,10 @@ jobs:
           MANUEL_ID_LISTESI = {
               "2114": None,
               "3002": None,
+              "1810": None,
+              "2002": None,
+              "1809": None,
+              "3901": None,
               "1908": None,
               "3304": None,
               "1911": None,
