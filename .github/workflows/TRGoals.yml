@@ -9,7 +9,7 @@ concurrency:
 on:
   workflow_dispatch:  # Manuel tetikleme için
   schedule:
-    - cron: '*/10 * * * *'  # Her 10 dakikada bir çalışır
+    - cron: '*/5 * * * *'  # Her 10 dakikada bir çalışır
          # Her saat başı çalışır (M3U güncellemesi için)
 
 jobs:
