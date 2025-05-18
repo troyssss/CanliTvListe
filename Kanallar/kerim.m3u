@@ -179,9 +179,7 @@ https://tv1.arectv30.sbs/live/sinemaaksiyon.m3u8
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 https://tv1.arectv30.sbs/live/sinemakomedi.m3u8
 
-#EXTINF:-1 tvg-name="Sinema TV Yerli" tvg-id="" tvg-logo="https://c.prectv47.lol/uploads/cache/channel_thumb/uploads/png/aefea49a94d29d26305b35ffd21ca4e7.png" group-title="Sinema",Sinema TV Yerli
-#EXTVLCOPT:http-user-agent=okhttp/4.12.0
-https://tv1.arectv30.sbs/live/sinemayerli.m3u8
+
 
 
 #EXTINF:-1 tvg-name="Sinema TV Aile" tvg-id="" tvg-logo="https://c.prectv47.lol/uploads/cache/channel_thumb/uploads/png/5959572ddb15da121258c8eaa756f7c9.png" group-title="Sinema",Sinema TV Aile
