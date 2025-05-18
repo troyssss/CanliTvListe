@@ -7,10 +7,9 @@ concurrency:
   cancel-in-progress: true
 
 on:
-  workflow_dispatch:  # Manuel tetikleme için
+  workflow_dispatch:
   schedule:
-    - cron: '*/5 * * * *'  # Her 10 dakikada bir çalışır
-         # Her saat başı çalışır (M3U güncellemesi için)
+    - cron: '*/10 * * * *'  # Her 10 dakikada bir çalışır
 
 jobs:
   DomainKontrol:
@@ -37,12 +36,10 @@ jobs:
           pip install -U setuptools wheel Kekik httpx parsel
 
       - name: TRGoals.py Çalıştır
-        run: |
-          python TRGoals.py
+        run: python TRGoals.py
 
       - name: MonoTV.py Çalıştır
-        run: |
-          python MonoTV.py
+        run: python MonoTV.py
 
       - name: Değişiklik Kontrolü
         id: degisiklik_kontrol
@@ -82,11 +79,12 @@ jobs:
         run: |
           curl -s "https://sakultah.dev.tc/playlist1.m3u" > yeni.m3u
           python update_m3u.py
+          python kerim.py
 
       - name: Değişiklikleri Commit ve Push
         run: |
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
-          git add yeni.m3u subatv.m3u
+          git add yeni.m3u subatv.m3u Kanallar/kerim.m3u
           git commit -m "🔄 M3U listeleri otomatik olarak güncellendi" || echo "⚠️ Değişiklik yok"
           git push https://${{ secrets.PAT }}@github.com/kerimmkirac/CanliTvListe.git
