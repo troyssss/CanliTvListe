@@ -161,9 +161,7 @@ https://ottcdn.kablowebtv.net/live_turksat_sub3/sinemaaksiyon_stream/index.m3u8?
 https://subatvdeneme.kerimmkirac.workers.dev/?url=https://tv1.arectv30.sbs/live/mvturk.m3u8&referer=https%3A%2F%2Ftaraftarium.co%2F&proxy=evet&useragent=okhttp%2F4.12.0
 
 
-#EXTINF:-1 tvg-name="Cinebox Korku" tvg-id="" tvg-logo="https://c.prectv47.lol/uploads/cache/channel_thumb/uploads/png/40b261b65aeef4696661f2b497c55c89.png" group-title="RecTV @tabiptv",Cinebox Korku
-#EXTVLCOPT:http-user-agent=okhttp/4.12.0
-https://subatvdeneme.kerimmkirac.workers.dev/?url=https://tv1.arectv30.sbs/live/sinema.m3u8&referer=https%3A%2F%2Ftaraftarium.co%2F&proxy=evet&useragent=okhttp%2F4.12.0
+
 
 #EXTINF:-1 tvg-name="Türk Sinema TV" tvg-id="" tvg-logo="https://c.prectv47.lol/uploads/cache/channel_thumb/uploads/png/389d982cb693a94e1c6aae2ee5e34594.png" group-title="RecTV @tabiptv",Türk Sinema TV
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
@@ -343,9 +341,7 @@ https://ottcdn.kablowebtv.net/live_turksat_sub3/nbatv_stream/index.m3u8?wmsAuthS
 
 
 
-#EXTINF:-1 tvg-name="FightBox" tvg-id="" tvg-logo="https://icdn.cda.pl/tv/oryginalne/light_279.png" group-title="RecTV @tabiptv",FightBox
-#EXTVLCOPT:http-user-agent=okhttp/4.12.0
-https://tv1.arectv30.sbs/live/fight.m3u8
+
 
 
 #EXTINF:-1 tvg-name="Euro Sport 1 A" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_EuroSportA" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/54cad412-5f3a-4184-b5fc-d567a5de7160.png" group-title="Spor",Euro Sport 1 B
