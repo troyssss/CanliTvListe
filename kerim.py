@@ -25,6 +25,7 @@ KANAL_ADLARI = {
     "LangLab": "3802",
     "LingoToons": "3803",
     "TinyTeen": "3801",
+    "Kanal D": "3131",
     "Trt Eba TV": "1616",
     "Cnbc-e": "2003",
     "Ulusal Kanal": "2310",
