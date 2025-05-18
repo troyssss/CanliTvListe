@@ -1,3 +1,5 @@
+
+
 import re
 import os
 
@@ -36,6 +38,7 @@ MANUEL_ID_LISTESI = {
     "3901": None
 }
 
+
 def parse_m3u(file_path):
     kanallar = {}
     mevcut_id = None
@@ -52,13 +55,15 @@ def parse_m3u(file_path):
     return kanallar
 
 
-def update_m3u_file(dosya_adi, yeni_kanallar):
-    if not os.path.exists(dosya_adi):
-        print(f"{dosya_adi} bulunamadı. Yeni oluşturuluyor...")
-        with open(dosya_adi, 'w', encoding='utf-8') as f:
+def update_subatv_m3u():
+    yeni_kanallar = parse_m3u('yeni.m3u')
+
+    if not os.path.exists('subatv.m3u'):
+        print("subatv.m3u bulunamadı. Yeni oluşturuluyor...")
+        with open('subatv.m3u', 'w', encoding='utf-8') as f:
             f.write("#EXTM3U\n")
 
-    with open(dosya_adi, 'r', encoding='utf-8') as f:
+    with open('subatv.m3u', 'r', encoding='utf-8') as f:
         satirlar = f.readlines()
 
     guncellenmis = []
@@ -77,7 +82,7 @@ def update_m3u_file(dosya_adi, yeni_kanallar):
 
                 i += 1
                 if yeni_url and eski_url != yeni_url:
-                    print(f"🔁 {kanal_id} güncellendi ({dosya_adi}).")
+                    print(f"🔁 {kanal_id} güncellendi.")
                     guncellenmis.append(yeni_url + '\n')
                 else:
                     guncellenmis.append(satirlar[i])
@@ -86,17 +91,11 @@ def update_m3u_file(dosya_adi, yeni_kanallar):
                 guncellenmis.append(satirlar[i])
         i += 1
 
-    with open(dosya_adi, 'w', encoding='utf-8') as f:
+    with open('subatv.m3u', 'w', encoding='utf-8') as f:
         f.writelines(guncellenmis)
 
-    print(f"✅ {dosya_adi} başarıyla güncellendi!")
-
-
-def update_all_m3u():
-    yeni_kanallar = parse_m3u('yeni.m3u')
-    update_m3u_file('subatv.m3u', yeni_kanallar)
-    update_m3u_file('Kanallar/kerim.m3u', yeni_kanallar)
+    print("✅ subatv.m3u başarıyla güncellendi!")
 
 
 if __name__ == "__main__":
-    update_all_m3u()  
+    update_subatv_m3u()
