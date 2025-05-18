@@ -2,7 +2,7 @@ import re
 import os
 
 KANAL_ADLARI = {
-    "Sözcü Tv": "3002",
+    "Szc Tv": "3002",
     "Sinema Tv": "1908",
     "Now": "2213",
     "Sinema Yerli": "3304",
@@ -30,10 +30,10 @@ KANAL_ADLARI = {
     "Ulusal Kanal": "2310",
     "beIN Sports Haber": "2114",
     "Nba Tv": "3903",
-    "Eurosport 1 B": "2002",
-    "Eurosport 2 B": "1809",
-    "S SPORT 1 | A": "1810",
-    "S SPORT 2 | A": "3901"
+    "Eurosport1": "2002",
+    "Eurosport2": "1809",
+    "ssport1": "1810",
+    "ssport2": "3901"
 }
 
 def parse_m3u(file_path):
