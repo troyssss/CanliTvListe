@@ -78,11 +78,7 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv_1080p.m3u8
 
 
 
-#EXTINF:-1 tvg-name="Cnbc-e" tvg-id="2003"  tvg-language="Turkish" tvg-country="TR" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/16752eb5-4001-4b31-860c-ab947ed2c86d.png" group-title="Haber",Cnbc-e
-https://ottcdn.kablowebtv.net/live_turksat_sub3/cnbce_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOC8yMDI1IDEwOjA5OjE1IEFNJmhhc2hfdmFsdWU9ZUFUSnBKRHBuK0YrU1dVaDJuTkZsQT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSw4OTc0MWZlYy0xZDMzLTRjMDAtYWZjZC0zZmRhZmUwYjZhMmQsMTUyYmQ1MzktNjIyMC00NDI3LWE5MTUtYmY0YmQwNjhkN2U4LGE2OTliODNmLTgyNmItNGQ5OS05MzYxLWM4YTMxMzIxOGQ0NiwwLDo6ZmZmZjoxMC4wLjAuNg==
 
-#EXTINF:-1 tvg-name="Ulusal Kanal" tvg-id="2310"  tvg-language="Turkish" tvg-country="TR" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/5f895c30-fa0a-4f74-b4b6-ee562fb27e26.png" group-title="Haber",Ulusal Kanal
-https://ottcdn.kablowebtv.net/live_turksat_sub3/ulusalkanal_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOC8yMDI1IDEwOjA5OjE1IEFNJmhhc2hfdmFsdWU9ZUFUSnBKRHBuK0YrU1dVaDJuTkZsQT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSw4OTc0MWZlYy0xZDMzLTRjMDAtYWZjZC0zZmRhZmUwYjZhMmQsMTUyYmQ1MzktNjIyMC00NDI3LWE5MTUtYmY0YmQwNjhkN2U4LGE2OTliODNmLTgyNmItNGQ5OS05MzYxLWM4YTMxMzIxOGQ0NiwwLDo6ZmZmZjoxMC4wLjAuNg==
 
 
 
@@ -125,6 +121,12 @@ https://ekoltv-live.ercdn.net/ekoltv/ekoltv_1080p.m3u8
 #EXTINF:-1 tvg-name="A Haber" tvg-language="Turkish" tvg-country="TR" tvg-id="Haber_AHaber" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/1c207549-826b-4c8e-8dd3-bbd488258430.png" group-title="Haber",A Haber
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 https://tv1.arectv30.sbs/live/ahaber.m3u8
+
+#EXTINF:-1 tvg-name="Cnbc-e" tvg-id="2003"  tvg-language="Turkish" tvg-country="TR" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/16752eb5-4001-4b31-860c-ab947ed2c86d.png" group-title="Haber",Cnbc-e
+https://ottcdn.kablowebtv.net/live_turksat_sub3/cnbce_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOC8yMDI1IDEwOjA5OjE1IEFNJmhhc2hfdmFsdWU9ZUFUSnBKRHBuK0YrU1dVaDJuTkZsQT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSw4OTc0MWZlYy0xZDMzLTRjMDAtYWZjZC0zZmRhZmUwYjZhMmQsMTUyYmQ1MzktNjIyMC00NDI3LWE5MTUtYmY0YmQwNjhkN2U4LGE2OTliODNmLTgyNmItNGQ5OS05MzYxLWM4YTMxMzIxOGQ0NiwwLDo6ZmZmZjoxMC4wLjAuNg==
+
+#EXTINF:-1 tvg-name="Ulusal Kanal" tvg-id="2310"  tvg-language="Turkish" tvg-country="TR" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/5f895c30-fa0a-4f74-b4b6-ee562fb27e26.png" group-title="Haber",Ulusal Kanal
+https://ottcdn.kablowebtv.net/live_turksat_sub3/ulusalkanal_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOC8yMDI1IDEwOjA5OjE1IEFNJmhhc2hfdmFsdWU9ZUFUSnBKRHBuK0YrU1dVaDJuTkZsQT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSw4OTc0MWZlYy0xZDMzLTRjMDAtYWZjZC0zZmRhZmUwYjZhMmQsMTUyYmQ1MzktNjIyMC00NDI3LWE5MTUtYmY0YmQwNjhkN2U4LGE2OTliODNmLTgyNmItNGQ5OS05MzYxLWM4YTMxMzIxOGQ0NiwwLDo6ZmZmZjoxMC4wLjAuNg==
 
 
 #EXTINF:-1 tvg-name="Haber Global" tvg-language="Turkish" tvg-country="TR" tvg-id="Haber_HaberGlobal" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/ecb65a51-f5ad-440f-9c21-a4db8cbc9398.png" group-title="Haber",Haber Global
