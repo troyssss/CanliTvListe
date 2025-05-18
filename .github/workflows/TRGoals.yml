@@ -80,7 +80,7 @@ jobs:
 
       - name: M3U Listesini İndir ve Güncelle
         run: |
-          curl -s "https://sakultah.org/playlist1.m3u" > yeni.m3u
+          curl -s "https://sakultah.dev.tc/playlist1.m3u" > yeni.m3u
           python update_m3u.py
 
       - name: Değişiklikleri Commit ve Push
