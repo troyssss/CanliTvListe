@@ -29,7 +29,7 @@ https://tv-trthaber.medya.trt.com.tr/master.m3u8
 https://ciner-live.daioncdn.net/haberturktv/haberturktv.m3u8
 
 #EXTINF:-1 tvg-name="CNN Türk" tvg-language="Turkish" tvg-country="TR" tvg-id="Haber_CNNTurk" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/3686a1f5-9c4d-401f-9c7b-031ca66454a0.png" group-title="Haber",CNN Türk
-https://e0.4928d54d950ee70q5.lat/?url=https://tv1.arectv30.sbs/live/cnnturk.m3u8&referer=https%3A%2F%2Ftaraftarium.co%2F&proxy=evet&useragent=okhttp%2F4.12.0
+https://subatvdeneme.kerimmkirac.workers.dev/?url=https://tv1.arectv30.sbs/live/cnnturk.m3u8&referer=https%3A%2F%2Ftaraftarium.co%2F&proxy=evet&useragent=okhttp%2F4.12.0
 
 #EXTINF:-1 tvg-name="NTV" tvg-language="Turkish" tvg-country="TR" tvg-id="Haber_NTV" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/344f452e-fa44-4f00-8005-1b8898186888.png" group-title="Haber",NTV
 https://dogus-live.daioncdn.net/ntv/ntv.m3u8
@@ -38,7 +38,7 @@ https://dogus-live.daioncdn.net/ntv/ntv.m3u8
 https://ekoltv-live.ercdn.net/ekoltv/ekoltv_1080p.m3u8
 
 #EXTINF:-1 tvg-name="A Haber" tvg-language="Turkish" tvg-country="TR" tvg-id="Haber_AHaber" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/1c207549-826b-4c8e-8dd3-bbd488258430.png" group-title="Haber",A Haber
-https://e0.4928d54d950ee70q5.lat/?url=https://tv1.arectv30.sbs/live/ahaber.m3u8&referer=https%3A%2F%2Ftaraftarium.co%2F&proxy=evet&useragent=okhttp%2F4.12.0
+https://subatvdeneme.kerimmkirac.workers.dev/?url=https://tv1.arectv30.sbs/live/ahaber.m3u8&referer=https%3A%2F%2Ftaraftarium.co%2F&proxy=evet&useragent=okhttp%2F4.12.0
 
 
 #EXTINF:-1 tvg-name="Haber Global" tvg-language="Turkish" tvg-country="TR" tvg-id="Haber_HaberGlobal" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/ecb65a51-f5ad-440f-9c21-a4db8cbc9398.png" group-title="Haber",Haber Global
@@ -59,7 +59,7 @@ https://tele1-live.ercdn.net/tele1/tele1.m3u8
 https://tgrthaber-live.daioncdn.net/tgrthaber/tgrthaber.m3u8
 
 
-#EXTINF:-1 tvg-name="Szc Tv" tvg-id="3002" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/2fdd6eb0-bd9e-44ef-ad0e-7f2c4cf3a8a7.png" group-title="Ulusal Haber",Szc Tv
+#EXTINF:-1 tvg-name="Szc Tv" tvg-id="3002" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/2fdd6eb0-bd9e-44ef-ad0e-7f2c4cf3a8a7.png" group-title="Haber",Szc Tv
 https://ottcdn.kablowebtv.net/live_turksat_sub3/szctv_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOC8yMDI1IDY6NDk6MTggQU0maGFzaF92YWx1ZT1od0dVcjdOcUo1bm0xaFI0TzBaMHFRPT0mdmFsaWRtaW51dGVzPTI4ODAmaWQ9MDkzZDcyMGEtNTAyYy00MWVkLWE4MGYtMmI4MTY5ODRmYjk1LDg5NzQxZmVjLTFkMzMtNGMwMC1hZmNkLTNmZGFmZTBiNmEyZCwxNTJiZDUzOS02MjIwLTQ0MjctYTkxNS1iZjRiZDA2OGQ3ZTgsYTY5OWI4M2YtODI2Yi00ZDk5LTkzNjEtYzhhMzEzMjE4ZDQ2LDAsOjpmZmZmOjEwLjAuMC4y
 
 
@@ -95,69 +95,99 @@ https://dogus-live.daioncdn.net/dmax/dmax.m3u8
 #EXTINF:-1 tvg-name="National Geographic" tvg-language="Turkish" tvg-country="TR" tvg-id="Belgesel_Nationalgeo" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/38a2e51a-9f7f-4915-aa88-f78190f59411.png" group-title="Belgesel",National Geographic
 https://saran-live.ercdn.net/natgeohd/index.m3u8
 
-#EXTINF:-1 tvg-name="NATIONAL GEO WILD" tvg-id="" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/c8dd414e-ebaa-487e-bdd3-9794848eeb75.png" group-title="RecTV @tabiptv",NATIONAL GEO WILD
+#EXTINF:-1 tvg-name="NATIONAL GEO WILD" tvg-id="" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/c8dd414e-ebaa-487e-bdd3-9794848eeb75.png" group-title="Sinema",NATIONAL GEO WILD
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 https://saran-live.ercdn.net/natgeowild/index.m3u8
 
-#EXTINF:-1 tvg-name="HISTORY CHANNEL" tvg-id="" tvg-logo="https://a.prectv46.lol/uploads/cache/channel_thumb/uploads/png/77f52eb67864c8f809626fa5c7d1bae6.png" group-title="RecTV @tabiptv",HISTORY CHANNEL
+#EXTINF:-1 tvg-name="HISTORY CHANNEL" tvg-id="" tvg-logo="https://nhd.org/wp-content/uploads/2022/11/Copy-of-Copy-of-39673730_History_Logo_2015_RGB_Black_type-1.png" group-title="Sinema",HISTORY CHANNEL
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
-https://tv1.arectv30.sbs/live/history.m3u8
+https://subatvdeneme.kerimmkirac.workers.dev/?url=https://tv1.arectv30.sbs/live/history.m3u8&referer=https%3A%2F%2Ftaraftarium.co%2F&proxy=evet&useragent=okhttp%2F4.12.0
 
 
 
 
 
-#EXTINF:-1 tvg-name="TARİH TV" tvg-id="" tvg-logo="https://a.prectv46.lol/uploads/cache/channel_thumb/uploads/png/b61d518744b390174e6f672d7171107d.png" group-title="RecTV @tabiptv",TARİH TV
+#EXTINF:-1 tvg-name="TARİH TV" tvg-id="" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/1da9e4ec-4e08-4bc9-bf29-5060d63bca07.png" group-title="Belgesel",TARİH TV
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
-https://tv1.arectv30.sbs/live/tarihtv.m3u8
+https://subatvdeneme.kerimmkirac.workers.dev/?url=https://tv1.arectv30.sbs/live/tarihtv.m3u8&referer=https%3A%2F%2Ftaraftarium.co%2F&proxy=evet&useragent=okhttp%2F4.12.0
 
-#EXTINF:-1 tvg-name="Docubox" tvg-id="" tvg-logo="https://a.prectv46.lol/uploads/cache/channel_thumb/uploads/png/d90ba2bcb80b997800fbe4824f1d71c6.png" group-title="RecTV @tabiptv",Docubox
+#EXTINF:-1 tvg-name="Docubox" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/DocuBox_HD_logo.png" group-title="Sinema",Docubox
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
-https://tv1.arectv30.sbs/live/docubox.m3u8
+https://subatvdeneme.kerimmkirac.workers.dev/?url=https://tv1.arectv30.sbs/live/docubox.m3u8&referer=https%3A%2F%2Ftaraftarium.co%2F&proxy=evet&useragent=okhttp%2F4.12.0
 
-#EXTINF:-1 tvg-name="DISCOVERY CHANNEL" tvg-id="" tvg-logo="https://a.prectv46.lol/uploads/cache/channel_thumb/uploads/png/45a6752ed9a833b4d0303885092b8f54.png" group-title="RecTV @tabiptv",DISCOVERY CHANNEL
+#EXTINF:-1 tvg-name="DISCOVERY CHANNEL" tvg-id="" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/aaac1290-6d58-4036-b106-a7026a4c1bfc.png" group-title="Belgesel",DISCOVERY CHANNEL
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
-https://tv1.arectv30.sbs/live/discovery.m3u8
+https://subatvdeneme.kerimmkirac.workers.dev/?url=https://tv1.arectv30.sbs/live/discovery.m3u8&referer=https%3A%2F%2Ftaraftarium.co%2F&proxy=evet&useragent=okhttp%2F4.12.0
 
 
-#EXTINF:-1 tvg-name="DISCOVERY SCIENCE" tvg-id="" tvg-logo="https://a.prectv46.lol/uploads/cache/channel_thumb/uploads/png/a83bf94e67fe34718d644ed9da8ca82d.png" group-title="RecTV @tabiptv",DISCOVERY SCIENCE
+#EXTINF:-1 tvg-name="DISCOVERY SCIENCE" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/1200px-Discovery_Science_2017_Logo.svg.png" group-title="Belgesel",DISCOVERY SCIENCE
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
-https://tv1.arectv30.sbs/live/discs.m3u8
+https://subatvdeneme.kerimmkirac.workers.dev/?url=https://tv1.arectv30.sbs/live/discs.m3u8&referer=https%3A%2F%2Ftaraftarium.co%2F&proxy=evet&useragent=okhttp%2F4.12.0
 
 
 #EXTINF:-1 tvg-name="TGRT Belgesel" tvg-language="Turkish" tvg-country="TR" tvg-id="Belgesel_TGRT" tvg-logo="https://www.tgrtbelgesel.com.tr/wp-content/uploads/2021/08/TGRT_Belgesel_Logo.png" group-title="Belgesel",TGRT Belgesel
 https://tgrt-live.ercdn.net/tgrtbelgesel/tgrtbelgesel.m3u8
 
-#EXTINF:-1 tvg-name="Çiftçi TV" tvg-language="Turkish" tvg-country="TR" tvg-id="Belgesel_CiftciTV" tvg-logo="https://asset.artidijitalmedya.com/image/400x400/channels/v1/logo_25.png?v=11" group-title="Belgesel",Çiftçi TV
+#EXTINF:-1 tvg-name="Çiftçi TV" tvg-language="Turkish" tvg-country="TR" tvg-id="Belgesel_CiftciTV" tvg-logo="https://yt3.googleusercontent.com/ZHXZQwHOxuL-p_s8OFYYa-iykr9CeqOxIzcPt33cKCwC1UwMi7BdFByN2Ftlyv5F60db7iUk=s900-c-k-c0x00ffffff-no-rj" group-title="Belgesel",Çiftçi TV
 https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/playlist.m3u8
 
 
 # * » Sinema « * #
 
-#EXTINF:-1 tvg-name="FX" tvg-id="3602" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/01053a55-0936-405c-8017-d33ef351706f.png" group-title="Sinema ve Dizi",FX
+#EXTINF:-1 tvg-name="FX" tvg-id="3602" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/01053a55-0936-405c-8017-d33ef351706f.png" group-title="Sinema",FX
 https://ottcdn.kablowebtv.net/live_turksat_sub/fx_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xNy8yMDI1IDY6MDg6NDYgQU0maGFzaF92YWx1ZT1UQ1BFNHI1T1BxKzdDVkFQMk8yZUF3PT0mdmFsaWRtaW51dGVzPTI4ODAmaWQ9MDkzZDcyMGEtNTAyYy00MWVkLWE4MGYtMmI4MTY5ODRmYjk1LDg5NzQxZmVjLTFkMzMtNGMwMC1hZmNkLTNmZGFmZTBiNmEyZCwxNTJiZDUzOS02MjIwLTQ0MjctYTkxNS1iZjRiZDA2OGQ3ZTgsYTY5OWI4M2YtODI2Yi00ZDk5LTkzNjEtYzhhMzEzMjE4ZDQ2LDAsOjpmZmZmOjEwLjAuMC4y
 
-#EXTINF:-1 tvg-name="Moviesmart Turk" tvg-id="" tvg-logo="https://a.prectv46.lol/uploads/cache/channel_thumb/uploads/jpg/771bc3c19a6cfa2187001771d74ba63c.jpg" group-title="RecTV @tabiptv",Moviesmart Turk
+#EXTINF:-1 tvg-name="Sinema Tv" tvg-id="1908" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/22c5fe05-d70b-4c68-98fb-03bae4870e81.png" group-title="Sinema",Sinema Tv
+https://ottcdn.kablowebtv.net/live_turksat_sub3/sinematv_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOC8yMDI1IDY6NDk6MTggQU0maGFzaF92YWx1ZT1od0dVcjdOcUo1bm0xaFI0TzBaMHFRPT0mdmFsaWRtaW51dGVzPTI4ODAmaWQ9MDkzZDcyMGEtNTAyYy00MWVkLWE4MGYtMmI4MTY5ODRmYjk1LDg5NzQxZmVjLTFkMzMtNGMwMC1hZmNkLTNmZGFmZTBiNmEyZCwxNTJiZDUzOS02MjIwLTQ0MjctYTkxNS1iZjRiZDA2OGQ3ZTgsYTY5OWI4M2YtODI2Yi00ZDk5LTkzNjEtYzhhMzEzMjE4ZDQ2LDAsOjpmZmZmOjEwLjAuMC4y
+
+#EXTINF:-1 tvg-name="Sinema Yerli" tvg-id="3304" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/ae3d90a0-37ee-4e48-a6bc-1375e5f1329a.png" group-title="Sinema",Sinema Yerli
+https://ottcdn.kablowebtv.net/live_turksat_sub3/sinemayerli_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOC8yMDI1IDY6NDk6MTggQU0maGFzaF92YWx1ZT1od0dVcjdOcUo1bm0xaFI0TzBaMHFRPT0mdmFsaWRtaW51dGVzPTI4ODAmaWQ9MDkzZDcyMGEtNTAyYy00MWVkLWE4MGYtMmI4MTY5ODRmYjk1LDg5NzQxZmVjLTFkMzMtNGMwMC1hZmNkLTNmZGFmZTBiNmEyZCwxNTJiZDUzOS02MjIwLTQ0MjctYTkxNS1iZjRiZDA2OGQ3ZTgsYTY5OWI4M2YtODI2Yi00ZDk5LTkzNjEtYzhhMzEzMjE4ZDQ2LDAsOjpmZmZmOjEwLjAuMC4y
+
+#EXTINF:-1 tvg-name="Sinema Aile" tvg-id="1911" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/c8283b71-81f8-4fc6-8e48-6bb8f7f49ad7.png" group-title="Sinema",Sinema Aile
+https://ottcdn.kablowebtv.net/live_turksat_sub3/sinemaaile_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOC8yMDI1IDY6NDk6MTggQU0maGFzaF92YWx1ZT1od0dVcjdOcUo1bm0xaFI0TzBaMHFRPT0mdmFsaWRtaW51dGVzPTI4ODAmaWQ9MDkzZDcyMGEtNTAyYy00MWVkLWE4MGYtMmI4MTY5ODRmYjk1LDg5NzQxZmVjLTFkMzMtNGMwMC1hZmNkLTNmZGFmZTBiNmEyZCwxNTJiZDUzOS02MjIwLTQ0MjctYTkxNS1iZjRiZDA2OGQ3ZTgsYTY5OWI4M2YtODI2Yi00ZDk5LTkzNjEtYzhhMzEzMjE4ZDQ2LDAsOjpmZmZmOjEwLjAuMC4y
+
+#EXTINF:-1 tvg-name="Sinema 1001" tvg-id="2602" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/8d9fbebd-cade-492d-9cb4-6522cb558794.png" group-title="Sinema",Sinema 1001
+https://ottcdn.kablowebtv.net/live_turksat_sub3/sinema1001_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOC8yMDI1IDY6NDk6MTggQU0maGFzaF92YWx1ZT1od0dVcjdOcUo1bm0xaFI0TzBaMHFRPT0mdmFsaWRtaW51dGVzPTI4ODAmaWQ9MDkzZDcyMGEtNTAyYy00MWVkLWE4MGYtMmI4MTY5ODRmYjk1LDg5NzQxZmVjLTFkMzMtNGMwMC1hZmNkLTNmZGFmZTBiNmEyZCwxNTJiZDUzOS02MjIwLTQ0MjctYTkxNS1iZjRiZDA2OGQ3ZTgsYTY5OWI4M2YtODI2Yi00ZDk5LTkzNjEtYzhhMzEzMjE4ZDQ2LDAsOjpmZmZmOjEwLjAuMC4y
+
+#EXTINF:-1 tvg-name="Sinema Komedi" tvg-id="1110" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/4145ea10-96ad-400d-8870-f22a075f4add.png" group-title="Sinema",Sinema Komedi
+https://ottcdn.kablowebtv.net/live_turksat_sub3/sinemakomedi_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOC8yMDI1IDY6NDk6MTggQU0maGFzaF92YWx1ZT1od0dVcjdOcUo1bm0xaFI0TzBaMHFRPT0mdmFsaWRtaW51dGVzPTI4ODAmaWQ9MDkzZDcyMGEtNTAyYy00MWVkLWE4MGYtMmI4MTY5ODRmYjk1LDg5NzQxZmVjLTFkMzMtNGMwMC1hZmNkLTNmZGFmZTBiNmEyZCwxNTJiZDUzOS02MjIwLTQ0MjctYTkxNS1iZjRiZDA2OGQ3ZTgsYTY5OWI4M2YtODI2Yi00ZDk5LTkzNjEtYzhhMzEzMjE4ZDQ2LDAsOjpmZmZmOjEwLjAuMC4y
+
+
+#EXTINF:-1 tvg-name="Sinema Aksiyon" tvg-id="1109" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/bd434731-0e47-4a37-997e-49f71340fcc6.png" group-title="Sinema",Sinema Aksiyon
+https://ottcdn.kablowebtv.net/live_turksat_sub3/sinemaaksiyon_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOC8yMDI1IDY6NDk6MTggQU0maGFzaF92YWx1ZT1od0dVcjdOcUo1bm0xaFI0TzBaMHFRPT0mdmFsaWRtaW51dGVzPTI4ODAmaWQ9MDkzZDcyMGEtNTAyYy00MWVkLWE4MGYtMmI4MTY5ODRmYjk1LDg5NzQxZmVjLTFkMzMtNGMwMC1hZmNkLTNmZGFmZTBiNmEyZCwxNTJiZDUzOS02MjIwLTQ0MjctYTkxNS1iZjRiZDA2OGQ3ZTgsYTY5OWI4M2YtODI2Yi00ZDk5LTkzNjEtYzhhMzEzMjE4ZDQ2LDAsOjpmZmZmOjEwLjAuMC4y
+
+#EXTINF:-1 tvg-name="Moviesmart Turk" tvg-id="" tvg-logo="https://c.prectv47.lol/uploads/cache/channel_thumb/uploads/jpg/771bc3c19a6cfa2187001771d74ba63c.jpg" group-title="Sinema",Moviesmart Turk
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
-https://tv1.arectv30.sbs/live/mvturk.m3u8
-#EXTINF:-1 tvg-name="Sinema TV" tvg-id="" tvg-logo="https://a.prectv46.lol/uploads/cache/channel_thumb/uploads/png/40b261b65aeef4696661f2b497c55c89.png" group-title="RecTV @tabiptv",Sinema TV
+https://subatvdeneme.kerimmkirac.workers.dev/?url=https://tv1.arectv30.sbs/live/mvturk.m3u8&referer=https%3A%2F%2Ftaraftarium.co%2F&proxy=evet&useragent=okhttp%2F4.12.0
+
+
+#EXTINF:-1 tvg-name="Cinebox Korku" tvg-id="" tvg-logo="https://c.prectv47.lol/uploads/cache/channel_thumb/uploads/png/40b261b65aeef4696661f2b497c55c89.png" group-title="Sinema",Cinebox Korku
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
-https://tv1.arectv30.sbs/live/sinema.m3u8
-#EXTINF:-1 tvg-name="Sinema TV 2" tvg-id="" tvg-logo="https://a.prectv46.lol/uploads/cache/channel_thumb/uploads/png/389d982cb693a94e1c6aae2ee5e34594.png" group-title="RecTV @tabiptv",Sinema TV 2
+https://subatvdeneme.kerimmkirac.workers.dev/?url=https://tv1.arectv30.sbs/live/sinema.m3u8&referer=https%3A%2F%2Ftaraftarium.co%2F&proxy=evet&useragent=okhttp%2F4.12.0
+
+#EXTINF:-1 tvg-name="Türk Sinema TV" tvg-id="" tvg-logo="https://c.prectv47.lol/uploads/cache/channel_thumb/uploads/png/389d982cb693a94e1c6aae2ee5e34594.png" group-title="Sinema",Türk Sinema TV
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
-https://tv1.arectv30.sbs/live/sinema2.m3u8
-#EXTINF:-1 tvg-name="Sinema TV Aksiyon" tvg-id="" tvg-logo="https://a.prectv46.lol/uploads/cache/channel_thumb/uploads/png/11ae72baa495a639e5193cbed5fd92da.png" group-title="RecTV @tabiptv",Sinema TV Aksiyon
+https://subatvdeneme.kerimmkirac.workers.dev/?url=https://tv1.arectv30.sbs/live/sinema2.m3u8&referer=https%3A%2F%2Ftaraftarium.co%2F&proxy=evet&useragent=okhttp%2F4.12.0
+
+#EXTINF:-1 tvg-name="Sinema TV Aksiyon" tvg-id="" tvg-logo="https://c.prectv47.lol/uploads/cache/channel_thumb/uploads/png/11ae72baa495a639e5193cbed5fd92da.png" group-title="Sinema",Sinema TV Aksiyon
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
-https://tv1.arectv30.sbs/live/sinemaaksiyon.m3u8
-#EXTINF:-1 tvg-name="Sinema TV Komedi" tvg-id="" tvg-logo="https://a.prectv46.lol/uploads/cache/channel_thumb/uploads/png/bb0d39dbbdee543eb42f4e77fd30c324.png" group-title="RecTV @tabiptv",Sinema TV Komedi
+https://subatvdeneme.kerimmkirac.workers.dev/?url=https://tv1.arectv30.sbs/live/sinemaaksiyon2.m3u8&referer=https%3A%2F%2Ftaraftarium.co%2F&proxy=evet&useragent=okhttp%2F4.12.0
+
+#EXTINF:-1 tvg-name="Sinema TV Komedi" tvg-id="" tvg-logo="https://c.prectv47.lol/uploads/cache/channel_thumb/uploads/png/bb0d39dbbdee543eb42f4e77fd30c324.png" group-title="Sinema",Sinema TV Komedi
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
-https://tv1.arectv30.sbs/live/sinemakomedi.m3u8
-#EXTINF:-1 tvg-name="Sinema TV Yerli" tvg-id="" tvg-logo="https://a.prectv46.lol/uploads/cache/channel_thumb/uploads/png/aefea49a94d29d26305b35ffd21ca4e7.png" group-title="RecTV @tabiptv",Sinema TV Yerli
+https://subatvdeneme.kerimmkirac.workers.dev/?url=https://tv1.arectv30.sbs/live/sinemakomedi.m3u8&referer=https%3A%2F%2Ftaraftarium.co%2F&proxy=evet&useragent=okhttp%2F4.12.0
+
+#EXTINF:-1 tvg-name="Sinema TV Yerli" tvg-id="" tvg-logo="https://c.prectv47.lol/uploads/cache/channel_thumb/uploads/png/aefea49a94d29d26305b35ffd21ca4e7.png" group-title="Sinema",Sinema TV Yerli
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
-https://tv1.arectv30.sbs/live/sinemayerli.m3u8
-#EXTINF:-1 tvg-name="Sinema TV Aile" tvg-id="" tvg-logo="https://a.prectv46.lol/uploads/cache/channel_thumb/uploads/png/5959572ddb15da121258c8eaa756f7c9.png" group-title="RecTV @tabiptv",Sinema TV Aile
+https://subatvdeneme.kerimmkirac.workers.dev/?url=https://tv1.arectv30.sbs/live/sinemayerli2.m3u8&referer=https%3A%2F%2Ftaraftarium.co%2F&proxy=evet&useragent=okhttp%2F4.12.0
+
+#EXTINF:-1 tvg-name="Sinema TV Aile" tvg-id="" tvg-logo="https://c.prectv47.lol/uploads/cache/channel_thumb/uploads/png/5959572ddb15da121258c8eaa756f7c9.png" group-title="Sinema",Sinema TV Aile
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
-https://tv1.arectv30.sbs/live/sinemaaile.m3u8
+https://subatvdeneme.kerimmkirac.workers.dev/?url=https://tv1.arectv30.sbs/live/sinemaaile2.m3u8&referer=https%3A%2F%2Ftaraftarium.co%2F&proxy=evet&useragent=okhttp%2F4.12.0
+
+#EXTINF:-1 tvg-name="Sinema TV 1001" tvg-id="" tvg-logo="https://c.prectv47.lol/uploads/cache/channel_thumb/uploads/png/8c31ff828bc07a09eb52fb8312f23abb.png" group-title="Sinema",Sinema TV 1001
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+https://subatvdeneme.kerimmkirac.workers.dev/?url=https://tv1.arectv30.sbs/live/sinema1002.m3u8&referer=https%3A%2F%2Ftaraftarium.co%2F&proxy=evet&useragent=okhttp%2F4.12.0
 
 #EXTINF:-1 tvg-name="Trt Çocuk" tvg-id="2212" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/3261c5eb-0e08-4c96-b8fc-58211e3da29c.png" group-title="Çocuk & Eğitim",Trt Çocuk
 https://ottcdn.kablowebtv.net/live_turksat_sub3/trtcocuk_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOC8yMDI1IDY6NDk6MTggQU0maGFzaF92YWx1ZT1od0dVcjdOcUo1bm0xaFI0TzBaMHFRPT0mdmFsaWRtaW51dGVzPTI4ODAmaWQ9MDkzZDcyMGEtNTAyYy00MWVkLWE4MGYtMmI4MTY5ODRmYjk1LDg5NzQxZmVjLTFkMzMtNGMwMC1hZmNkLTNmZGFmZTBiNmEyZCwxNTJiZDUzOS02MjIwLTQ0MjctYTkxNS1iZjRiZDA2OGQ3ZTgsYTY5OWI4M2YtODI2Yi00ZDk5LTkzNjEtYzhhMzEzMjE4ZDQ2LDAsOjpmZmZmOjEwLjAuMC4y
@@ -203,7 +233,7 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_720p.m3u8
 # ? https://c.fulltvizle.com/aytv/index.m3u8
 # ? http://stream.tvcdn.net/ulusal/atv.m3u8
 
-#EXTINF:-1 tvg-name="Now" tvg-id="2213" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/25c7c620-dfe4-4c78-9d9b-185d8a91885f.png" group-title="Ulusal",Now
+#EXTINF:-1 tvg-name="Now" tvg-id="2213" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/25c7c620-dfe4-4c78-9d9b-185d8a91885f.png" group-title="Genel",Now
 https://ottcdn.kablowebtv.net/live_turksat_sub3/now_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOC8yMDI1IDY6NDk6MTggQU0maGFzaF92YWx1ZT1od0dVcjdOcUo1bm0xaFI0TzBaMHFRPT0mdmFsaWRtaW51dGVzPTI4ODAmaWQ9MDkzZDcyMGEtNTAyYy00MWVkLWE4MGYtMmI4MTY5ODRmYjk1LDg5NzQxZmVjLTFkMzMtNGMwMC1hZmNkLTNmZGFmZTBiNmEyZCwxNTJiZDUzOS02MjIwLTQ0MjctYTkxNS1iZjRiZDA2OGQ3ZTgsYTY5OWI4M2YtODI2Yi00ZDk5LTkzNjEtYzhhMzEzMjE4ZDQ2LDAsOjpmZmZmOjEwLjAuMC4y
 
 
@@ -237,10 +267,10 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv_1080p.m3u8
 #EXTINF:-1 tvg-name="TV 360" tvg-language="Turkish" tvg-country="TR" tvg-id="Genel_TV360" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/36157058-80ce-4724-a7ff-28bbad7df301.png" group-title="Genel",TV 360
 https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 
-#EXTINF:-1 tvg-name="Cnbc-e" tvg-id="2003" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/16752eb5-4001-4b31-860c-ab947ed2c86d.png" group-title="Ulusal",Cnbc-e
+#EXTINF:-1 tvg-name="Cnbc-e" tvg-id="2003" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/16752eb5-4001-4b31-860c-ab947ed2c86d.png" group-title="Haber",Cnbc-e
 https://ottcdn.kablowebtv.net/live_turksat_sub3/cnbce_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOC8yMDI1IDY6NDk6MTggQU0maGFzaF92YWx1ZT1od0dVcjdOcUo1bm0xaFI0TzBaMHFRPT0mdmFsaWRtaW51dGVzPTI4ODAmaWQ9MDkzZDcyMGEtNTAyYy00MWVkLWE4MGYtMmI4MTY5ODRmYjk1LDg5NzQxZmVjLTFkMzMtNGMwMC1hZmNkLTNmZGFmZTBiNmEyZCwxNTJiZDUzOS02MjIwLTQ0MjctYTkxNS1iZjRiZDA2OGQ3ZTgsYTY5OWI4M2YtODI2Yi00ZDk5LTkzNjEtYzhhMzEzMjE4ZDQ2LDAsOjpmZmZmOjEwLjAuMC4y
 
-#EXTINF:-1 tvg-name="Ulusal Kanal" tvg-id="2310" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/5f895c30-fa0a-4f74-b4b6-ee562fb27e26.png" group-title="Ulusal",Ulusal Kanal
+#EXTINF:-1 tvg-name="Ulusal Kanal" tvg-id="2310" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/5f895c30-fa0a-4f74-b4b6-ee562fb27e26.png" group-title="Haber",Ulusal Kanal
 https://ottcdn.kablowebtv.net/live_turksat_sub3/ulusalkanal_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOC8yMDI1IDY6NDk6MTggQU0maGFzaF92YWx1ZT1od0dVcjdOcUo1bm0xaFI0TzBaMHFRPT0mdmFsaWRtaW51dGVzPTI4ODAmaWQ9MDkzZDcyMGEtNTAyYy00MWVkLWE4MGYtMmI4MTY5ODRmYjk1LDg5NzQxZmVjLTFkMzMtNGMwMC1hZmNkLTNmZGFmZTBiNmEyZCwxNTJiZDUzOS02MjIwLTQ0MjctYTkxNS1iZjRiZDA2OGQ3ZTgsYTY5OWI4M2YtODI2Yi00ZDk5LTkzNjEtYzhhMzEzMjE4ZDQ2LDAsOjpmZmZmOjEwLjAuMC4y
 
 
@@ -313,276 +343,161 @@ https://ottcdn.kablowebtv.net/live_turksat_sub3/nbatv_stream/index.m3u8?wmsAuthS
 
 
 
-#EXTINF:-1 tvg-name="FightBox" tvg-id="" tvg-logo="https://icdn.cda.pl/tv/oryginalne/light_279.png" group-title="RecTV @tabiptv",FightBox
+#EXTINF:-1 tvg-name="FightBox" tvg-id="" tvg-logo="https://icdn.cda.pl/tv/oryginalne/light_279.png" group-title="Spor",FightBox
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 https://tv1.arectv30.sbs/live/fight.m3u8
 
-#EXTINF:-1 tvg-name="NBA TV B" tvg-language="English" tvg-country="USA" tvg-id="Spor_NBATVB" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/8/89/Nbatv.png" group-title="Spor",NBA TV B
+
+#EXTINF:-1 tvg-name="Euro Sport 1 A" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_EuroSportA" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/54cad412-5f3a-4184-b5fc-d567a5de7160.png" group-title="Spor",Euro Sport 1 B
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://trgoals1333.xyz/
-https://e0.4928d54d950ee70q5.lat/yayinnbatv.m3u8
+https://subatvdeneme.kerimmkirac.workers.dev/?url=https://tv1.arectv30.sbs/live/euro1.m3u8&referer=https%3A%2F%2Ftaraftarium.co%2F&proxy=evet&useragent=okhttp%2F4.12.0
 
-#EXTINF:-1 tvg-name="NBA TV C" tvg-language="English" tvg-country="USA" tvg-id="Spor_NBATVC" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/8/89/Nbatv.png" group-title="Spor",NBA TV C
+#EXTINF:-1 tvg-name="Eurosport 1 B" tvg-id="2002" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/54cad412-5f3a-4184-b5fc-d567a5de7160.png" group-title="Spor",Eurosport 1 B
+https://ottcdn.kablowebtv.net/live_turksat_sub3/eurosport1hd_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOC8yMDI1IDY6NDk6MTggQU0maGFzaF92YWx1ZT1od0dVcjdOcUo1bm0xaFI0TzBaMHFRPT0mdmFsaWRtaW51dGVzPTI4ODAmaWQ9MDkzZDcyMGEtNTAyYy00MWVkLWE4MGYtMmI4MTY5ODRmYjk1LDg5NzQxZmVjLTFkMzMtNGMwMC1hZmNkLTNmZGFmZTBiNmEyZCwxNTJiZDUzOS02MjIwLTQ0MjctYTkxNS1iZjRiZDA2OGQ3ZTgsYTY5OWI4M2YtODI2Yi00ZDk5LTkzNjEtYzhhMzEzMjE4ZDQ2LDAsOjpmZmZmOjEwLjAuMC4y
+
+#EXTINF:-1 tvg-name="Euro Sport 2 A" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_EuroSport2A" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/a4cbdd15-1509-408f-a108-65b8f88f2066.png" group-title="Spor",Euro Sport 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://monotv523.com/
-https://16897634146.casintrotv16.com/yayinnbatv.m3u8
+https://subatvdeneme.kerimmkirac.workers.dev/?url=https://tv1.arectv30.sbs/live/euro2.m3u8&referer=https%3A%2F%2Ftaraftarium.co%2F&proxy=evet&useragent=okhttp%2F4.12.0
 
+#EXTINF:-1 tvg-name="Eurosport 2 B" tvg-id="1809" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/a4cbdd15-1509-408f-a108-65b8f88f2066.png" group-title="Spor",Eurosport 2
+https://ottcdn.kablowebtv.net/live_turksat_sub3/eurosport2hd_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOC8yMDI1IDY6NDk6MTggQU0maGFzaF92YWx1ZT1od0dVcjdOcUo1bm0xaFI0TzBaMHFRPT0mdmFsaWRtaW51dGVzPTI4ODAmaWQ9MDkzZDcyMGEtNTAyYy00MWVkLWE4MGYtMmI4MTY5ODRmYjk1LDg5NzQxZmVjLTFkMzMtNGMwMC1hZmNkLTNmZGFmZTBiNmEyZCwxNTJiZDUzOS02MjIwLTQ0MjctYTkxNS1iZjRiZDA2OGQ3ZTgsYTY5OWI4M2YtODI2Yi00ZDk5LTkzNjEtYzhhMzEzMjE4ZDQ2LDAsOjpmZmZmOjEwLjAuMC4y
 
-
-#EXTINF:-1 tvg-name="Euro Sport 1 A" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_EuroSport1A" tvg-logo="https://w7.pngwing.com/pngs/350/883/png-transparent-eurosport-1-eurosport-2-television-channel-1-euro-television-blue-angle.png" group-title="Spor",Euro Sport 1 A
+#EXTINF:-1 tvg-name="Tivibu Spor 1" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_TivibuSpor1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qadnsi1642604437.png" group-title="Spor",Tivibu Spor 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://trgoals1333.xyz/
-https://e0.4928d54d950ee70q5.lat/yayineu1.m3u8
+https://subatvdeneme.kerimmkirac.workers.dev/?url=https://tv1.arectv30.sbs/live/t1.m3u8&referer=https%3A%2F%2Ftaraftarium.co%2F&proxy=evet&useragent=okhttp%2F4.12.0
 
-#EXTINF:-1 tvg-name="Euro Sport 1 B" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_EuroSport1B" tvg-logo="https://w7.pngwing.com/pngs/350/883/png-transparent-eurosport-1-eurosport-2-television-channel-1-euro-television-blue-angle.png" group-title="Spor",Euro Sport 1 B
-https://ottcdn.kablowebtv.net/live_turksat_sub3/eurosport1hd_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xNy8yMDI1IDY6MDg6NDYgQU0maGFzaF92YWx1ZT1UQ1BFNHI1T1BxKzdDVkFQMk8yZUF3PT0mdmFsaWRtaW51dGVzPTI4ODAmaWQ9MDkzZDcyMGEtNTAyYy00MWVkLWE4MGYtMmI4MTY5ODRmYjk1LDg5NzQxZmVjLTFkMzMtNGMwMC1hZmNkLTNmZGFmZTBiNmEyZCwxNTJiZDUzOS02MjIwLTQ0MjctYTkxNS1iZjRiZDA2OGQ3ZTgsYTY5OWI4M2YtODI2Yi00ZDk5LTkzNjEtYzhhMzEzMjE4ZDQ2LDAsOjpmZmZmOjEwLjAuMC4y
 
-#EXTINF:-1 tvg-name="Euro Sport 1 C" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_EuroSport1C" tvg-logo="https://w7.pngwing.com/pngs/350/883/png-transparent-eurosport-1-eurosport-2-television-channel-1-euro-television-blue-angle.png" group-title="Spor",Euro Sport 1 C
+#EXTINF:-1 tvg-name="Tivibu Spor 2" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_TivibuSpor2" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/kuasdm1642604455.png" group-title="Spor",Tivibu Spor 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://monotv523.com/
-https://16897634146.casintrotv16.com/yayineu1.m3u8
+https://subatvdeneme.kerimmkirac.workers.dev/?url=https://tv1.arectv30.sbs/live/t2.m3u8&referer=https%3A%2F%2Ftaraftarium.co%2F&proxy=evet&useragent=okhttp%2F4.12.0
 
 
-#EXTINF:-1 tvg-name="Euro Sport 2 A" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_EuroSport2A" tvg-logo="https://w7.pngwing.com/pngs/327/493/png-transparent-eurosport-1-television-channel-logo-eurosport-2-others-miscellaneous-television-text.png" group-title="Spor",Euro Sport 2 A
+#EXTINF:-1 tvg-name="Tivibu Spor 3" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_TivibuSpor3" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/slwrz41642604502.png" group-title="Spor",Tivibu Spor 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://trgoals1333.xyz/
-https://e0.4928d54d950ee70q5.lat/yayineu2.m3u8
+https://subatvdeneme.kerimmkirac.workers.dev/?url=https://tv1.arectv30.sbs/live/t3.m3u8&referer=https%3A%2F%2Ftaraftarium.co%2F&proxy=evet&useragent=okhttp%2F4.12.0
 
-#EXTINF:-1 tvg-name="Euro Sport 2 B" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_EuroSport2B" tvg-logo="https://w7.pngwing.com/pngs/327/493/png-transparent-eurosport-1-television-channel-logo-eurosport-2-others-miscellaneous-television-text.png" group-title="Spor",Euro Sport 2 B
-https://ottcdn.kablowebtv.net/live_turksat_sub3/eurosport2hd_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xNy8yMDI1IDY6MDg6NDYgQU0maGFzaF92YWx1ZT1UQ1BFNHI1T1BxKzdDVkFQMk8yZUF3PT0mdmFsaWRtaW51dGVzPTI4ODAmaWQ9MDkzZDcyMGEtNTAyYy00MWVkLWE4MGYtMmI4MTY5ODRmYjk1LDg5NzQxZmVjLTFkMzMtNGMwMC1hZmNkLTNmZGFmZTBiNmEyZCwxNTJiZDUzOS02MjIwLTQ0MjctYTkxNS1iZjRiZDA2OGQ3ZTgsYTY5OWI4M2YtODI2Yi00ZDk5LTkzNjEtYzhhMzEzMjE4ZDQ2LDAsOjpmZmZmOjEwLjAuMC4y
 
-#EXTINF:-1 tvg-name="Euro Sport 2 C" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_EuroSport2C" tvg-logo="https://w7.pngwing.com/pngs/327/493/png-transparent-eurosport-1-television-channel-logo-eurosport-2-others-miscellaneous-television-text.png" group-title="Spor",Euro Sport 2 C
+#EXTINF:-1 tvg-name="Tivibu Spor 4" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_TivibuSpor4" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/59bqi81642604517.png" group-title="Spor",Tivibu Spor 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://monotv523.com/
-https://16897634146.casintrotv16.com/yayineu2.m3u8
+https://subatvdeneme.kerimmkirac.workers.dev/?url=https://tv1.arectv30.sbs/live/t4.m3u8&referer=https%3A%2F%2Ftaraftarium.co%2F&proxy=evet&useragent=okhttp%2F4.12.0
 
 
-#EXTINF:-1 tvg-name="Tivibu Spor 1 A" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_TivibuSpor1A" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qadnsi1642604437.png" group-title="Spor",Tivibu Spor 1 A
+#EXTINF:-1 tvg-name="Spor Smart | A" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_SporSmart_A" tvg-logo="https://dsmart-static-v2.ercdn.net//resize-width/1920/content/p/el/11909/Thumbnail.png" group-title="Spor",Spor Smart A
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://trgoals1333.xyz/
-https://e0.4928d54d950ee70q5.lat/yayint1.m3u8
+https://subatvdeneme.kerimmkirac.workers.dev/?url=https://tv1.arectv30.sbs/live/smart1.m3u8&referer=https%3A%2F%2Ftaraftarium.co%2F&proxy=evet&useragent=okhttp%2F4.12.0
 
-#EXTINF:-1 tvg-name="Tivibu Spor 1 B" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_TivibuSpor1B" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qadnsi1642604437.png" group-title="Spor",Tivibu Spor 1 B
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://monotv523.com/
-https://16897634146.casintrotv16.com/yayint1.m3u8
-
-#EXTINF:-1 tvg-name="Tivibu Spor 2 A" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_TivibuSpor2A" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/kuasdm1642604455.png" group-title="Spor",Tivibu Spor 2 A
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://trgoals1333.xyz/
-https://e0.4928d54d950ee70q5.lat/yayint2.m3u8
-
-#EXTINF:-1 tvg-name="Tivibu Spor 2 B" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_TivibuSpor2B" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/kuasdm1642604455.png" group-title="Spor",Tivibu Spor 2 B
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://monotv523.com/
-https://16897634146.casintrotv16.com/yayint2.m3u8
-
-#EXTINF:-1 tvg-name="Tivibu Spor 3 A" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_TivibuSpor3A" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/slwrz41642604502.png" group-title="Spor",Tivibu Spor 3 A
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://trgoals1333.xyz/
-https://e0.4928d54d950ee70q5.lat/yayint3.m3u8
-
-#EXTINF:-1 tvg-name="Tivibu Spor 3 B" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_TivibuSpor3B" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/slwrz41642604502.png" group-title="Spor",Tivibu Spor 3 B
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://monotv523.com/
-https://16897634146.casintrotv16.com/yayint3.m3u8
-
-#EXTINF:-1 tvg-name="Tivibu Spor 4 A" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_TivibuSpor4A" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/59bqi81642604517.png" group-title="Spor",Tivibu Spor 4 A
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://trgoals1333.xyz/
-https://e0.4928d54d950ee70q5.lat/yayint4.m3u8
-
-#EXTINF:-1 tvg-name="Tivibu Spor 4 B" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_TivibuSpor4B" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/59bqi81642604517.png" group-title="Spor",Tivibu Spor 4 B
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://monotv523.com/
-https://16897634146.casintrotv16.com/yayint4.m3u8
-
-#EXTINF:-1 tvg-name="Spor Smart 1 | A" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_SporSmart_1A" tvg-logo="https://dsmart-static-v2.ercdn.net//resize-width/1920/content/p/el/11909/Thumbnail.png" group-title="Spor",Spor Smart 1 A
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://trgoals1333.xyz/
-https://e0.4928d54d950ee70q5.lat/yayinsmarts.m3u8
-
-#EXTINF:-1 tvg-name="Spor Smart 1 | B" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_SporSmart_1B" tvg-logo="https://dsmart-static-v2.ercdn.net//resize-width/1920/content/p/el/11909/Thumbnail.png" group-title="Spor",Spor Smart 1 B
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://monotv523.com/
-https://16897634146.casintrotv16.com/yayinsmarts.m3u8
 
 #EXTINF:-1 tvg-name="Spor Smart 2 | A" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_SporSmart2_A" tvg-logo="https://www.dsmart.com.tr/api/v1/public/images/kanallar/SPORSMART2-gri.png" group-title="Spor",Spor Smart 2 A
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://trgoals1333.xyz/
-https://e0.4928d54d950ee70q5.lat/yayinsms2.m3u8
+https://subatvdeneme.kerimmkirac.workers.dev/?url=https://tv1.arectv30.sbs/live/smart2.m3u8&referer=https%3A%2F%2Ftaraftarium.co%2F&proxy=evet&useragent=okhttp%2F4.12.0
 
-#EXTINF:-1 tvg-name="Spor Smart 2 | B" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_SporSmart2_B" tvg-logo="https://www.dsmart.com.tr/api/v1/public/images/kanallar/SPORSMART2-gri.png" group-title="Spor",Spor Smart 2 B
+
+#EXTINF:-1 tvg-name="S SPORT 1 | A" tvg-language="Turkish" tvg-country="TR" tvg-id="1810" tvg-logo="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20230302923239.png" group-title="Spor",S SPORT A
+https://ottcdn.kablowebtv.net/live_turksat_sub3/ssport_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOC8yMDI1IDY6NDk6MTggQU0maGFzaF92YWx1ZT1od0dVcjdOcUo1bm0xaFI0TzBaMHFRPT0mdmFsaWRtaW51dGVzPTI4ODAmaWQ9MDkzZDcyMGEtNTAyYy00MWVkLWE4MGYtMmI4MTY5ODRmYjk1LDg5NzQxZmVjLTFkMzMtNGMwMC1hZmNkLTNmZGFmZTBiNmEyZCwxNTJiZDUzOS02MjIwLTQ0MjctYTkxNS1iZjRiZDA2OGQ3ZTgsYTY5OWI4M2YtODI2Yi00ZDk5LTkzNjEtYzhhMzEzMjE4ZDQ2LDAsOjpmZmZmOjEwLjAuMC4y
+
+#EXTINF:-1 tvg-name="S SPORT 1 | B" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_SSPORTB" tvg-logo="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20230302923239.png" group-title="Spor",S SPORT B
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://monotv523.com/
-https://16897634146.casintrotv16.com/yayinsms2.m3u8
+https://subatvdeneme.kerimmkirac.workers.dev/?url=https://r14.af94.workers.dev/static/ss11.m3u8&referer=https%3A%2F%2Ftaraftarium.co%2F&proxy=evet&useragent=okhttp%2F4.12.0
 
+#EXTINF:-1 tvg-name="S SPORT 2 | A" tvg-language="Turkish" tvg-country="TR" tvg-id="3901" tvg-logo="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20230302923321.png" group-title="Spor",S SPORT 2 A
+https://ottcdn.kablowebtv.net/live_turksat_sub3/ssport2_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOC8yMDI1IDY6NDk6MTggQU0maGFzaF92YWx1ZT1od0dVcjdOcUo1bm0xaFI0TzBaMHFRPT0mdmFsaWRtaW51dGVzPTI4ODAmaWQ9MDkzZDcyMGEtNTAyYy00MWVkLWE4MGYtMmI4MTY5ODRmYjk1LDg5NzQxZmVjLTFkMzMtNGMwMC1hZmNkLTNmZGFmZTBiNmEyZCwxNTJiZDUzOS02MjIwLTQ0MjctYTkxNS1iZjRiZDA2OGQ3ZTgsYTY5OWI4M2YtODI2Yi00ZDk5LTkzNjEtYzhhMzEzMjE4ZDQ2LDAsOjpmZmZmOjEwLjAuMC4y
 
-
-#EXTINF:-1 tvg-name="S SPORT 1 A" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_SSPORT1A" tvg-logo="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20230302923239.png" group-title="Spor",S SPORT 1 A
+#EXTINF:-1 tvg-name="S SPORT 2 | B" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_SSPORT2B" tvg-logo="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20230302923321.png" group-title="Spor",S SPORT 2 B
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-https://ottcdn.kablowebtv.net/live_turksat_sub3/ssport_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xNy8yMDI1IDY6MDg6NDYgQU0maGFzaF92YWx1ZT1UQ1BFNHI1T1BxKzdDVkFQMk8yZUF3PT0mdmFsaWRtaW51dGVzPTI4ODAmaWQ9MDkzZDcyMGEtNTAyYy00MWVkLWE4MGYtMmI4MTY5ODRmYjk1LDg5NzQxZmVjLTFkMzMtNGMwMC1hZmNkLTNmZGFmZTBiNmEyZCwxNTJiZDUzOS02MjIwLTQ0MjctYTkxNS1iZjRiZDA2OGQ3ZTgsYTY5OWI4M2YtODI2Yi00ZDk5LTkzNjEtYzhhMzEzMjE4ZDQ2LDAsOjpmZmZmOjEwLjAuMC4y
+https://subatvdeneme.kerimmkirac.workers.dev/?url=https://r14.af94.workers.dev/static/ss2.m3u8&referer=https%3A%2F%2Ftaraftarium.co%2F&proxy=evet&useragent=okhttp%2F4.12.0
 
-#EXTINF:-1 tvg-name="S SPORT 1 B" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_SSPORT1B" tvg-logo="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20230302923239.png" group-title="Spor",S SPORT 1 B
+
+
+#EXTINF:-1 tvg-name="beIN SPORTS 1 | A (Sadece Maç Zamanları Aktif)" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_beINSPORTS1_A" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png" group-title="Spor",beIN SPORTS 1 A
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-https://ottcdn.kablowebtv.net/live_turksat_sub3/ssport_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDI1IDEyOjEzOjI5IFBNJmhhc2hfdmFsdWU9ZVZidC9Yemw5cE9NbGxOaVlWV0ZxQT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSw4OTc0MWZlYy0xZDMzLTRjMDAtYWZjZC0zZmRhZmUwYjZhMmQsMTUyYmQ1MzktNjIyMC00NDI3LWE5MTUtYmY0YmQwNjhkN2U4LGE2OTliODNmLTgyNmItNGQ5OS05MzYxLWM4YTMxMzIxOGQ0NiwwLDo6ZmZmZjoxMC4wLjAuMjA2
-
-#EXTINF:-1 tvg-name="S SPORT 1 C" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_SSPORT1C" tvg-logo="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20230302923239.png" group-title="Spor",S SPORT 1 C
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://trgoals1333.xyz/
-https://e0.4928d54d950ee70q5.lat/yayinss.m3u8
-
-#EXTINF:-1 tvg-name="S SPORT 1 D" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_SSPORT1D" tvg-logo="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20230302923239.png" group-title="Spor",S SPORT 1 D
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://monotv523.com/
-https://16897634146.casintrotv16.com/yayinss.m3u8
-
-#EXTINF:-1 tvg-name="S SPORT 2 A" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_SSPORT2A" tvg-logo="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20230302923321.png" group-title="Spor",S SPORT 2 A
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-https://ottcdn.kablowebtv.net/live_turksat_sub3/ssport2_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xNy8yMDI1IDY6MDg6NDYgQU0maGFzaF92YWx1ZT1UQ1BFNHI1T1BxKzdDVkFQMk8yZUF3PT0mdmFsaWRtaW51dGVzPTI4ODAmaWQ9MDkzZDcyMGEtNTAyYy00MWVkLWE4MGYtMmI4MTY5ODRmYjk1LDg5NzQxZmVjLTFkMzMtNGMwMC1hZmNkLTNmZGFmZTBiNmEyZCwxNTJiZDUzOS02MjIwLTQ0MjctYTkxNS1iZjRiZDA2OGQ3ZTgsYTY5OWI4M2YtODI2Yi00ZDk5LTkzNjEtYzhhMzEzMjE4ZDQ2LDAsOjpmZmZmOjEwLjAuMC4y
-
-#EXTINF:-1 tvg-name="S SPORT 2 B" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_SSPORT2B" tvg-logo="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20230302923321.png" group-title="Spor",S SPORT 2 B
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-https://ottcdn.kablowebtv.net/live_turksat_sub3/ssport2_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDI1IDEyOjEzOjI5IFBNJmhhc2hfdmFsdWU9ZVZidC9Yemw5cE9NbGxOaVlWV0ZxQT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSw4OTc0MWZlYy0xZDMzLTRjMDAtYWZjZC0zZmRhZmUwYjZhMmQsMTUyYmQ1MzktNjIyMC00NDI3LWE5MTUtYmY0YmQwNjhkN2U4LGE2OTliODNmLTgyNmItNGQ5OS05MzYxLWM4YTMxMzIxOGQ0NiwwLDo6ZmZmZjoxMC4wLjAuMjA2
-
-#EXTINF:-1 tvg-name="S SPORT 2 C" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_SSPORT2C" tvg-logo="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20230302923321.png" group-title="Spor",S SPORT 2 C
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://trgoals1333.xyz/
-https://e0.4928d54d950ee70q5.lat/yayinss2.m3u8
-
-#EXTINF:-1 tvg-name="S SPORT 2 D" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_SSPORT2D" tvg-logo="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20230302923321.png" group-title="Spor",S SPORT 2 D
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://monotv523.com/
-https://16897634146.casintrotv16.com/yayinss2.m3u8
-
-#EXTINF:-1 tvg-name="S sport 3 | A" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_SSPORT3A" tvg-logo="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20230302923321.png" group-title="Spor",S SPORT 3 A
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://trgoals1333.xyz/
-https://e0.4928d54d950ee70q5.lat/yayinex1.m3u8
-
-#EXTINF:-1 tvg-name="beIN SPORTS 1 | A" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_beINSPORTS1_A" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png" group-title="Spor",beIN SPORTS 1 A
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://trgoals1333.xyz/
-https://e0.4928d54d950ee70q5.lat/yayin1.m3u8
-
+https://kerimmkiraccano.kerimmkirac.workers.dev/?url=https://üüü.mevzuhls37.cfd/yayinzirve.m3u8
 
 #EXTINF:-1 tvg-name="beIN SPORTS 1 | B" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_beINSPORTS1_B" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png" group-title="Spor",beIN SPORTS 1 B
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://monotv523.com/
-https://16897634146.casintrotv16.com/yayinzirve.m3u8
+https://subatvdeneme.kerimmkirac.workers.dev/?url=https://r14.af94.workers.dev/static/bs11.m3u8&referer=https://twitter.com&proxy=evet&useragent=okhttp%2F4.12.0
 
-#EXTINF:-1 tvg-name="beIN SPORTS 1 | C" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_beINSPORTS1_C" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png" group-title="Spor",beIN SPORTS 1 C
+#EXTINF:-1 tvg-name="beIN SPORTS 2 | A (Sadece Maç Zamanları Aktif)" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_beINSPORTS2_A" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/7uv6x71628799003.png" group-title="Spor",beIN SPORTS 2 A
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://trgoals1333.xyz/
-https://e0.4928d54d950ee70q5.lat/yayinzirve.m3u8
-
-
-#EXTINF:-1 tvg-name="beIN SPORTS 2 | A" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_beINSPORTS2_A" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/7uv6x71628799003.png" group-title="Spor",beIN SPORTS 2 A
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://trgoals1333.xyz/
-https://e0.4928d54d950ee70q5.lat/yayinb2.m3u8
+https://kerimmkiraccano.kerimmkirac.workers.dev/?url=https://üüü.mevzuhls37.cfd/yayinb2.m3u8
 
 #EXTINF:-1 tvg-name="beIN SPORTS 2 | B" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_beINSPORTS2_B" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/7uv6x71628799003.png" group-title="Spor",beIN SPORTS 2 B
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://monotv523.com/
-https://16897634146.casintrotv16.com/yayinb2.m3u8
+https://subatvdeneme.kerimmkirac.workers.dev/?url=https://r14.af94.workers.dev/static/bs2.m3u8&referer=https%3A%2F%2Ftaraftarium.co%2F&proxy=evet&useragent=okhttp%2F4.12.0
 
-#EXTINF:-1 tvg-name="beIN SPORTS 3 | A" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_beINSPORTS3_A" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/u3117i1628798857.png" group-title="Spor",beIN SPORTS 3 A
+#EXTINF:-1 tvg-name="beIN SPORTS 3 | A (Sadece Maç Zamanları Aktif)" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_beINSPORTS3_A" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/u3117i1628798857.png" group-title="Spor",beIN SPORTS 3 A
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://trgoals1333.xyz/
-https://e0.4928d54d950ee70q5.lat/yayinb3.m3u8
+https://kerimmkiraccano.kerimmkirac.workers.dev/?url=https://üüü.mevzuhls37.cfd/yayinb3.m3u8
+
 
 #EXTINF:-1 tvg-name="beIN SPORTS 3 | B" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_beINSPORTS3_B" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/u3117i1628798857.png" group-title="Spor",beIN SPORTS 3 B
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://monotv523.com/
-https://16897634146.casintrotv16.com/yayinb3.m3u8
+https://subatvdeneme.kerimmkirac.workers.dev/?url=https://r14.af94.workers.dev/static/bs3.m3u8&referer=https%3A%2F%2Ftaraftarium.co%2F&proxy=evet&useragent=okhttp%2F4.12.0
 
-#EXTINF:-1 tvg-name="beIN SPORTS 4 | A" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_b eINSPORTS4_A" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/2ktmcp1628798841.png" group-title="Spor",beIN SPORTS 4 A
+#EXTINF:-1 tvg-name="beIN SPORTS 4 | A (Sadece Maç Zamanları Aktif)" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_beINSPORTS4_A" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/2ktmcp1628798841.png" group-title="Spor",beIN SPORTS 4 A
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://trgoals1333.xyz/
-https://e0.4928d54d950ee70q5.lat/yayinb4.m3u8
+https://kerimmkiraccano.kerimmkirac.workers.dev/?url=https://üüü.mevzuhls37.cfd/yayinb4.m3u8
 
-#EXTINF:-1 tvg-name="beIN SPORTS 4 | B" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_b eINSPORTS4_B" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/2ktmcp1628798841.png" group-title="Spor",beIN SPORTS 4 B
+#EXTINF:-1 tvg-name="beIN SPORTS 4 | B" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_beINSPORTS4_B" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/2ktmcp1628798841.png" group-title="Spor",beIN SPORTS 4 B
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://monotv523.com/
-https://16897634146.casintrotv16.com/yayinb4.m3u8
+https://subatvdeneme.kerimmkirac.workers.dev/?url=https://r14.af94.workers.dev/static/bs4.m3u8&referer=https%3A%2F%2Ftaraftarium.co%2F&proxy=evet&useragent=okhttp%2F4.12.0
 
-#EXTINF:-1 tvg-name="beIN SPORTS 5 | A" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_beINSPORTS5_A" tvg-logo="https://i.imgur.com/iRKfaee.png" group-title="Spor",beIN SPORTS 5 A
+#EXTINF:-1 tvg-name="beIN SPORTS 5 | A (Sadece Maç Zamanları Aktif)" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_beINSPORTS5_A" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/BeIn_Sports_5_US.png" group-title="Spor",beIN SPORTS 5 A
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://trgoals1333.xyz/
-https://e0.4928d54d950ee70q5.lat/yayinb5.m3u8
+https://kerimmkiraccano.kerimmkirac.workers.dev/?url=https://üüü.mevzuhls37.cfd/yayinb5.m3u8
 
-#EXTINF:-1 tvg-name="beIN SPORTS 5 | B" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_beINSPORTS5_b" tvg-logo="https://i.imgur.com/iRKfaee.png" group-title="Spor",beIN SPORTS 5 B
+#EXTINF:-1 tvg-name="beIN SPORTS 5 | B" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_beINSPORTS5_B" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/BeIn_Sports_5_US.png" group-title="Spor",beIN SPORTS 5 B
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://monotv523.com/
-https://16897634146.casintrotv16.com/yayinb5.m3u8
+https://subatvdeneme.kerimmkirac.workers.dev/?url=https://r14.af94.workers.dev/static/bs5.m3u8&referer=https%3A%2F%2Ftaraftarium.co%2F&proxy=evet&useragent=okhttp%2F4.12.0
 
-#EXTINF:-1 tvg-name="beIN SPORTS Max 1 | A" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_beINSPORTSMax_1A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/BeIN_Sports_MAX.png" group-title="Spor",beIN SPORTS 1 Max A
+#EXTINF:-1 tvg-name="beIN SPORTS Max | A" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_beINSPORTSMax_A" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png" group-title="Spor",beIN SPORTS Max A
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://trgoals1333.xyz/
-https://e0.4928d54d950ee70q5.lat/yayinbm1.m3u8
+https://subatvdeneme.kerimmkirac.workers.dev/?url=https://tv1.arectv30.sbs/live/bm1.m3u8&referer=https%3A%2F%2Ftaraftarium.co%2F&proxy=evet&useragent=okhttp%2F4.12.0
 
-#EXTINF:-1 tvg-name="beIN SPORTS Max 1 | B" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_beINSPORTSMax_1B" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/BeIN_Sports_MAX.png" group-title="Spor",beIN SPORTS 1 Max B
+#EXTINF:-1 tvg-name="beIN SPORTS Max 2 | A" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_beINSPORTSMax2_A" tvg-logo="http://tvprofil.com/img/kanali-logo/beIN_Sports_MAX_2_TR_logo_v2.png?1734011568" group-title="Spor",beIN SPORTS Max 2 A
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://monotv523.com/
-https://16897634146.casintrotv16.com/yayinbm1.m3u8
-
-#EXTINF:-1 tvg-name="beIN SPORTS Max 2 | A" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_beINSPORTSMax2_A" tvg-logo="https://i.imgur.com/t7U20yR.png" group-title="Spor",beIN SPORTS Max 2 A
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://trgoals1333.xyz/
-https://e0.4928d54d950ee70q5.lat/yayinbm2.m3u8
-
-#EXTINF:-1 tvg-name="beIN SPORTS Max 2 | B" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_beINSPORTSMax2_B tvg-logo="https://i.imgur.com/t7U20yR.png" group-title="Spor",beIN SPORTS Max 2 B
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://monotv523.com/
-https://16897634146.casintrotv16.com/yayinbm2.m3u8
+https://subatvdeneme.kerimmkirac.workers.dev/?url=https://tv1.arectv30.sbs/live/bm2.m3u8&referer=https%3A%2F%2Ftaraftarium.co%2F&proxy=evet&useragent=okhttp%2F4.12.0
 
 
 #EXTINF:-1 tvg-name="Sky Sports F1" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_SKYSPORTSF1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/Sky_Sports_F1_logo_2020.svg/375px-Sky_Sports_F1_logo_2020.svg.png" group-title="Spor",Sky Sports f1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://hakunamatata5.org
-https://hakunamatata5.org:8088/hls/sky-f1.m3u8
+https://subatvdeneme.kerimmkirac.workers.dev/?url=https://hakunamatata5.org:8088/hls/sky-f1.m3u8&referer=https://hakunamatata5.org&proxy=evet
+
 
 #EXTINF:-1 tvg-name="Tabii Spor" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_TABII" tvg-logo="https://cms-tabii-public-image.tabii.com/int/webp/w600/q84/43023.jpeg" group-title="Spor",Tabii Spor
 # ? #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-# ? #EXTVLCOPT:http-referrer=https://trgoals1333.xyz/
-# ? https://e0.4928d54d950ee70q5.lat/yayinex7.m3u8
+# ? #EXTVLCOPT:http-referrer=https://trgoals1267.xyz/
+# ? https://j0.4928d54d950ee70q10.click/yayinex7.m3u8
 https://beert7sqimrk0bfdupfgn6qew.medya.trt.com.tr/master_1080p.m3u8
-
-#EXTINF:-1 tvg-name="Tabii Spor 1" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_TABII1" tvg-logo="https://cms-tabii-public-image.tabii.com/int/webp/w600/q84/43023.jpeg" group-title="Spor",Tabii Spor 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://trgoals1333.xyz/
-https://e0.4928d54d950ee70q5.lat/yayinex1.m3u8
 
 
 #EXTINF:-1 tvg-name="Tabii Spor 2" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_TABII2" tvg-logo="https://cms-tabii-public-image.tabii.com/int/webp/w600/q84/43008.jpeg" group-title="Spor",Tabii Spor 2
 # ? #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-# ? #EXTVLCOPT:http-referrer=https://trgoals1333.xyz/
-# ? https://e0.4928d54d950ee70q5.lat/yayinex2.m3u8
+# ? #EXTVLCOPT:http-referrer=https://trgoals1267.xyz/
+# ? https://j0.4928d54d950ee70q10.click/yayinex2.m3u8
 https://klublsslubcgyiz7zqt5bz8il.medya.trt.com.tr/master_1080p.m3u8
 
 #EXTINF:-1 tvg-name="Tabii Spor 3" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_TABII3" tvg-logo="https://cms-tabii-public-image.tabii.com/int/webp/w600/q84/43011.jpeg" group-title="Spor",Tabii Spor 3
 # ? #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-# ? #EXTVLCOPT:http-referrer=https://trgoals1333.xyz/
-# ? https://e0.4928d54d950ee70q5.lat/yayinex3.m3u8
+# ? #EXTVLCOPT:http-referrer=https://trgoals1267.xyz/
+# ? https://j0.4928d54d950ee70q10.click/yayinex3.m3u8
 https://ujnf69op16x2fiiywxcnx41q8.medya.trt.com.tr/master_1080p.m3u8
 
 #EXTINF:-1 tvg-name="Tabii Spor 4" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_TABII4" tvg-logo="https://cms-tabii-public-image.tabii.com/int/webp/w600/q84/43014.jpeg" group-title="Spor",Tabii Spor 4
 # ? #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-# ? #EXTVLCOPT:http-referrer=https://trgoals1333.xyz/
-# ? https://e0.4928d54d950ee70q5.lat/yayinex4.m3u8
+# ? #EXTVLCOPT:http-referrer=https://trgoals1267.xyz/
+# ? https://j0.4928d54d950ee70q10.click/yayinex4.m3u8
 https://bfxy3jgeydpbphtk8qfqwm3hr.medya.trt.com.tr/master_1080p.m3u8
 
 #EXTINF:-1 tvg-name="Tabii Spor 5" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_TABII5" tvg-logo="https://cms-tabii-public-image.tabii.com/int/webp/w600/q84/43017.jpeg" group-title="Spor",Tabii Spor 5
 # ? #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-# ? #EXTVLCOPT:http-referrer=https://trgoals1333.xyz/
-# ? https://e0.4928d54d950ee70q5.lat/yayinex5.m3u8
+# ? #EXTVLCOPT:http-referrer=https://trgoals1267.xyz/
+# ? https://j0.4928d54d950ee70q10.click/yayinex5.m3u8
 https://z3mmimwz148csv0vaxtphqspf.medya.trt.com.tr/master_1080p.m3u8
 
 #EXTINF:-1 tvg-name="Tabii Spor 6" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_TABII6" tvg-logo="https://cms-tabii-public-image.tabii.com/int/webp/w600/q84/43020.jpeg" group-title="Spor",Tabii Spor 6
 # ? #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-# ? #EXTVLCOPT:http-referrer=https://trgoals1333.xyz/
-# ? https://e0.4928d54d950ee70q5.lat/yayinex6.m3u8
+# ? #EXTVLCOPT:http-referrer=https://trgoals1267.xyz/
+# ? https://j0.4928d54d950ee70q10.click/yayinex6.m3u8
 https://vbtob9hyq58eiophct5qctxr2.medya.trt.com.tr/master_1080p.m3u8
 
 
