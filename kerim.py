@@ -4,6 +4,7 @@ import os
 KANAL_ADLARI = {
     "Szc Tv": "3002",
     "Sinema Tv": "1908",
+    "FX": "313131",
     "Now": "2213",
     "Sinema Yerli": "3304",
     "Sinema Aile": "1911",
