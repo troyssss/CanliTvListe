@@ -94,11 +94,11 @@ https://dogus-live.daioncdn.net/dmax/dmax.m3u8
 #EXTINF:-1 tvg-name="National Geographic" tvg-language="Turkish" tvg-country="TR" tvg-id="Belgesel_Nationalgeo" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/38a2e51a-9f7f-4915-aa88-f78190f59411.png" group-title="Belgesel",National Geographic
 https://saran-live.ercdn.net/natgeohd/index.m3u8
 
-#EXTINF:-1 tvg-name="NATIONAL GEO WILD" tvg-id="" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/c8dd414e-ebaa-487e-bdd3-9794848eeb75.png" group-title="RecTV @tabiptv",NATIONAL GEO WILD
+#EXTINF:-1 tvg-name="NATIONAL GEO WILD" tvg-id="" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/c8dd414e-ebaa-487e-bdd3-9794848eeb75.png" group-title="Belgesel",NATIONAL GEO WILD
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 https://saran-live.ercdn.net/natgeowild/index.m3u8
 
-#EXTINF:-1 tvg-name="HISTORY CHANNEL" tvg-id="" tvg-logo="https://nhd.org/wp-content/uploads/2022/11/Copy-of-Copy-of-39673730_History_Logo_2015_RGB_Black_type-1.png" group-title="RecTV @tabiptv",HISTORY CHANNEL
+#EXTINF:-1 tvg-name="HISTORY CHANNEL" tvg-id="" tvg-logo="https://nhd.org/wp-content/uploads/2022/11/Copy-of-Copy-of-39673730_History_Logo_2015_RGB_Black_type-1.png" group-title="Belgesel",HISTORY CHANNEL
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 https://subatvdeneme.kerimmkirac.workers.dev/?url=https://tv1.arectv30.sbs/live/history.m3u8&referer=https%3A%2F%2Ftaraftarium.co%2F&proxy=evet&useragent=okhttp%2F4.12.0
 
@@ -106,20 +106,20 @@ https://subatvdeneme.kerimmkirac.workers.dev/?url=https://tv1.arectv30.sbs/live/
 
 
 
-#EXTINF:-1 tvg-name="TARİH TV" tvg-id="" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/1da9e4ec-4e08-4bc9-bf29-5060d63bca07.png" group-title="RecTV @tabiptv",TARİH TV
+#EXTINF:-1 tvg-name="TARİH TV" tvg-id="" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/1da9e4ec-4e08-4bc9-bf29-5060d63bca07.png" group-title="Belgesel",TARİH TV
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 https://subatvdeneme.kerimmkirac.workers.dev/?url=https://tv1.arectv30.sbs/live/tarihtv.m3u8&referer=https%3A%2F%2Ftaraftarium.co%2F&proxy=evet&useragent=okhttp%2F4.12.0
 
-#EXTINF:-1 tvg-name="Docubox" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/DocuBox_HD_logo.png" group-title="RecTV @tabiptv",Docubox
+#EXTINF:-1 tvg-name="Docubox" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/DocuBox_HD_logo.png" group-title="Belgesel",Docubox
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 https://subatvdeneme.kerimmkirac.workers.dev/?url=https://tv1.arectv30.sbs/live/docubox.m3u8&referer=https%3A%2F%2Ftaraftarium.co%2F&proxy=evet&useragent=okhttp%2F4.12.0
 
-#EXTINF:-1 tvg-name="DISCOVERY CHANNEL" tvg-id="" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/aaac1290-6d58-4036-b106-a7026a4c1bfc.png" group-title="RecTV @tabiptv",DISCOVERY CHANNEL
+#EXTINF:-1 tvg-name="DISCOVERY CHANNEL" tvg-id="" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/aaac1290-6d58-4036-b106-a7026a4c1bfc.png" group-title="Belgesel",DISCOVERY CHANNEL
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 https://subatvdeneme.kerimmkirac.workers.dev/?url=https://tv1.arectv30.sbs/live/discovery.m3u8&referer=https%3A%2F%2Ftaraftarium.co%2F&proxy=evet&useragent=okhttp%2F4.12.0
 
 
-#EXTINF:-1 tvg-name="DISCOVERY SCIENCE" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/1200px-Discovery_Science_2017_Logo.svg.png" group-title="RecTV @tabiptv",DISCOVERY SCIENCE
+#EXTINF:-1 tvg-name="DISCOVERY SCIENCE" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/1200px-Discovery_Science_2017_Logo.svg.png" group-title="Belgesel",DISCOVERY SCIENCE
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 https://subatvdeneme.kerimmkirac.workers.dev/?url=https://tv1.arectv30.sbs/live/discs.m3u8&referer=https%3A%2F%2Ftaraftarium.co%2F&proxy=evet&useragent=okhttp%2F4.12.0
 
@@ -155,34 +155,34 @@ https://ottcdn.kablowebtv.net/live_turksat_sub3/sinemakomedi_stream/index.m3u8?w
 #EXTINF:-1 tvg-name="Sinema Aksiyon" tvg-id="1109" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/bd434731-0e47-4a37-997e-49f71340fcc6.png" group-title="Sinema ve Dizi",Sinema Aksiyon
 https://ottcdn.kablowebtv.net/live_turksat_sub3/sinemaaksiyon_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yMC8yMDI1IDY6Mjc6MDQgUE0maGFzaF92YWx1ZT1iVEFlOWx5cUp3cXNtdGhzS0FOd2hRPT0mdmFsaWRtaW51dGVzPTI4ODAmaWQ9MDkzZDcyMGEtNTAyYy00MWVkLWE4MGYtMmI4MTY5ODRmYjk1LDg5NzQxZmVjLTFkMzMtNGMwMC1hZmNkLTNmZGFmZTBiNmEyZCwxNTJiZDUzOS02MjIwLTQ0MjctYTkxNS1iZjRiZDA2OGQ3ZTgsYTY5OWI4M2YtODI2Yi00ZDk5LTkzNjEtYzhhMzEzMjE4ZDQ2LDAsOjpmZmZmOjEwLjAuMC4y
 
-#EXTINF:-1 tvg-name="Moviesmart Turk" tvg-id="" tvg-logo="https://c.prectv47.lol/uploads/cache/channel_thumb/uploads/jpg/771bc3c19a6cfa2187001771d74ba63c.jpg" group-title="RecTV @tabiptv",Moviesmart Turk
+#EXTINF:-1 tvg-name="Moviesmart Turk" tvg-id="" tvg-logo="https://c.prectv47.lol/uploads/cache/channel_thumb/uploads/jpg/771bc3c19a6cfa2187001771d74ba63c.jpg" group-title="Sinema",Moviesmart Turk
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 https://subatvdeneme.kerimmkirac.workers.dev/?url=https://tv1.arectv30.sbs/live/mvturk.m3u8&referer=https%3A%2F%2Ftaraftarium.co%2F&proxy=evet&useragent=okhttp%2F4.12.0
 
 
 
 
-#EXTINF:-1 tvg-name="Türk Sinema TV" tvg-id="" tvg-logo="https://c.prectv47.lol/uploads/cache/channel_thumb/uploads/png/389d982cb693a94e1c6aae2ee5e34594.png" group-title="RecTV @tabiptv",Türk Sinema TV
+#EXTINF:-1 tvg-name="Türk Sinema TV" tvg-id="" tvg-logo="https://c.prectv47.lol/uploads/cache/channel_thumb/uploads/png/389d982cb693a94e1c6aae2ee5e34594.png" group-title="Sinema",Türk Sinema TV
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 https://subatvdeneme.kerimmkirac.workers.dev/?url=https://tv1.arectv30.sbs/live/sinema2.m3u8&referer=https%3A%2F%2Ftaraftarium.co%2F&proxy=evet&useragent=okhttp%2F4.12.0
 
-#EXTINF:-1 tvg-name="Sinema TV Aksiyon" tvg-id="" tvg-logo="https://c.prectv47.lol/uploads/cache/channel_thumb/uploads/png/11ae72baa495a639e5193cbed5fd92da.png" group-title="RecTV @tabiptv",Sinema TV Aksiyon
+#EXTINF:-1 tvg-name="Sinema TV Aksiyon" tvg-id="" tvg-logo="https://c.prectv47.lol/uploads/cache/channel_thumb/uploads/png/11ae72baa495a639e5193cbed5fd92da.png" group-title="Sinema",Sinema TV Aksiyon
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 https://subatvdeneme.kerimmkirac.workers.dev/?url=https://tv1.arectv30.sbs/live/sinemaaksiyon2.m3u8&referer=https%3A%2F%2Ftaraftarium.co%2F&proxy=evet&useragent=okhttp%2F4.12.0
 
-#EXTINF:-1 tvg-name="Sinema TV Komedi" tvg-id="" tvg-logo="https://c.prectv47.lol/uploads/cache/channel_thumb/uploads/png/bb0d39dbbdee543eb42f4e77fd30c324.png" group-title="RecTV @tabiptv",Sinema TV Komedi
+#EXTINF:-1 tvg-name="Sinema TV Komedi" tvg-id="" tvg-logo="https://c.prectv47.lol/uploads/cache/channel_thumb/uploads/png/bb0d39dbbdee543eb42f4e77fd30c324.png" group-title="Sinema",Sinema TV Komedi
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 https://subatvdeneme.kerimmkirac.workers.dev/?url=https://tv1.arectv30.sbs/live/sinemakomedi.m3u8&referer=https%3A%2F%2Ftaraftarium.co%2F&proxy=evet&useragent=okhttp%2F4.12.0
 
-#EXTINF:-1 tvg-name="Sinema TV Yerli" tvg-id="" tvg-logo="https://c.prectv47.lol/uploads/cache/channel_thumb/uploads/png/aefea49a94d29d26305b35ffd21ca4e7.png" group-title="RecTV @tabiptv",Sinema TV Yerli
+#EXTINF:-1 tvg-name="Sinema TV Yerli" tvg-id="" tvg-logo="https://c.prectv47.lol/uploads/cache/channel_thumb/uploads/png/aefea49a94d29d26305b35ffd21ca4e7.png" group-title="Sinema",Sinema TV Yerli
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 https://subatvdeneme.kerimmkirac.workers.dev/?url=https://tv1.arectv30.sbs/live/sinemayerli2.m3u8&referer=https%3A%2F%2Ftaraftarium.co%2F&proxy=evet&useragent=okhttp%2F4.12.0
 
-#EXTINF:-1 tvg-name="Sinema TV Aile" tvg-id="" tvg-logo="https://c.prectv47.lol/uploads/cache/channel_thumb/uploads/png/5959572ddb15da121258c8eaa756f7c9.png" group-title="RecTV @tabiptv",Sinema TV Aile
+#EXTINF:-1 tvg-name="Sinema TV Aile" tvg-id="" tvg-logo="https://c.prectv47.lol/uploads/cache/channel_thumb/uploads/png/5959572ddb15da121258c8eaa756f7c9.png" group-title="Sinema",Sinema TV Aile
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 https://subatvdeneme.kerimmkirac.workers.dev/?url=https://tv1.arectv30.sbs/live/sinemaaile2.m3u8&referer=https%3A%2F%2Ftaraftarium.co%2F&proxy=evet&useragent=okhttp%2F4.12.0
 
-#EXTINF:-1 tvg-name="Sinema TV 1001" tvg-id="" tvg-logo="https://c.prectv47.lol/uploads/cache/channel_thumb/uploads/png/8c31ff828bc07a09eb52fb8312f23abb.png" group-title="RecTV @tabiptv",Sinema TV 1001
+#EXTINF:-1 tvg-name="Sinema TV 1001" tvg-id="" tvg-logo="https://c.prectv47.lol/uploads/cache/channel_thumb/uploads/png/8c31ff828bc07a09eb52fb8312f23abb.png" group-title="Sinema",Sinema TV 1001
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 https://subatvdeneme.kerimmkirac.workers.dev/?url=https://tv1.arectv30.sbs/live/sinema1002.m3u8&referer=https%3A%2F%2Ftaraftarium.co%2F&proxy=evet&useragent=okhttp%2F4.12.0
 
