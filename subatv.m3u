@@ -186,6 +186,8 @@ https://subatvdeneme.kerimmkirac.workers.dev/?url=https://tv1.arectv30.sbs/live/
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 https://subatvdeneme.kerimmkirac.workers.dev/?url=https://tv1.arectv30.sbs/live/sinema1002.m3u8&referer=https%3A%2F%2Ftaraftarium.co%2F&proxy=evet&useragent=okhttp%2F4.12.0
 
+# * » Çoçuk « * #
+
 #EXTINF:-1 tvg-name="Trt Çocuk" tvg-id="2212" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/3261c5eb-0e08-4c96-b8fc-58211e3da29c.png" group-title="Çocuk & Eğitim",Trt Çocuk
 https://ottcdn.kablowebtv.net/live_turksat_sub3/trtcocuk_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yMC8yMDI1IDU6NTc6MDMgUE0maGFzaF92YWx1ZT00dDhYUSs3TVBiV0ZoZHlhNE1ZOENBPT0mdmFsaWRtaW51dGVzPTI4ODAmaWQ9MDkzZDcyMGEtNTAyYy00MWVkLWE4MGYtMmI4MTY5ODRmYjk1LDg5NzQxZmVjLTFkMzMtNGMwMC1hZmNkLTNmZGFmZTBiNmEyZCwxNTJiZDUzOS02MjIwLTQ0MjctYTkxNS1iZjRiZDA2OGQ3ZTgsYTY5OWI4M2YtODI2Yi00ZDk5LTkzNjEtYzhhMzEzMjE4ZDQ2LDAsOjpmZmZmOjEwLjAuMC41
 #EXTINF:-1 tvg-name="Minika Çocuk" tvg-id="2608" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/12a9b581-f79c-41ba-b1e4-2f13f0087776.png" group-title="Çocuk & Eğitim",Minika Çocuk
