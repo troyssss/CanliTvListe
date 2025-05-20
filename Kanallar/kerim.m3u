@@ -355,7 +355,7 @@ https://tjktv-live.tjk.org/tjktv/tjktv.m3u8
 https://tjktv-live.tjk.org/tjktv2/tjktv2.m3u8
 
 
-#EXTINF:-1 tvg-name="Nba Tv A" tvg-language="English" tvg-country="USA" tvg-id="3903" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/1af109dc-4dc7-4185-981b-ccc6f8d45e83.png" group-title="Spor",Nba Tv A
+#EXTINF:-1 tvg-name="Nba Tv A" tvg-language="English" tvg-country="USA" tvg-id="3903" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/1af109dc-4dc7-4185-981b-ccc6f8d45e83.png" group-title="Spor",Nba Tv 
 https://ottcdn.kablowebtv.net/live_turksat_sub3/nbatv_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOC8yMDI1IDY6NDk6MTggQU0maGFzaF92YWx1ZT1od0dVcjdOcUo1bm0xaFI0TzBaMHFRPT0mdmFsaWRtaW51dGVzPTI4ODAmaWQ9MDkzZDcyMGEtNTAyYy00MWVkLWE4MGYtMmI4MTY5ODRmYjk1LDg5NzQxZmVjLTFkMzMtNGMwMC1hZmNkLTNmZGFmZTBiNmEyZCwxNTJiZDUzOS02MjIwLTQ0MjctYTkxNS1iZjRiZDA2OGQ3ZTgsYTY5OWI4M2YtODI2Yi00ZDk5LTkzNjEtYzhhMzEzMjE4ZDQ2LDAsOjpmZmZmOjEwLjAuMC4y
 
 #EXTINF:-1 tvg-name="NBA TV B" tvg-language="English" tvg-country="USA" tvg-id="Spor_NBATVB" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/8/89/Nbatv.png" group-title="Spor",NBA TV B
