@@ -12,6 +12,8 @@ KANAL_ADLARI = {
     "Sinema Komedi": "1110",
     "Sinema Aksiyon": "1109",
     "Trt Çocuk": "2212",
+    "Cnn Türk": "2813",
+    "A Haber": "2402",
     "Minika Çocuk": "2608",
     "Minika Go": "2404",
     "Trt Diyanet Çocuk": "2703",
