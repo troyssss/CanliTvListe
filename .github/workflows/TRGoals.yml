@@ -40,6 +40,12 @@ jobs:
 
       - name: MonoTV.py Çalıştır
         run: python MonoTV.py
+        
+      - name: TRGoals2.py Çalıştır
+        run: python trgoals2.py
+
+      - name: MonoTV2.py Çalıştır
+        run: python monotv2.py
 
       - name: Değişiklik Kontrolü
         id: degisiklik_kontrol
