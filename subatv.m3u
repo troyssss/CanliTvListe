@@ -337,6 +337,9 @@ https://tjktv-live.tjk.org/tjktv/tjktv.m3u8
 #EXTINF:-1 tvg-name="TJK TV 2" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_TJKTV_2" tvg-logo="https://raw.githubusercontent.com/kerimmkirac/CanliTvListe/refs/heads/main/tjk1.png" group-title="Spor",TJK TV 2
 https://tjktv-live.tjk.org/tjktv2/tjktv2.m3u8
 
+#EXTINF:-1 tvg-name="Solh Sport" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_SolhSport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBnXeED_k_TwQ3RBYwxllv-Vbxu-592OeCpQ&s" group-title="Spor",Solh Sport
+https://solhtvhls.wns.live/hls/stream.m3u8
+
 
 #EXTINF:-1 tvg-name="Nba Tv A" tvg-id="3903" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/1af109dc-4dc7-4185-981b-ccc6f8d45e83.png" group-title="Spor",Nba Tv
 https://ottcdn.kablowebtv.net/live_turksat_sub3/nbatv_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8zMS8yMDI1IDY6MjU6MDQgQU0maGFzaF92YWx1ZT1INHBINENyNk03V0hPQ04rUmh2dWV3PT0mdmFsaWRtaW51dGVzPTI4ODAmaWQ9MDkzZDcyMGEtNTAyYy00MWVkLWE4MGYtMmI4MTY5ODRmYjk1LDg5NzQxZmVjLTFkMzMtNGMwMC1hZmNkLTNmZGFmZTBiNmEyZCwxNTJiZDUzOS02MjIwLTQ0MjctYTkxNS1iZjRiZDA2OGQ3ZTgsYTY5OWI4M2YtODI2Yi00ZDk5LTkzNjEtYzhhMzEzMjE4ZDQ2LDAsOjpmZmZmOjEwLjAuMC4yMDY=
