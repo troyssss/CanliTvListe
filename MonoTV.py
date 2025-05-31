@@ -1,6 +1,6 @@
 import re
 from httpx import Client
-from Kekik.cli import konsol as log  # print ile değiştirilebilir
+from Kekik.cli import konsol as log  
 
 class MonoTV:
     def __init__(self, m3u_dosyasi):
@@ -47,10 +47,10 @@ class MonoTV:
 
         for eslesme in eslesmeler:
             eski_link = eslesme[3]
-            # URL'nin path kısmını koruyarak base'ini değiştiriyoruz
-            path_kismi = '/' + '/'.join(eski_link.split('/')[3:])  # /yayint1.m3u8
+            
+            path_kismi = '/' + '/'.join(eski_link.split('/')[3:])  
             yeni_link = yeni_yayin_url + path_kismi
-            # birden fazla '/' varsa düzelt
+            
             yeni_link = re.sub(r'(?<!:)//+', '/', yeni_link)
             if eski_link != yeni_link:
                 log.log(f"[blue]• Güncellendi: {eski_link} → {yeni_link}")
