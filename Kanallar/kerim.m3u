@@ -53,8 +53,9 @@ https://ceokzokgtd.erbvr.com/tabiitv/tabiitv.m3u8
 
 
 
-#EXTINF:-1 tvg-name="TV 85" tvg-language="Turkish" tvg-country="TR" tvg-id="Genel_TV85" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/812f4ba5-846e-4ae9-90fc-8f9f481156b5.png" group-title="Genel",TV 8,5
+#EXTINF:-1 tvg-name="TV 8,5" tvg-language="Turkish" tvg-country="TR" tvg-id="Genel_TV85" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/812f4ba5-846e-4ae9-90fc-8f9f481156b5.png" group-title="Genel",Tv 8,5
 https://ottcdn.kablowebtv.net/live_turksat_sub3/tv8_5_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xNy8yMDI1IDY6MDg6NDYgQU0maGFzaF92YWx1ZT1UQ1BFNHI1T1BxKzdDVkFQMk8yZUF3PT0mdmFsaWRtaW51dGVzPTI4ODAmaWQ9MDkzZDcyMGEtNTAyYy00MWVkLWE4MGYtMmI4MTY5ODRmYjk1LDg5NzQxZmVjLTFkMzMtNGMwMC1hZmNkLTNmZGFmZTBiNmEyZCwxNTJiZDUzOS02MjIwLTQ0MjctYTkxNS1iZjRiZDA2OGQ3ZTgsYTY5OWI4M2YtODI2Yi00ZDk5LTkzNjEtYzhhMzEzMjE4ZDQ2LDAsOjpmZmZmOjEwLjAuMC4y
+
 
 #EXTINF:-1 tvg-name="Beyaz TV" tvg-language="Turkish" tvg-country="TR" tvg-id="Genel_BeyazTV" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/a92329d7-3d4c-4631-ab3e-c7d36a3f1a6f.png" group-title="Genel",Beyaz TV
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8
