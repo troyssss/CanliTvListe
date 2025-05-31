@@ -35,7 +35,7 @@ class TRGoals:
         if "bit.ly" in redirect_url or "error" in redirect_url:
             konsol.log("[yellow][!] 5 denemeden sonra bit.ly çözülemedi, yedek linke geçiliyor...")
             try:
-                redirect_url = self.redirect_gec("https://t.co/aOAO1eIsqE") # Yedek link
+                redirect_url = self.redirect_gec("https://t.co/aOAO1eIsqE") 
             except Exception as e:
                 
                 raise ValueError(f"Yedek linkten de domain alınamadı: {e}")
@@ -134,7 +134,7 @@ class TRGoals:
         try:
             response = self.httpx.get(kontrol_url, follow_redirects=True)
             response.raise_for_status()
-            if baseurl_match := re.search(r'(?:var|let|const)\s+baseurl\s*=\s*"(https?://[^"/]+(?:/[^"/]*)?)"', response.text): # Host ve optional path
+            if baseurl_match := re.search(r'(?:var|let|const)\s+baseurl\s*=\s*"(https?://[^"/]+(?:/[^"/]*)?)"', response.text): 
                 yeni_stream_domain = baseurl_match.group(1).strip("/")
                 konsol.log(f"[green][+] Yeni Yayın (Stream) Domain/Base: {yeni_stream_domain}")
             else:
