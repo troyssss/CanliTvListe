@@ -43,7 +43,7 @@ jobs:
       - name: MonoTV2.py Çalıştır
         run: python monotv2.py
         
-      # M3U Güncelleme İşlemleri
+      
       - name: M3U Listesini İndir ve Güncelle
         run: |
           curl -s "https://raw.githubusercontent.com/Sakubaba00/saku/refs/heads/main/playlist1.m3u" > yeni.m3u
