@@ -1,5 +1,4 @@
 
-# ! Bu araç @keyiflerolsun tarafından | @KekikAkademi için yazılmıştır.
 
 from Kekik.cli import konsol
 from httpx     import Client
@@ -48,11 +47,11 @@ class TRGoals:
         except Exception as e:
             raise ValueError(f"Redirect sırasında hata oluştu: {e}")
 
-        # Tüm yönlendirme zincirlerini al
+        
         tum_url_listesi = [str(r.url) for r in response.history] + [str(response.url)]
 
-        # İlk "trgoals" içeren linki bul
-        for url in tum_url_listesi[::-1]:  # sondan başlayarak kontrol et
+        
+        for url in tum_url_listesi[::-1]:  
             if "trgoals" in url:
                 return url.strip("/")
 
@@ -65,21 +64,21 @@ class TRGoals:
             return domain
 
         try:
-            # İlk kontrol: Redirect geçiş
+            
             yeni_domain = check_domain(self.redirect_gec(eldeki_domain))
         except Exception:
             konsol.log("[red][!] `redirect_gec(eldeki_domain)` fonksiyonunda hata oluştu.")
             try:
-                # İkinci kontrol: trgoals domainini al
+                
                 yeni_domain = check_domain(self.trgoals_domaini_al())
             except Exception:
                 konsol.log("[red][!] `trgoals_domaini_al` fonksiyonunda hata oluştu.")
                 try:
-                    # Üçüncü kontrol: Alternatif bir URL üzerinden redirect geç
+                    
                     yeni_domain = check_domain(self.redirect_gec("https://t.co/MTLoNVkGQN"))
                 except Exception:
                     konsol.log("[red][!] `redirect_gec('https://t.co/MTLoNVkGQN')` fonksiyonunda hata oluştu.")
-                    # Son çare: Yeni bir domain üret
+                    
                     rakam = int(eldeki_domain.split("trgoals")[1].split(".")[0]) + 1
                     yeni_domain = f"https://trgoals{rakam}.xyz"
 
@@ -103,7 +102,7 @@ class TRGoals:
         eski_yayin_url = eski_yayin_url[0]
         konsol.log(f"[yellow][~] Eski Yayın URL : {eski_yayin_url}")
 
-        # API çağrısı kaldırıldı, doğrudan istek yapılıyor
+        
         response = self.httpx.get(kontrol_url, follow_redirects=True)
 
         if not (yayin_ara := re.search(r'(?:var|let|const)\s+baseurl\s*=\s*"(https?://[^"]+)"', response.text)):
