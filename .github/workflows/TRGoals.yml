@@ -1,14 +1,11 @@
 name: TRGoals, MonoTV ve M3U Güncelleme Workflow (Birleşik)
-
 concurrency:
   group: ${{ github.workflow }}-${{ github.event_name }}-${{ github.ref }}
   cancel-in-progress: true
-
 on:
   workflow_dispatch:
   schedule:
     - cron: '*/10 * * * *'  
-
 jobs:
   BirlesikGuncelleme:
     runs-on: ubuntu-latest
@@ -30,7 +27,6 @@ jobs:
           python -m pip install --upgrade pip
           pip install -U setuptools wheel Kekik httpx parsel requests
           
-      
       - name: TRGoals.py Çalıştır
         run: python TRGoals.py
         
@@ -44,24 +40,24 @@ jobs:
         run: python monotv2.py
         
       
-      - name: M3U Listesini İndir ve Güncelle
+      - name:  API'den M3U Listesini Al
+        run: python kablo.py  
+        
+      - name: M3U Güncellemelerini Yap
         run: |
-          curl -s "https://raw.githubusercontent.com/Sakubaba00/saku/refs/heads/main/playlist1.m3u" > yeni.m3u
           python update_m3u.py
           python kerim.py
           
-      
       - name: Değişiklik Kontrolü
         id: degisiklik_kontrol
         run: |
           git diff --quiet . || echo "degisiklik=true" >> $GITHUB_OUTPUT
           
-      
       - name: Değişiklikleri Commit Et
         if: steps.degisiklik_kontrol.outputs.degisiklik == 'true'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add .
-          git commit -m "🔄 Tüm listeler güncellendi (TRGoals, MonoTV & M3U)" -m "📺 Domain kontrolü ve M3U güncellemeleri tamamlandı" -m "🕒 Otomatik işlem - $GITHUB_SHA"
+          git commit -m "🔄 Tüm listeler güncellendi (TRGoals, MonoTV & CanliTV)" -m "📺 Domain kontrolü ve M3U güncellemeleri tamamlandı" -m "🕒 Otomatik işlem - $GITHUB_SHA"
           git push
