@@ -39,6 +39,9 @@ jobs:
       - name: MonoTV2.py Çalıştır
         run: python monotv2.py
         
+      - name: M3U Listesini İndir 
+        run: |
+          curl -s "https://raw.githubusercontent.com/Playtvapp/Playtvlist/refs/heads/main/playtvfull.m3u" > play.m3u
       
       - name:  API'den M3U Listesini Al
         run: python kablo.py  
