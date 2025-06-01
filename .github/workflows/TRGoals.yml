@@ -43,13 +43,7 @@ jobs:
         run: |
           curl -s "https://raw.githubusercontent.com/Playtvapp/Playtvlist/refs/heads/main/playtvfull.m3u" > play.m3u
       
-      - name:  API'den M3U Listesini Al
-        run: python kablo.py  
-        
-      - name: M3U Güncellemelerini Yap
-        run: |
-          python update_m3u.py
-          python kerim.py
+      
           
       - name: Değişiklik Kontrolü
         id: degisiklik_kontrol
