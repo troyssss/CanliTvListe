@@ -37,7 +37,7 @@ jobs:
         run: python trgoals2.py
         
       - name: MonoTV2.py Çalıştır
-        run: python monotv2.py,
+        run: python monotv2.py
 
       - name: Keep HuggingFace Space alive
         run: curl https://kerimmkirac-subatvv.hf.space
