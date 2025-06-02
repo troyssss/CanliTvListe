@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-name="SubaTV" tvg-language="Turkish" tvg-country="TR" tvg-id="Subatv" tvg-logo="https://raw.githubusercontent.com/kerimmkirac/CanliTvListe/refs/heads/main/subatv.jpg" group-title="TRT",Suba Tv
+#EXTINF:-1 tvg-name="SubaTV" tvg-language="Turkish" tvg-country="TR" tvg-id="Subatv" tvg-logo="https://raw.githubusercontent.com/kerimmkirac/CanliTvListe/refs/heads/main/subaicon.jpeg" group-title="TRT",Suba Tv
 https://subatvm3u8.kerimmkirac.workers.dev/subatv.m3u8
 
 # * » TRT « * #
