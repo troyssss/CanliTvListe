@@ -40,7 +40,7 @@ jobs:
         run: python monotv2.py
 
       - name: Keep HuggingFace Space alive
-        run: curl https://kerimmkirac-subatvv.hf.space
+        run: curl https://kerimmkirac-dproxy.hf.space
 
 
       - name: voturk.m3u dosyasını indir, proxy ve logo URL'sini değiştir
