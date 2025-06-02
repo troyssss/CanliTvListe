@@ -37,7 +37,21 @@ jobs:
         run: python trgoals2.py
         
       - name: MonoTV2.py Çalıştır
-        run: python monotv2.py
+        run: python monotv2.py,
+
+      - name: Keep HuggingFace Space alive
+        run: curl https://kerimmkirac-subatvv.hf.space
+
+
+      - name: voturk.m3u dosyasını indir, proxy ve logo URL'sini değiştir
+        run: |
+          curl -s "https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/tospecial/voturk.m3u" -o voturk.m3u
+          sed -e 's|https://gitlatte-free.hf.space|https://kerimmkirac-dproxy.hf.space|g' \
+              -e 's|https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/vavoo.png|https://raw.githubusercontent.com/kerimmkirac/CanliTvListe/refs/heads/main/subaicon.jpeg|g' \
+              voturk.m3u > vavoo.m3u
+
+
+
         
       - name: M3U Listesini İndir 
         run: |
