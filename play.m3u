@@ -5,7 +5,8 @@
 https://ip100.radyotelekomtv.com:3784/stream/play.m3u8
 
 
-
+#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="Play Tv | Ulusal",PLAY TV
+https://ip100.radyotelekomtv.com:3784/stream/play.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.trt1.com.tr/public/logo/d60ab555-f948-464a-a139-df5410d2a7b5/TRT-1-Yeni-40px.png" group-title="Play Tv | Ulusal",TRT 1 HD
