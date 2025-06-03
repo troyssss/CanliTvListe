@@ -39,8 +39,14 @@ jobs:
       - name: MonoTV2.py Çalıştır
         run: python monotv2.py
 
-      - name: Keep HuggingFace Space alive
+      - name: Alive 1
         run: curl https://kerimmkirac-dproxy.hf.space
+
+      - name: Alive 2
+        run: curl https://kerimmkirac-daddylive.hf.space
+
+      - name: Alive 3
+        run: curl https://kerimmkirac-daddyliveevents.hf.space
 
       - name: vavoo.m3u dosyasını oluştur 
         run: |
@@ -55,6 +61,13 @@ jobs:
           sed -e 's|https://gitlatte-cloudstream.hf.space|https://kerimmkirac-daddylive.hf.space|g' \
               -e 's|https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/vavoo.png|https://raw.githubusercontent.com/kerimmkirac/CanliTvListe/refs/heads/main/subaicon.jpeg|g' \
           > daddylive.m3u
+
+      - name: daddyliveevents.m3u dosyasını oluştur 
+        run: |
+          curl -s "https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/dl/daddyliveevents.m3u" | \
+          sed -e 's|https://gitlatte-cloudstream.hf.space|https://kerimmkirac-daddyliveevents.hf.space|g' \
+              -e 's|https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/vavoo.png|https://raw.githubusercontent.com/kerimmkirac/CanliTvListe/refs/heads/main/subaicon.jpeg|g' \
+          > daddyliveevents.m3u
 
 
 
