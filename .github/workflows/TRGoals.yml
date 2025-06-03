@@ -43,9 +43,15 @@ jobs:
         run: curl https://kerimmkirac-dproxy.hf.space
 
 
-      - name: vavoo.m3u dosyasını oluştur (voturk.m3u'yu dönüştürerek)
+      - name: vavoo.m3u dosyasını oluştur 
         run: |
           curl -s "https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/tospecial/voturk.m3u" | \
+          sed -e 's|https://gitlatte-cloudstream.hf.space|https://kerimmkirac-daddylive.hf.space|g' \
+          > daddylive.m3u
+
+      - name: daddylive.m3u dosyasını oluştur 
+        run: |
+          curl -s "https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/dl/dl-daddyliveall.m3u" | \
           sed -e 's|https://gitlatte-free.hf.space|https://kerimmkirac-dproxy.hf.space|g' \
               -e 's|https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/vavoo.png|https://raw.githubusercontent.com/kerimmkirac/CanliTvListe/refs/heads/main/subaicon.jpeg|g' \
           > vavoo.m3u
