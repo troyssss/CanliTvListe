@@ -244,6 +244,12 @@ https://ciner-live.daioncdn.net/showtv/showtv.m3u8
 #EXTINF:-1 tvg-name="Show Max TV" tvg-language="Turkish" tvg-country="TR" tvg-id="Genel_ShowTVMAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Show_MAX_logo.svg/768px-Show_MAX_logo.svg.png" group-title="Genel",Show Max TV
 https://ciner-live.daioncdn.net/showmax/showmax.m3u8
 
+#EXTINF:-1 tvg-name="Bein İz" tvg-language="Turkish" tvg-country="TR" tvg-id="Genel_BEİNİZ" tvg-logo="https://raw.githubusercontent.com/kerimmkirac/CanliTvListe/refs/heads/main/beiniz.png" group-title="Genel",Bein İz
+https://kerimmkirac-dproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1691223078/index.m3u8
+
+#EXTINF:-1 tvg-name="Bein Gurme" tvg-language="Turkish" tvg-country="TR" tvg-id="Genel_BEİNGURME" tvg-logo="https://images.seeklogo.com/logo-png/36/2/bein-gurme-logo-png_seeklogo-367814.png" group-title="Genel",Bein Gurme
+https://kerimmkirac-dproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3583230858/index.m3u8
+
 
 #EXTINF:-1 tvg-name="Tabii TV" tvg-language="Turkish" tvg-country="TR" tvg-id="Genel_TabiiTV" tvg-logo="https://cms-tabii-assets.tabii.com/thumbnails/23963_781e9dee-cbd8-491a-b166-0b1df25b3bd0_720.jpeg" group-title="Genel",Tabii TV
 https://ceokzokgtd.erbvr.com/tabiitv/tabiitv.m3u8
