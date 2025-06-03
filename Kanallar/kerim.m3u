@@ -29,7 +29,7 @@ https://demiroren-live.daioncdn.net/kanald/kanald_1080p.m3u8
 #EXTINF:-1 tvg-language="Turkish" tvg-country="TR" tvg-id="kanald" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/d7c5d3d5-2942-4715-872f-73be070dc201.png" group-title="Genel", Kanal D
 https://ottcdn.kablowebtv.net/live_turksat_sub3/kanald_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8zLzIwMjUgNjoxMToxOCBQTSZoYXNoX3ZhbHVlPWdrL01EUEN5U0FsVkZ1dHAxQWVUd3c9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD0wOTNkNzIwYS01MDJjLTQxZWQtYTgwZi0yYjgxNjk4NGZiOTUsODk3NDFmZWMtMWQzMy00YzAwLWFmY2QtM2ZkYWZlMGI2YTJkLDE1MmJkNTM5LTYyMjAtNDQyNy1hOTE1LWJmNGJkMDY4ZDdlOCxhNjk5YjgzZi04MjZiLTRkOTktOTM2MS1jOGEzMTMyMThkNDYsMCw6OmZmZmY6MTAuMC4wLjI=
 
-#EXTINF:-1 tvg-name="Bein IZ" tvg-language="Turkish" tvg-country="TR" tvg-id="Genel_BEİNİZ" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/bein-iz-logo.png" group-title="Genel",Bein IZ
+#EXTINF:-1 tvg-name="Bein IZ" tvg-language="Turkish" tvg-country="TR" tvg-id="Genel_BEİNİZ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Bein_iz.png" group-title="Genel",Bein IZ
 https://kerimmkirac-dproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1691223078/index.m3u8
 
 #EXTINF:-1 tvg-name="Show TV" tvg-language="Turkish" tvg-country="TR" tvg-id="Genel_ShowTV" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/04fb743d-4a72-4907-8c54-f53b72c3600a.png" group-title="Genel",Show TV
