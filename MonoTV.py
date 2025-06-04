@@ -13,7 +13,7 @@ class MonoTV:
         )
 
     def yayin_urlini_al(self):
-        json_endpoint = "https://subatvdeneme.kerimmkirac.workers.dev/?url=https://royalvipcanlimac.com/domain.php&referer=https://royalvipcanlimac.com&proxy=hayir&useragent=okhttp%2F4.12.0"
+        json_endpoint = "https://vavoo.vercel.app/api/stream.js?url=https://royalvipcanlimac.com/domain.php&referer=https://royalvipcanlimac.com&useragent=okhttp/4.12.0"
         log.log(f"[cyan][~] domain.php çağrılıyor: {json_endpoint}")
         try:
             response = self.httpx.get(json_endpoint)
