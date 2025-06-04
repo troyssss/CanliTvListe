@@ -33,11 +33,7 @@ jobs:
       - name: MonoTV.py Çalıştır
         run: python MonoTV.py
         
-      - name: TRGoals2.py Çalıştır
-        run: python trgoals2.py
-        
-      - name: MonoTV2.py Çalıştır
-        run: python monotv2.py
+      
 
       - name: Alive 1
         run: curl https://kerimmkirac-dproxy.hf.space
@@ -72,9 +68,7 @@ jobs:
 
 
         
-      - name: M3U Listesini İndir 
-        run: |
-          curl -s "https://raw.githubusercontent.com/Playtvapp/Playtvlist/refs/heads/main/playtvfull.m3u" > play.m3u
+      
       
       
           
