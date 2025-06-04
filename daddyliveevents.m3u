@@ -1,25 +1,13 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/pigzillaaaaa/daddylive/refs/heads/main/epgs/daddylive-events-epg.xml"
 
-#EXTINF:-1 tvg-id="6f50f47fed4a4dfc9317625176cfd219" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",MasterChef Season 24 Episode 3 (FOXNY USA)
-https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW03NjgvbW9uby5tM3U4.m3u8
-
-#EXTINF:-1 tvg-id="c4a790738ddbb3a2b271517cd0757277" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",Jeopardy! Masters Season 3 Episode 8 (ABC NY USA)
-https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW03NjYvbW9uby5tM3U4.m3u8
-
 #EXTINF:-1 tvg-id="6bd0325562b6cfb1673023c4157d11d3" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",My Lottery Dream Home Season 5 Episode 4 (OWN USA)
 https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW0zMzEvbW9uby5tM3U4.m3u8
 
-#EXTINF:-1 tvg-id="10798903f2e2fead0afc534a0a35371c" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",NCAA Women's College World Series Final: TBD vs. TBD - Game #1 (TSN1)
-https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0xMTEvbW9uby5tM3U4.m3u8
-
-#EXTINF:-1 tvg-id="03b4d21b5e81002d4bd6f4411ba1ed53" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",A.mar Season 1 Episode 13 (UNIVISION USA)
-https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMTMyL21vbm8ubTN1OA==.m3u8
+#EXTINF:-1 tvg-id="9b6cf78cdaa031891ba2c584c975ed4b" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",Dateline: Secrets Uncovered Season 15 Episode 1 (OXYGEN TRUE CRIME)
+https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW0zMzIvbW9uby5tM3U4.m3u8
 
 #EXTINF:-1 tvg-id="8d1d29c7a190104a217789d52239aa4a" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",Life Below Zero: First Alaskans Season 3 Episode 18 (NAT GEO WILD USA)
 https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW03NDUvbW9uby5tM3U4.m3u8
-
-#EXTINF:-1 tvg-id="9b6cf78cdaa031891ba2c584c975ed4b" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",Dateline: Secrets Uncovered Season 15 Episode 1 (OXYGEN TRUE CRIME)
-https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW0zMzIvbW9uby5tM3U4.m3u8
 
 #EXTINF:-1 tvg-id="e9b9f55b9b9e1cfc8046540f084583f7" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",Sullivan's Crossing Season 3 Episode 4 (CW USA)
 https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zMDAvbW9uby5tM3U4.m3u8
@@ -27,47 +15,59 @@ https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzb
 #EXTINF:-1 tvg-id="c3841f1aa3c5c452daf77fdf4716f2fa" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",Mini Reni Season 1 Episode 5 (MAGNOLIA NETWORK)
 https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW0yOTkvbW9uby5tM3U4.m3u8
 
+#EXTINF:-1 tvg-id="c4a790738ddbb3a2b271517cd0757277" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",Jeopardy! Masters Season 3 Episode 8 (ABC NY USA)
+https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW03NjYvbW9uby5tM3U4.m3u8
+
+#EXTINF:-1 tvg-id="6f50f47fed4a4dfc9317625176cfd219" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",MasterChef Season 24 Episode 3 (FOXNY USA)
+https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW03NjgvbW9uby5tM3U4.m3u8
+
+#EXTINF:-1 tvg-id="03b4d21b5e81002d4bd6f4411ba1ed53" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",A.mar Season 1 Episode 13 (UNIVISION USA)
+https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMTMyL21vbm8ubTN1OA==.m3u8
+
 #EXTINF:-1 tvg-id="6c091e5c5852ec1a4650145453387662" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",The Soccer Tournament : Seleccion Potrero vs Atlético Madrid (ESPN MEXICO)
 https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtOTI1L21vbm8ubTN1OA==.m3u8
-
-#EXTINF:-1 tvg-id="27b0fce71f63a281b4bbb6ecf4d104b6" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",7Innings Live Championship Finals New Live (ESPNU USA)
-https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zMTYvbW9uby5tM3U4.m3u8
 
 #EXTINF:-1 tvg-id="c5859f7bcc12f51550055536aca6d80f" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/wwe-logo.png" group-title="WWE",All Elite Wrestling: Dynamite (TBS USA)
 https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zMzYvbW9uby5tM3U4.m3u8
 
+#EXTINF:-1 tvg-id="27b0fce71f63a281b4bbb6ecf4d104b6" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",7Innings Live Championship Finals New Live (ESPNU USA)
+https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zMTYvbW9uby5tM3U4.m3u8
+
 #EXTINF:-1 tvg-id="c171524e05716515187659a768d0a21d" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",2025 Women's College World Series Finals Game 1: Texas Tech vs. Texas (ESPN USA)
 https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW00NC9tb25vLm0zdTg=.m3u8
 
-#EXTINF:-1 tvg-id="735d91fc2e28f839ce5b6cb62601b9f5" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/volleyball-logo.png" group-title="VOLLEYBALL",Nations League Women : South Korea vs Germany (POLSAT SPORT 2 POLAND)
-https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW01MC9tb25vLm0zdTg=.m3u8
-
-#EXTINF:-1 tvg-id="e9b9f55b9b9e1cfc8046540f084583f7" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",Sullivan's Crossing Season 3 Episode 4 (CW PIX 11 USA)
-https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMjgwL21vbm8ubTN1OA==.m3u8
-
-#EXTINF:-1 tvg-id="10798903f2e2fead0afc534a0a35371c" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",NCAA Women's College World Series Final: TBD vs. TBD - Game #1 (TSN3)
-https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0xMTMvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="c171524e05716515187659a768d0a21d" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",2025 Women's College World Series Finals Game 1: Texas Tech vs. Texas (TSN1)
+https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0xMTEvbW9uby5tM3U4.m3u8
 
 #EXTINF:-1 tvg-id="529da03c1ff6221aad5c395e7cc2cc2b" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nhl-logo.png" group-title="ICE HOCKEY",NHL : Florida Panthers vs Edmonton Oilers (HOME FEED)
 https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMi9tb25vLm0zdTg=.m3u8
 
+#EXTINF:-1 tvg-id="e9b9f55b9b9e1cfc8046540f084583f7" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",Sullivan's Crossing Season 3 Episode 4 (CW PIX 11 USA)
+https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMjgwL21vbm8ubTN1OA==.m3u8
+
 #EXTINF:-1 tvg-id="6c091e5c5852ec1a4650145453387662" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",The Soccer Tournament : Seleccion Potrero vs Atlético Madrid (ESPN4 BRAZIL)
 https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW04NS9tb25vLm0zdTg=.m3u8
+
+#EXTINF:-1 tvg-id="735d91fc2e28f839ce5b6cb62601b9f5" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/volleyball-logo.png" group-title="VOLLEYBALL",Nations League Women : South Korea vs Germany (POLSAT SPORT 2 POLAND)
+https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW01MC9tb25vLm0zdTg=.m3u8
 
 #EXTINF:-1 tvg-id="c5859f7bcc12f51550055536aca6d80f" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/wwe-logo.png" group-title="WWE",All Elite Wrestling: Dynamite (TSN2)
 https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0xMTIvbW9uby5tM3U4.m3u8
 
-#EXTINF:-1 tvg-id="529da03c1ff6221aad5c395e7cc2cc2b" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nhl-logo.png" group-title="ICE HOCKEY",NHL : Florida Panthers vs Edmonton Oilers (AWAY FEED)
-https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMy9tb25vLm0zdTg=.m3u8
-
-#EXTINF:-1 tvg-id="735d91fc2e28f839ce5b6cb62601b9f5" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/volleyball-logo.png" group-title="VOLLEYBALL",Nations League Women : South Korea vs Germany (SPORTV2 BRAZIL)
-https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW03OS9tb25vLm0zdTg=.m3u8
+#EXTINF:-1 tvg-id="c171524e05716515187659a768d0a21d" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",2025 Women's College World Series Finals Game 1: Texas Tech vs. Texas (TSN3)
+https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0xMTMvbW9uby5tM3U4.m3u8
 
 #EXTINF:-1 tvg-id="6c091e5c5852ec1a4650145453387662" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",The Soccer Tournament : Seleccion Potrero vs Atlético Madrid (ESPN2 ARGENTINA)
 https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW0xNTAvbW9uby5tM3U4.m3u8
 
+#EXTINF:-1 tvg-id="529da03c1ff6221aad5c395e7cc2cc2b" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nhl-logo.png" group-title="ICE HOCKEY",NHL : Florida Panthers vs Edmonton Oilers (AWAY FEED)
+https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMy9tb25vLm0zdTg=.m3u8
+
 #EXTINF:-1 tvg-id="c5859f7bcc12f51550055536aca6d80f" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/wwe-logo.png" group-title="WWE",All Elite Wrestling: Dynamite (FOX SPORTS PREMIUM MX)
 https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW04MzAvbW9uby5tM3U4.m3u8
+
+#EXTINF:-1 tvg-id="735d91fc2e28f839ce5b6cb62601b9f5" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/volleyball-logo.png" group-title="VOLLEYBALL",Nations League Women : South Korea vs Germany (SPORTV2 BRAZIL)
+https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW03OS9tb25vLm0zdTg=.m3u8
 
 #EXTINF:-1 tvg-id="529da03c1ff6221aad5c395e7cc2cc2b" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nhl-logo.png" group-title="ICE HOCKEY",NHL : Florida Panthers vs Edmonton Oilers (TRUTV USA)
 https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtMzQxL21vbm8ubTN1OA==.m3u8
@@ -120,32 +120,11 @@ https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzb
 #EXTINF:-1 tvg-id="529da03c1ff6221aad5c395e7cc2cc2b" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nhl-logo.png" group-title="ICE HOCKEY",NHL : Florida Panthers vs Edmonton Oilers (MAX SPORT 1 BULGARIA)
 https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW00NzIvbW9uby5tM3U4.m3u8
 
-#EXTINF:-1 tvg-id="0cfa74eeacb9d3f60b9416b6e14bb6b2" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",Sherlock &amp; Daughter Season 1 Episode 7 (CW USA)
-https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zMDAvbW9uby5tM3U4.m3u8
-
-#EXTINF:-1 tvg-id="b201d01f233991a385fc2606b4e3775b" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",Raid the Cage Season 2 Episode 9 (CBSNY USA)
-https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW03NjcvbW9uby5tM3U4.m3u8
-
-#EXTINF:-1 tvg-id="42ba72e4b6b89d276153ffe41c3f184a" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",Jeopardy! Masters Season 3 Episode 9 • Finale (ABC NY USA)
-https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW03NjYvbW9uby5tM3U4.m3u8
-
 #EXTINF:-1 tvg-id="3c07b6f14fac91b0c853029af435692e" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",Adults Season 1 Episode 3 (FX USA)
 https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zMTcvbW9uby5tM3U4.m3u8
 
-#EXTINF:-1 tvg-id="4e28a964d0b124f6163fafe421d35415" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",American Pickers Season 26 (HISTORY USA)
-https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMzIyL21vbm8ubTN1OA==.m3u8
-
-#EXTINF:-1 tvg-id="3997b1d6fafedc90800d9a41300b66fc" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",Court Cam Season 8 Episode 21 (A&AMP;E TV USA)
-https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zMDIvbW9uby5tM3U4.m3u8
-
-#EXTINF:-1 tvg-id="2269f9e12c72ae3e4e689a09dd2eafa6" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",PAYBACK Season 4 Episode 7 (TV ONE USA)
-https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNjYwL21vbm8ubTN1OA==.m3u8
-
-#EXTINF:-1 tvg-id="85f5f96c495833648786da6652eadc67" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",Summer House Season 9 Episode 17 (BRAVO USA)
-https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMzA3L21vbm8ubTN1OA==.m3u8
-
-#EXTINF:-1 tvg-id="cd8ec4ac93a9b1de2980648efc84a00a" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",Velvet: El nuevo imperio Season 1 Episode 13 (TELEMUNDO USA)
-https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW0xMzEvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="cfe96348286d51fe6e29619bcab50c8f" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",Tyler Perry's House of Payne Season 14 Episode 6 (BET USA)
+https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zMDYvbW9uby5tM3U4.m3u8
 
 #EXTINF:-1 tvg-id="2d40a2e1a6454d97ccc5675ea97b7195" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",Gordon Ramsay's Secret Service Season 1 Episode 3 (FOXNY USA)
 https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW03NjgvbW9uby5tM3U4.m3u8
@@ -153,20 +132,41 @@ https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzb
 #EXTINF:-1 tvg-id="4a8e0db8f525492828b65ce20671abde" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",Guy's Grocery Games GGG G.O.A.T. Finale (THE FOOD NETWORK)
 https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zODQvbW9uby5tM3U4.m3u8
 
-#EXTINF:-1 tvg-id="27d0bad48eaa727d3a3adad6373a28c2" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",Holmes Family Rescue Season 3 Episode 1 • Premiere (HGTV USA)
-https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zODIvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="42ba72e4b6b89d276153ffe41c3f184a" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",Jeopardy! Masters Season 3 Episode 9 • Finale (ABC NY USA)
+https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW03NjYvbW9uby5tM3U4.m3u8
+
+#EXTINF:-1 tvg-id="b201d01f233991a385fc2606b4e3775b" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",Raid the Cage Season 2 Episode 9 (CBSNY USA)
+https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW03NjcvbW9uby5tM3U4.m3u8
+
+#EXTINF:-1 tvg-id="cd8ec4ac93a9b1de2980648efc84a00a" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",Velvet: El nuevo imperio Season 1 Episode 13 (TELEMUNDO USA)
+https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW0xMzEvbW9uby5tM3U4.m3u8
+
+#EXTINF:-1 tvg-id="0cfa74eeacb9d3f60b9416b6e14bb6b2" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",Sherlock &amp; Daughter Season 1 Episode 7 (CW USA)
+https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zMDAvbW9uby5tM3U4.m3u8
 
 #EXTINF:-1 tvg-id="9b3ad2b5de8468c9d88843fd9343081e" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",Border Security: Australia's Front Line Season 15 Episode 13 (NATIONAL GEOGRAPHIC (NGC))
 https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zMjgvbW9uby5tM3U4.m3u8
 
-#EXTINF:-1 tvg-id="cfe96348286d51fe6e29619bcab50c8f" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",Tyler Perry's House of Payne Season 14 Episode 6 (BET USA)
-https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zMDYvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="85f5f96c495833648786da6652eadc67" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",Summer House Season 9 Episode 17 (BRAVO USA)
+https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMzA3L21vbm8ubTN1OA==.m3u8
 
-#EXTINF:-1 tvg-id="01e6006462419c132ad3a7cd2acfc715" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",Ridiculousness Season 44 Episode 11 (MTV USA)
-https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMzcxL21vbm8ubTN1OA==.m3u8
+#EXTINF:-1 tvg-id="27d0bad48eaa727d3a3adad6373a28c2" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",Holmes Family Rescue Season 3 Episode 1 • Premiere (HGTV USA)
+https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zODIvbW9uby5tM3U4.m3u8
+
+#EXTINF:-1 tvg-id="4e28a964d0b124f6163fafe421d35415" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",American Pickers Season 26 (HISTORY USA)
+https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMzIyL21vbm8ubTN1OA==.m3u8
 
 #EXTINF:-1 tvg-id="40c2e10ff4789ad2f575762597892fb4" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",Bitchin' Rides Season 11 Episode 13 (MOTOR TREND)
 https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNjYxL21vbm8ubTN1OA==.m3u8
+
+#EXTINF:-1 tvg-id="3997b1d6fafedc90800d9a41300b66fc" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",Court Cam Season 8 Episode 21 (A&AMP;E TV USA)
+https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zMDIvbW9uby5tM3U4.m3u8
+
+#EXTINF:-1 tvg-id="2269f9e12c72ae3e4e689a09dd2eafa6" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",PAYBACK Season 4 Episode 7 (TV ONE USA)
+https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNjYwL21vbm8ubTN1OA==.m3u8
+
+#EXTINF:-1 tvg-id="01e6006462419c132ad3a7cd2acfc715" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",Ridiculousness Season 44 Episode 11 (MTV USA)
+https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMzcxL21vbm8ubTN1OA==.m3u8
 
 #EXTINF:-1 tvg-id="0cfa74eeacb9d3f60b9416b6e14bb6b2" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",Sherlock &amp; Daughter Season 1 Episode 7 (CW PIX 11 USA)
 https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMjgwL21vbm8ubTN1OA==.m3u8
@@ -192,20 +192,20 @@ https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzb
 #EXTINF:-1 tvg-id="0b1dfa7aa3a7399357f098fb3106165a" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="BASEBALL",MLB : San Francisco Giants vs San Diego Padres (SPORT 5 LIVE ISRAEL)
 https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0xNDYvbW9uby5tM3U4.m3u8
 
-#EXTINF:-1 tvg-id="5e8a82a25c2942cb4923286ca278377b" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",All Elite Wrestling: Collision : Fyter Fest 2025 • Live (TBS USA)
-https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zMzYvbW9uby5tM3U4.m3u8
-
 #EXTINF:-1 tvg-id="0880228459f45804b4fb3e62fe716252" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",Twisted Metal 3RNCRCS Season 1 Episode 2 (SYFY USA)
 https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zNzMvbW9uby5tM3U4.m3u8
+
+#EXTINF:-1 tvg-id="5e8a82a25c2942cb4923286ca278377b" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",All Elite Wrestling: Collision : Fyter Fest 2025 • Live (TBS USA)
+https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zMzYvbW9uby5tM3U4.m3u8
 
 #EXTINF:-1 tvg-id="3bdf81b50b19aedf8262639c813fe1c4" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",Life or Death: The Negotiators Season 2 Episode 3 (NATIONAL GEOGRAPHIC (NGC))
 https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zMjgvbW9uby5tM3U4.m3u8
 
-#EXTINF:-1 tvg-id="509510b3c86704298a755eeefdba04a1" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",House Hunters Season 260 Episode 12 (HGTV USA)
-https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zODIvbW9uby5tM3U4.m3u8
-
 #EXTINF:-1 tvg-id="b653ae8d0b08cb843d0c82a5be1714e0" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",Taking the Stand Season 4 Episode 2 (A&AMP;E TV USA)
 https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zMDIvbW9uby5tM3U4.m3u8
+
+#EXTINF:-1 tvg-id="509510b3c86704298a755eeefdba04a1" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",House Hunters Season 260 Episode 12 (HGTV USA)
+https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zODIvbW9uby5tM3U4.m3u8
 
 #EXTINF:-1 tvg-id="d8b879615d81129c02a1e2ee96e36eef" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/badminton-logo.png" group-title="BADMINTON",BWF World Tour Indonesia Open (TV2 SPORT DENMARK)
 https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtODEwL21vbm8ubTN1OA==.m3u8
@@ -249,11 +249,11 @@ https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzb
 #EXTINF:-1 tvg-id="131a637dab600065e6c7df7f55b928e8" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",NBL : Wellington Saints vs Franklin Bulls (SKY SPORT 3 NZ)
 https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNTkwL21vbm8ubTN1OA==.m3u8
 
-#EXTINF:-1 tvg-id="f41a18b10e9b8d0b2e02e58a038f327b" tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="GYMNASTICS",Rhythmic Gymnastics European Championships Qualifiers (M4 SPORTS HUNGARY)
-https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0yNjUvbW9uby5tM3U4.m3u8
-
 #EXTINF:-1 tvg-id="5de509e3d6d3d26affb1d92553757d7a" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/volleyball-logo.png" group-title="VOLLEYBALL",Nations League Women : Thailand vs Poland (POLSAT SPORT 1 POLAND)
 https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW00Ny9tb25vLm0zdTg=.m3u8
+
+#EXTINF:-1 tvg-id="f41a18b10e9b8d0b2e02e58a038f327b" tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="GYMNASTICS",Rhythmic Gymnastics European Championships Qualifiers (M4 SPORTS HUNGARY)
+https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0yNjUvbW9uby5tM3U4.m3u8
 
 #EXTINF:-1 tvg-id="5de509e3d6d3d26affb1d92553757d7a" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/volleyball-logo.png" group-title="VOLLEYBALL",Nations League Women : Thailand vs Poland (SPORT KLUB 1 CROATIA)
 https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW0xMDEvbW9uby5tM3U4.m3u8
@@ -270,11 +270,11 @@ https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvL
 #EXTINF:-1 tvg-id="34da9acb496602de2a1becf34adeaac8" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/volleyball-logo.png" group-title="VOLLEYBALL",Nations League Women : China vs. Belgium (POLSAT SPORT 1 POLAND)
 https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW00Ny9tb25vLm0zdTg=.m3u8
 
-#EXTINF:-1 tvg-id="34da9acb496602de2a1becf34adeaac8" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/volleyball-logo.png" group-title="VOLLEYBALL",Nations League Women : China vs. Belgium (MAX SPORT 2 BULGARIA)
-https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW00NzMvbW9uby5tM3U4.m3u8
-
 #EXTINF:-1 tvg-id="c4113fab4cfa4944e9e5094de5b481c6" tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="CYCLING",Tour of Slovenia | Stage 1 Men | Piran - Skofljica (168.7km) (EUROSPORT 2 POLAND)
 https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW01OC9tb25vLm0zdTg=.m3u8
+
+#EXTINF:-1 tvg-id="34da9acb496602de2a1becf34adeaac8" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/volleyball-logo.png" group-title="VOLLEYBALL",Nations League Women : China vs. Belgium (MAX SPORT 2 BULGARIA)
+https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW00NzMvbW9uby5tM3U4.m3u8
 
 #EXTINF:-1 tvg-id="c4113fab4cfa4944e9e5094de5b481c6" tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="CYCLING",Tour of Slovenia | Stage 1 Men | Piran - Skofljica (168.7km) (EUROSPORT 2 SPAIN)
 https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW01MjUvbW9uby5tM3U4.m3u8
@@ -303,17 +303,14 @@ https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzb
 #EXTINF:-1 tvg-id="e8473cb0b2302fb3e5ddec8e52a12104" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",Super Animals Season 2 Episode 8 (MY9TV USA)
 https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW02NTQvbW9uby5tM3U4.m3u8
 
-#EXTINF:-1 tvg-id="601378e45018a26a6b90eef8c623f396" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",Roland-Garros Men | Singles | Quarter-Final (TNT SPORTS 1 UK)
-https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMzEvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="4a64d8f3d13dc93da0db026c8328f81b" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/cricket-logo.png" group-title="CRICKET",ODI Women : England W vs West Indies W (SKY SPORTS CRICKET)
+https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNjUvbW9uby5tM3U4.m3u8
 
 #EXTINF:-1 tvg-id="a1842161ddfbea26d60466bd542108c7" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Maurice Revello Tournament : Congo U20 vs Japan U20 (SPORT TV3 PORTUGAL)
 https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW00NTQvbW9uby5tM3U4.m3u8
 
-#EXTINF:-1 tvg-id="4a64d8f3d13dc93da0db026c8328f81b" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/cricket-logo.png" group-title="CRICKET",ODI Women : England W vs West Indies W (SKY SPORTS CRICKET)
-https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNjUvbW9uby5tM3U4.m3u8
-
-#EXTINF:-1 tvg-id="601378e45018a26a6b90eef8c623f396" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",Roland-Garros Men | Singles | Quarter-Final (TNT SPORTS 4 UK)
-https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMzQvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="601378e45018a26a6b90eef8c623f396" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",Roland-Garros Men | Singles | Quarter-Final (TNT SPORTS 1 UK)
+https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMzEvbW9uby5tM3U4.m3u8
 
 #EXTINF:-1 tvg-id="4a64d8f3d13dc93da0db026c8328f81b" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/cricket-logo.png" group-title="CRICKET",ODI Women : England W vs West Indies W (SKY SPORTS MAIN EVENT)
 https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zOC9tb25vLm0zdTg=.m3u8
@@ -321,14 +318,17 @@ https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzb
 #EXTINF:-1 tvg-id="a1842161ddfbea26d60466bd542108c7" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Maurice Revello Tournament : Congo U20 vs Japan U20 (FOX DEPORTES)
 https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNjQzL21vbm8ubTN1OA==.m3u8
 
+#EXTINF:-1 tvg-id="601378e45018a26a6b90eef8c623f396" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",Roland-Garros Men | Singles | Quarter-Final (TNT SPORTS 4 UK)
+https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMzQvbW9uby5tM3U4.m3u8
+
+#EXTINF:-1 tvg-id="4a64d8f3d13dc93da0db026c8328f81b" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/cricket-logo.png" group-title="CRICKET",ODI Women : England W vs West Indies W (WILLOW CRICKET)
+https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zNDYvbW9uby5tM3U4.m3u8
+
 #EXTINF:-1 tvg-id="601378e45018a26a6b90eef8c623f396" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",Roland-Garros Men | Singles | Quarter-Final (TNT USA)
 https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zMzgvbW9uby5tM3U4.m3u8
 
 #EXTINF:-1 tvg-id="601378e45018a26a6b90eef8c623f396" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",Roland-Garros Men | Singles | Quarter-Final (TRUTV USA)
 https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtMzQxL21vbm8ubTN1OA==.m3u8
-
-#EXTINF:-1 tvg-id="4a64d8f3d13dc93da0db026c8328f81b" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/cricket-logo.png" group-title="CRICKET",ODI Women : England W vs West Indies W (WILLOW CRICKET)
-https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zNDYvbW9uby5tM3U4.m3u8
 
 #EXTINF:-1 tvg-id="601378e45018a26a6b90eef8c623f396" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",Roland-Garros Men | Singles | Quarter-Final (TSN1)
 https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0xMTEvbW9uby5tM3U4.m3u8
@@ -432,17 +432,17 @@ https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzb
 #EXTINF:-1 tvg-id="a0b2a3e9c6a0a9021335a4088e71b0c8" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",Roland-Garros Women | Singles | Quarter-Final (TNT SPORTS 1 UK)
 https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMzEvbW9uby5tM3U4.m3u8
 
-#EXTINF:-1 tvg-id="ac90836a9854ccb048ef1a4e6110fb7f" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",The Soccer Tournament : The CONCAFA SC vs AFC Bournemouth (ESPN DEPORTES)
-https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zNzUvbW9uby5tM3U4.m3u8
-
 #EXTINF:-1 tvg-id="a0b2a3e9c6a0a9021335a4088e71b0c8" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",Roland-Garros Women | Singles | Quarter-Final (TNT SPORTS 4 UK)
 https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMzQvbW9uby5tM3U4.m3u8
 
-#EXTINF:-1 tvg-id="ac90836a9854ccb048ef1a4e6110fb7f" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",The Soccer Tournament : The CONCAFA SC vs AFC Bournemouth (ESPN MEXICO)
-https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtOTI1L21vbm8ubTN1OA==.m3u8
+#EXTINF:-1 tvg-id="ac90836a9854ccb048ef1a4e6110fb7f" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",The Soccer Tournament : The CONCAFA SC vs AFC Bournemouth (ESPN DEPORTES)
+https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zNzUvbW9uby5tM3U4.m3u8
 
 #EXTINF:-1 tvg-id="a0b2a3e9c6a0a9021335a4088e71b0c8" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",Roland-Garros Women | Singles | Quarter-Final (TNT USA)
 https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zMzgvbW9uby5tM3U4.m3u8
+
+#EXTINF:-1 tvg-id="ac90836a9854ccb048ef1a4e6110fb7f" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",The Soccer Tournament : The CONCAFA SC vs AFC Bournemouth (ESPN MEXICO)
+https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtOTI1L21vbm8ubTN1OA==.m3u8
 
 #EXTINF:-1 tvg-id="a0b2a3e9c6a0a9021335a4088e71b0c8" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",Roland-Garros Women | Singles | Quarter-Final (TRUTV USA)
 https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtMzQxL21vbm8ubTN1OA==.m3u8
@@ -543,17 +543,17 @@ https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzb
 #EXTINF:-1 tvg-id="4e8ef610797b5f04dd2377fdbf0021ae" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",The Soccer Tournament : Seleccion Potrero vs Trident (ESPN DEPORTES)
 https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zNzUvbW9uby5tM3U4.m3u8
 
-#EXTINF:-1 tvg-id="d4616ab4032561fde419c942dcd0aaf4" tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="WATER SPORTS",European Artistic Swimming Championships (RTP 2 PORTUGAL)
-https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW03MjAvbW9uby5tM3U4.m3u8
-
 #EXTINF:-1 tvg-id="3d3416d6c2ba0478936bb52d41808536" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/volleyball-logo.png" group-title="VOLLEYBALL",Nations League Women : Netherlands vs Japan (POLSAT SPORT 2 POLAND)
 https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW01MC9tb25vLm0zdTg=.m3u8
 
-#EXTINF:-1 tvg-id="d4616ab4032561fde419c942dcd0aaf4" tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="WATER SPORTS",European Artistic Swimming Championships (5 PLUS ISRAEL)
-https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0xNDUvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="d4616ab4032561fde419c942dcd0aaf4" tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="WATER SPORTS",European Artistic Swimming Championships (RTP 2 PORTUGAL)
+https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW03MjAvbW9uby5tM3U4.m3u8
 
 #EXTINF:-1 tvg-id="3d3416d6c2ba0478936bb52d41808536" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/volleyball-logo.png" group-title="VOLLEYBALL",Nations League Women : Netherlands vs Japan (ARENA PREMIUM 3 SERBIA)
 https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW0xMzkvbW9uby5tM3U4.m3u8
+
+#EXTINF:-1 tvg-id="d4616ab4032561fde419c942dcd0aaf4" tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="WATER SPORTS",European Artistic Swimming Championships (5 PLUS ISRAEL)
+https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0xNDUvbW9uby5tM3U4.m3u8
 
 #EXTINF:-1 tvg-id="3d3416d6c2ba0478936bb52d41808536" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/volleyball-logo.png" group-title="VOLLEYBALL",Nations League Women : Netherlands vs Japan (RTVS SPORT SLOVAKIA HD)
 https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMy9tb25vLm0zdTg=.m3u8
@@ -576,23 +576,23 @@ https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a
 #EXTINF:-1 tvg-id="822d7ff5840f0ab6a16e99148f2bc052" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",Lithuanian League: Playoffs - 1/2 Final (G3) : Rytas vs Lietkabelis (SPORT KLUB 5 CROATIA)
 https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMTkvbW9uby5tM3U4.m3u8
 
+#EXTINF:-1 tvg-id="6d8e0449545df46d3b8e4fa6349d67a1" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Friendly International : Serbia U21 vs Greece U21 (ARENA 2 PREMIUM SERBIA)
+https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW0xMzUvbW9uby5tM3U4.m3u8
+
 #EXTINF:-1 tvg-id="26caf099f117f82cfaed0887fd458304" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Canadian Premier League : Valour vs Vancouver FC (FOX SOCCER PLUS)
 https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW03NTYvbW9uby5tM3U4.m3u8
 
 #EXTINF:-1 tvg-id="ca3646804b7264bfb0d66324aa1ab96c" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",The Soccer Tournament : América vs Drip FC (ESPNU USA)
 https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zMTYvbW9uby5tM3U4.m3u8
 
-#EXTINF:-1 tvg-id="6d8e0449545df46d3b8e4fa6349d67a1" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Friendly International : Serbia U21 vs Greece U21 (ARENA 2 PREMIUM SERBIA)
-https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW0xMzUvbW9uby5tM3U4.m3u8
-
-#EXTINF:-1 tvg-id="c8ad56439e8e40090507de0a9b23e242" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",Romania LNBM Mozzart : CSM Oradea vs U-Banca Transilvania Cluj-Napoca (DIGI SPORT 2 ROMANIA)
-https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtNDAxL21vbm8ubTN1OA==.m3u8
+#EXTINF:-1 tvg-id="142b1210129b79323e5b86521142840a" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/handball-logo.png" group-title="HANDBALL",Superliga : Vojvodina vs Partizan (ARENA SPORT 3 SERBIA)
+https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW00MzEvbW9uby5tM3U4.m3u8
 
 #EXTINF:-1 tvg-id="72d245b175dffac9381dff2af98778ca" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",KLS : FMP Beograd vs Partizan (ARENA 1 PREMIUM SERBIA)
 https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW0xMzQvbW9uby5tM3U4.m3u8
 
-#EXTINF:-1 tvg-id="142b1210129b79323e5b86521142840a" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/handball-logo.png" group-title="HANDBALL",Superliga : Vojvodina vs Partizan (ARENA SPORT 3 SERBIA)
-https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW00MzEvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="c8ad56439e8e40090507de0a9b23e242" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",Romania LNBM Mozzart : CSM Oradea vs U-Banca Transilvania Cluj-Napoca (DIGI SPORT 2 ROMANIA)
+https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtNDAxL21vbm8ubTN1OA==.m3u8
 
 #EXTINF:-1 tvg-id="ca3646804b7264bfb0d66324aa1ab96c" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",The Soccer Tournament : América vs Drip FC (ESPN MEXICO (CH-925) } ESPN DEPORTES)
 https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zNzUvbW9uby5tM3U4.m3u8
@@ -606,11 +606,11 @@ https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvL
 #EXTINF:-1 tvg-id="3546ed1b0eb7d54ad292cc7e115eb696" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",Israeli National League Basketball : Hapoel Eilat vs Maccabi Rishon (5 SPORT ISRAEL)
 https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0xNDQvbW9uby5tM3U4.m3u8
 
-#EXTINF:-1 tvg-id="08e622c54fc3623bc7b8d99d54485535" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/handball-logo.png" group-title="HANDBALL",Hungary NB I : SC Szeged vs. Veszprem KC (M4 SPORT HUNGARY)
-https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0yNjUvbW9uby5tM3U4.m3u8
-
 #EXTINF:-1 tvg-id="f32e480faec6f8f1e1f012825e39a9af" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/handball-logo.png" group-title="HANDBALL",888ligaen : GOG vs Holstebro (TV2 SPORT DENMARK)
 https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtODEwL21vbm8ubTN1OA==.m3u8
+
+#EXTINF:-1 tvg-id="08e622c54fc3623bc7b8d99d54485535" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/handball-logo.png" group-title="HANDBALL",Hungary NB I : SC Szeged vs. Veszprem KC (M4 SPORT HUNGARY)
+https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0yNjUvbW9uby5tM3U4.m3u8
 
 #EXTINF:-1 tvg-id="8c94302c43d4466b2dff881dec93d7c1" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/horse-logo.png" group-title="HORSE RACING",America's Day At the Races (FOX SPORTS 2 USA)
 https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW03NTgvbW9uby5tM3U4.m3u8
@@ -639,14 +639,17 @@ https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzb
 #EXTINF:-1 tvg-id="64b09120684e817c1f436c98e546e72b" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/handball-logo.png" group-title="HANDBALL",Germany Bundesliga : TSV Hannover-Burgdorf vs. THW Kiel (VODAFONE SPORT)
 https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW0yNjAvbW9uby5tM3U4.m3u8
 
-#EXTINF:-1 tvg-id="0a7b0be126279bc4d787da1d71f33662" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",ABA League 2 : Ilirija vs Cibona (ARENA SPORT 8 SERBIA)
-https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtOTQzL21vbm8ubTN1OA==.m3u8
-
 #EXTINF:-1 tvg-id="a1473c33fa377aa4f3c667c7cbe9c444" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/volleyball-logo.png" group-title="VOLLEYBALL",Nations League Women : USA vs. Italy (CBS SPORTS NETWORK)
 https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zMDgvbW9uby5tM3U4.m3u8
 
 #EXTINF:-1 tvg-id="488f2a61d14546c61520a1cf14ab48d8" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",ACB : Joventut Badalona vs Tenerife (DAZN ELEVEN 3 PORTUGAL)
 https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW00NTcvbW9uby5tM3U4.m3u8
+
+#EXTINF:-1 tvg-id="0a7b0be126279bc4d787da1d71f33662" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",ABA League 2 : Ilirija vs Cibona (ARENA SPORT 8 SERBIA)
+https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtOTQzL21vbm8ubTN1OA==.m3u8
+
+#EXTINF:-1 tvg-id="488f2a61d14546c61520a1cf14ab48d8" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",ACB : Joventut Badalona vs Tenerife (ARENA SPORT 1 SERBIA)
+https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW00MjkvbW9uby5tM3U4.m3u8
 
 #EXTINF:-1 tvg-id="64b09120684e817c1f436c98e546e72b" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/handball-logo.png" group-title="HANDBALL",Germany Bundesliga : TSV Hannover-Burgdorf vs. THW Kiel (NOVA SPORT 1 CZECH)
 https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMTAvbW9uby5tM3U4.m3u8
@@ -654,32 +657,29 @@ https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvL
 #EXTINF:-1 tvg-id="a1473c33fa377aa4f3c667c7cbe9c444" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/volleyball-logo.png" group-title="VOLLEYBALL",Nations League Women : USA vs. Italy (ARENA SPORT 4 SERBIA)
 https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW01ODEvbW9uby5tM3U4.m3u8
 
-#EXTINF:-1 tvg-id="488f2a61d14546c61520a1cf14ab48d8" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",ACB : Joventut Badalona vs Tenerife (ARENA SPORT 1 SERBIA)
-https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW00MjkvbW9uby5tM3U4.m3u8
-
 #EXTINF:-1 tvg-id="a1473c33fa377aa4f3c667c7cbe9c444" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/volleyball-logo.png" group-title="VOLLEYBALL",Nations League Women : USA vs. Italy (POLSAT SPORT 3 POLAND)
 https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW0xMjkvbW9uby5tM3U4.m3u8
 
 #EXTINF:-1 tvg-id="488f2a61d14546c61520a1cf14ab48d8" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",ACB : Joventut Badalona vs Tenerife (COSMOTE SPORT 4 GREECE)
 https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNjI1L21vbm8ubTN1OA==.m3u8
 
-#EXTINF:-1 tvg-id="a1473c33fa377aa4f3c667c7cbe9c444" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/volleyball-logo.png" group-title="VOLLEYBALL",Nations League Women : USA vs. Italy (SPORTV2 BRAZIL)
-https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW03OS9tb25vLm0zdTg=.m3u8
-
 #EXTINF:-1 tvg-id="488f2a61d14546c61520a1cf14ab48d8" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",ACB : Joventut Badalona vs Tenerife (SPORTDIGITAL+ DE)
 https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNjQwL21vbm8ubTN1OA==.m3u8
 
-#EXTINF:-1 tvg-id="a1473c33fa377aa4f3c667c7cbe9c444" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/volleyball-logo.png" group-title="VOLLEYBALL",Nations League Women : USA vs. Italy (MAX SPORT 2 BULGARIA)
-https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW00NzMvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="a1473c33fa377aa4f3c667c7cbe9c444" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/volleyball-logo.png" group-title="VOLLEYBALL",Nations League Women : USA vs. Italy (SPORTV2 BRAZIL)
+https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW03OS9tb25vLm0zdTg=.m3u8
 
 #EXTINF:-1 tvg-id="488f2a61d14546c61520a1cf14ab48d8" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",ACB : Joventut Badalona vs Tenerife (SPORTKLUB 4 CROATIA)
 https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMTA0L21vbm8ubTN1OA==.m3u8
 
-#EXTINF:-1 tvg-id="a1473c33fa377aa4f3c667c7cbe9c444" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/volleyball-logo.png" group-title="VOLLEYBALL",Nations League Women : USA vs. Italy (SPORT KLUB HD CROATIA)
-https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW00NTMvbW9uby5tM3U4.m3u8
-
 #EXTINF:-1 tvg-id="488f2a61d14546c61520a1cf14ab48d8" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",ACB : Joventut Badalona vs Tenerife (SPORT 4 ISRAEL)
 https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0xNDMvbW9uby5tM3U4.m3u8
+
+#EXTINF:-1 tvg-id="a1473c33fa377aa4f3c667c7cbe9c444" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/volleyball-logo.png" group-title="VOLLEYBALL",Nations League Women : USA vs. Italy (MAX SPORT 2 BULGARIA)
+https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW00NzMvbW9uby5tM3U4.m3u8
+
+#EXTINF:-1 tvg-id="a1473c33fa377aa4f3c667c7cbe9c444" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/volleyball-logo.png" group-title="VOLLEYBALL",Nations League Women : USA vs. Italy (SPORT KLUB HD CROATIA)
+https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW00NTMvbW9uby5tM3U4.m3u8
 
 #EXTINF:-1 tvg-id="f676c523541f350fc83bdb34d3bfe83b" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="BASEBALL",MLB : Boston Red Sox vs Los Angeles Angels (MLB LEAGUE PASS)
 https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMTQvbW9uby5tM3U4.m3u8
@@ -708,38 +708,38 @@ https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzb
 #EXTINF:-1 tvg-id="d34303044f21d45bfb98c8e6bf141a6a" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",Beyond the Gates Season 1 Episode 66 (CBSNY USA)
 https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW03NjcvbW9uby5tM3U4.m3u8
 
-#EXTINF:-1 tvg-id="eab75c2db2d777545b67cacff513b5bf" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",KLS : Crvena Zvezda Meridianbet vs Spartak Office Shoes (ARENA 1 PREMIUM SERBIA)
-https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW0xMzQvbW9uby5tM3U4.m3u8
-
 #EXTINF:-1 tvg-id="caba3c20b9e54913a8bd7ecfdf3cbd3f" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",Basket League : Panathinaikos vs Olympiakos (ARENA 3 PREMIUM SERBIA)
 https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW0xMzkvbW9uby5tM3U4.m3u8
 
 #EXTINF:-1 tvg-id="79ca9f7eccc86a782014584b004811c9" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/handball-logo.png" group-title="HANDBALL",Handball-Bundesliga : SC Magdeburg vs. SG Flensburg-Handewitt (TV3 SPORT DENMARK)
 https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW04MDkvbW9uby5tM3U4.m3u8
 
-#EXTINF:-1 tvg-id="fd5ad42a7e5445d8c263ad0024d95ec2" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/handball-logo.png" group-title="HANDBALL",Starligue : Toulouse vs Dunkerque (BEIN SPORTS 3 FRANCE)
-https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0xMTgvbW9uby5tM3U4.m3u8
-
 #EXTINF:-1 tvg-id="3f14fbb4fedbfc707d1a2518b2ef5c86" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/handball-logo.png" group-title="HANDBALL",Starligue : Paris SG vs Istres (BEIN SPORTS 1 FRANCE)
 https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0xMTYvbW9uby5tM3U4.m3u8
 
-#EXTINF:-1 tvg-id="79ca9f7eccc86a782014584b004811c9" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/handball-logo.png" group-title="HANDBALL",Handball-Bundesliga : SC Magdeburg vs. SG Flensburg-Handewitt (ARENA SPORT 3 SERBIA)
-https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW00MzEvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="eab75c2db2d777545b67cacff513b5bf" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",KLS : Crvena Zvezda Meridianbet vs Spartak Office Shoes (ARENA 1 PREMIUM SERBIA)
+https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW0xMzQvbW9uby5tM3U4.m3u8
+
+#EXTINF:-1 tvg-id="fd5ad42a7e5445d8c263ad0024d95ec2" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/handball-logo.png" group-title="HANDBALL",Starligue : Toulouse vs Dunkerque (BEIN SPORTS 3 FRANCE)
+https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0xMTgvbW9uby5tM3U4.m3u8
 
 #EXTINF:-1 tvg-id="caba3c20b9e54913a8bd7ecfdf3cbd3f" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",Basket League : Panathinaikos vs Olympiakos (ERT 3 GREECE)
 https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtOS9tb25vLm0zdTg=.m3u8
 
-#EXTINF:-1 tvg-id="79ca9f7eccc86a782014584b004811c9" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/handball-logo.png" group-title="HANDBALL",Handball-Bundesliga : SC Magdeburg vs. SG Flensburg-Handewitt (SPORT 1 HUNGARY)
-https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMTEvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="79ca9f7eccc86a782014584b004811c9" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/handball-logo.png" group-title="HANDBALL",Handball-Bundesliga : SC Magdeburg vs. SG Flensburg-Handewitt (ARENA SPORT 3 SERBIA)
+https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW00MzEvbW9uby5tM3U4.m3u8
 
 #EXTINF:-1 tvg-id="caba3c20b9e54913a8bd7ecfdf3cbd3f" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",Basket League : Panathinaikos vs Olympiakos (SPORTKLUB 2 CROATIA)
 https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW0xMDIvbW9uby5tM3U4.m3u8
 
-#EXTINF:-1 tvg-id="79ca9f7eccc86a782014584b004811c9" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/handball-logo.png" group-title="HANDBALL",Handball-Bundesliga : SC Magdeburg vs. SG Flensburg-Handewitt (SPORT KLUB 3 CROATIA)
-https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMTAzL21vbm8ubTN1OA==.m3u8
+#EXTINF:-1 tvg-id="79ca9f7eccc86a782014584b004811c9" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/handball-logo.png" group-title="HANDBALL",Handball-Bundesliga : SC Magdeburg vs. SG Flensburg-Handewitt (SPORT 1 HUNGARY)
+https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMTEvbW9uby5tM3U4.m3u8
 
 #EXTINF:-1 tvg-id="caba3c20b9e54913a8bd7ecfdf3cbd3f" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",Basket League : Panathinaikos vs Olympiakos (SPORT 3 ISRAEL)
 https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0xNDIvbW9uby5tM3U4.m3u8
+
+#EXTINF:-1 tvg-id="79ca9f7eccc86a782014584b004811c9" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/handball-logo.png" group-title="HANDBALL",Handball-Bundesliga : SC Magdeburg vs. SG Flensburg-Handewitt (SPORT KLUB 3 CROATIA)
+https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMTAzL21vbm8ubTN1OA==.m3u8
 
 #EXTINF:-1 tvg-id="79ca9f7eccc86a782014584b004811c9" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/handball-logo.png" group-title="HANDBALL",Handball-Bundesliga : SC Magdeburg vs. SG Flensburg-Handewitt (SPORT 2 ISRAEL)
 https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0xNDEvbW9uby5tM3U4.m3u8
@@ -747,11 +747,11 @@ https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzb
 #EXTINF:-1 tvg-id="2de9db62d6547444392f2b854dd66fab" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/handball-logo.png" group-title="HANDBALL",Slovenian league: Playoff - FINALE (G2) : Gorenje vs Slovan (SPORT KLUB 6 CROATIA)
 https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMjEvbW9uby5tM3U4.m3u8
 
-#EXTINF:-1 tvg-id="c3d962330e858de66e7d2a54de4a769d" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/handball-logo.png" group-title="HANDBALL",Superliga : Vive Kielce vs Wisla Plock (POLSAT SPORT 1 POLAND)
-https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW00Ny9tb25vLm0zdTg=.m3u8
-
 #EXTINF:-1 tvg-id="deee8099c49220f5d29fd1c20973cafc" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/handball-logo.png" group-title="HANDBALL",888ligaen : Aalborg vs Skjern (TV2 SPORT DENMARK)
 https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtODEwL21vbm8ubTN1OA==.m3u8
+
+#EXTINF:-1 tvg-id="c3d962330e858de66e7d2a54de4a769d" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/handball-logo.png" group-title="HANDBALL",Superliga : Vive Kielce vs Wisla Plock (POLSAT SPORT 1 POLAND)
+https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW00Ny9tb25vLm0zdTg=.m3u8
 
 #EXTINF:-1 tvg-id="2f8ecc0ee67652d1d08cd3b5a6659d0e" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",Lega A : Brescia vs Trapani (RAI SPORT 1 IT)
 https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW04ODIvbW9uby5tM3U4.m3u8
@@ -771,11 +771,11 @@ https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a
 #EXTINF:-1 tvg-id="1bcbfc3bdb3637bd664084d48e0edba7" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",The Kelly Clarkson Show Season 6 Episode 164 (NBCNY USA)
 https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW03NjkvbW9uby5tM3U4.m3u8
 
-#EXTINF:-1 tvg-id="2314bb51666a29a9c65ffb90e77b3541" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/racing-logo.png" group-title="TV SHOWS",FanDuel Racing Live (NBCS BAY AREA)
-https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW03NTMvbW9uby5tM3U4.m3u8
-
 #EXTINF:-1 tvg-id="4607cf4153a53969647aadcf9d10c463" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",General Hospital Season 62 Episode 186 (ABC NY USA)
 https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW03NjYvbW9uby5tM3U4.m3u8
+
+#EXTINF:-1 tvg-id="2314bb51666a29a9c65ffb90e77b3541" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/racing-logo.png" group-title="TV SHOWS",FanDuel Racing Live (NBCS BAY AREA)
+https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW03NTMvbW9uby5tM3U4.m3u8
 
 #EXTINF:-1 tvg-id="62b6d51043a6d92b6907b4420f2a26ee" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/uefa-logo.png" group-title="SOCCER",UEFA Nations League : Germany vs Portugal (FOX SPORTS 1 USA)
 https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zOS9tb25vLm0zdTg=.m3u8
@@ -783,17 +783,17 @@ https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzb
 #EXTINF:-1 tvg-id="2cdcd553c6d185b218aaa8550b69907a" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",FranceLNB : Paris vs JL Bourg (SPORT KLUB 5 CROATIA)
 https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMTkvbW9uby5tM3U4.m3u8
 
-#EXTINF:-1 tvg-id="1bf34a43ee3eebc81bc963482160da56" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",Friendly Games Women : France vs. Belgium (LEQUIPE FRANCE)
-https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNjQ1L21vbm8ubTN1OA==.m3u8
-
 #EXTINF:-1 tvg-id="88c66970b28d53af594712fe5b3c1b55" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",Basquetebol: FC Porto vs Sporting CP - Camp. Nacional (DAZN ELEVEN 1 PORTUGAL)
 https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW00NTUvbW9uby5tM3U4.m3u8
 
-#EXTINF:-1 tvg-id="2cdcd553c6d185b218aaa8550b69907a" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",FranceLNB : Paris vs JL Bourg (SPORT 5 PLUS ISRAEL)
-https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0xNDUvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="1bf34a43ee3eebc81bc963482160da56" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",Friendly Games Women : France vs. Belgium (LEQUIPE FRANCE)
+https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNjQ1L21vbm8ubTN1OA==.m3u8
 
 #EXTINF:-1 tvg-id="62b6d51043a6d92b6907b4420f2a26ee" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/uefa-logo.png" group-title="SOCCER",UEFA Nations League : Germany vs Portugal (SKY SPORT 2 NZ)
 https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNTg5L21vbm8ubTN1OA==.m3u8
+
+#EXTINF:-1 tvg-id="2cdcd553c6d185b218aaa8550b69907a" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",FranceLNB : Paris vs JL Bourg (SPORT 5 PLUS ISRAEL)
+https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0xNDUvbW9uby5tM3U4.m3u8
 
 #EXTINF:-1 tvg-id="62b6d51043a6d92b6907b4420f2a26ee" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/uefa-logo.png" group-title="SOCCER",UEFA Nations League : Germany vs Portugal (DAZN1 DE)
 https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW00MjYvbW9uby5tM3U4.m3u8
@@ -966,20 +966,26 @@ https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzb
 #EXTINF:-1 tvg-id="c53291ca8c726cf7b40babfacdd04c03" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/volleyball-logo.png" group-title="VOLLEYBALL",Nations League Women : Czech Republic vs Brazil (SPORT KLUB 3 CROATIA)
 https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMTAzL21vbm8ubTN1OA==.m3u8
 
+#EXTINF:-1 tvg-id="ec1274e2732c76c5c4909d554fa2803f" tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="PPV EVENTS",2025 USAC Indiana Midget Week at Paragon Speedway (FLORACING)
+https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW01NS9tb25vLm0zdTg=.m3u8
+
+#EXTINF:-1 tvg-id="112c600fafc4c10d062b4d38e2f0f7cc" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",Off the Grid on the Beach Season 1 Episode 3 (OWN USA)
+https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW0zMzEvbW9uby5tM3U4.m3u8
+
 #EXTINF:-1 tvg-id="2314bb51666a29a9c65ffb90e77b3541" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/racing-logo.png" group-title="TV SHOWS",FanDuel Racing Live (ALTITUDE SPORTS)
 https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtOTIzL21vbm8ubTN1OA==.m3u8
 
 #EXTINF:-1 tvg-id="283ba5c4ceac460193008d0ef67c7683" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",Life Below Zero: First Alaskans Season 3 Episode 15 (NAT GEO WILD USA)
 https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW03NDUvbW9uby5tM3U4.m3u8
 
-#EXTINF:-1 tvg-id="112c600fafc4c10d062b4d38e2f0f7cc" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",Off the Grid on the Beach Season 1 Episode 3 (OWN USA)
-https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW0zMzEvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="6230a02b7162c32665f958f6741fce16" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",World Cup Qualifying : Montserrat vs Belize (RPC PANAMA)
+https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtOC9tb25vLm0zdTg=.m3u8
 
 #EXTINF:-1 tvg-id="e5ffd2fff5a1d931fb63dda06195f46a" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",World Cup Qualifying : Barbados vs Aruba (ESPN 1 NL)
 https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zNzkvbW9uby5tM3U4.m3u8
 
-#EXTINF:-1 tvg-id="6230a02b7162c32665f958f6741fce16" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",World Cup Qualifying : Montserrat vs Belize (RPC PANAMA)
-https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtOC9tb25vLm0zdTg=.m3u8
+#EXTINF:-1 tvg-id="f2c5527c083395d1b76319835e36c62e" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/racing-logo.png" group-title="PPV EVENTS",2025 FloRacing Night in America at Eldora Speedway (FLORACING)
+https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW01OS9tb25vLm0zdTg=.m3u8
 
 #EXTINF:-1 tvg-id="4f83c7a33940a48a4968db0e79e95396" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",The Soccer Tournament : West Ham United vs Villarreal (ESPNU USA)
 https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zMTYvbW9uby5tM3U4.m3u8
@@ -989,6 +995,9 @@ https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzb
 
 #EXTINF:-1 tvg-id="4f83c7a33940a48a4968db0e79e95396" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",The Soccer Tournament : West Ham United vs Villarreal (ESPN4 BRAZIL)
 https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW04NS9tb25vLm0zdTg=.m3u8
+
+#EXTINF:-1 tvg-id="263d1c03a50c3e8d874ba5e77f9e0d96" tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="PPV EVENTS",Super DIRTcar Series (DIRTVISION)
+https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW02OC9tb25vLm0zdTg=.m3u8
 
 #EXTINF:-1 tvg-id="d3738e48ff5bdcee0efd8fe70995ae67" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Brazil - Copa do Nordeste : Confiança vs Bahia (PREMIERE BR)
 https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW04OC9tb25vLm0zdTg=.m3u8
@@ -1026,6 +1035,9 @@ https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvL
 #EXTINF:-1 tvg-id="ae514185c4b3e4b4d1c45afda8e9e871" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",Jeopardy! Season 41 Episode 193 (ABC NY USA)
 https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW03NjYvbW9uby5tM3U4.m3u8
 
+#EXTINF:-1 tvg-id="b0f158449242307176eccfc9a5d4242e" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/racing-logo.png" group-title="PPV EVENTS",2025 Kubota High Limit Racing at Red Cedar Speedway (FLORACING)
+https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW02OS9tb25vLm0zdTg=.m3u8
+
 #EXTINF:-1 tvg-id="4e42c0474baf47bfb517c7034cb6e732" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",The Soccer Tournament : AFC Bournemouth vs Wrexham Red Dragons (ESPNU USA)
 https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zMTYvbW9uby5tM3U4.m3u8
 
@@ -1058,6 +1070,9 @@ https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a
 
 #EXTINF:-1 tvg-id="e1eb78aba22f6b8d3c2c44f946a223c7" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Colombia - Primera A : Deportes Tolima vs Medellín (WIN+ FUTBOL COLOMBIA)
 https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtMzkyL21vbm8ubTN1OA==.m3u8
+
+#EXTINF:-1 tvg-id="7b6f1ae2fb0d64aa48cb023d3fb3f256" tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="PPV EVENTS",World of Outlaws Sprint Cars Jackson (EVENT PPV)
+https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW03Ni9tb25vLm0zdTg=.m3u8
 
 #EXTINF:-1 tvg-id="ab93632a260595f436c4a19ce0a9aeca" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="BASEBALL",MLB : Atlanta Braves vs Arizona Diamondbacks (MLB LEAGUE PASS)
 https://kerimmkirac-daddyliveevents.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtOC9tb25vLm0zdTg=.m3u8
