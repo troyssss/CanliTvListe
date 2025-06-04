@@ -36,7 +36,7 @@ jobs:
 
       - name: M3U Güncellemelerini Yap
         run: |
-          python update_m3u.py
+          
           python kerim.py
 
       - name: Değişiklik Kontrolü
