@@ -3,17 +3,21 @@ name: Vavoo M3U Güncelle
 on:
   schedule:
     - cron: '0 */10 * * *'  
-  workflow_dispatch:       
+  workflow_dispatch:        
 
 jobs:
   update-vavoo:
     runs-on: ubuntu-latest
 
+    permissions:
+      contents: write  
+
     steps:
       - name: Repo'yu klonla
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0  
+          fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }} 
 
       - name: Python kurulumu
         uses: actions/setup-python@v5
@@ -31,11 +35,15 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git diff --quiet || echo "changed=true" >> $GITHUB_OUTPUT
+          if [ -n "$(git status --porcelain)" ]; then
+            echo "changed=true" >> $GITHUB_OUTPUT
+          else
+            echo "changed=false" >> $GITHUB_OUTPUT
+          fi
 
       - name: Commit ve push (eğer değişiklik varsa)
         if: steps.git-check.outputs.changed == 'true'
         run: |
           git add vavoo.m3u
           git commit -m "🔁 vavoo.m3u güncellendi - $(date +'%Y-%m-%d %H:%M:%S')"
-          git push
+          git push origin HEAD:main
