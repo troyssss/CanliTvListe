@@ -15,7 +15,6 @@ TURKISH_CHAR_MAP = str.maketrans({
     'ü': 'u', 'Ü': 'U'
 })
 
-
 NAME_CORRECTIONS = {
     "S NEMA": "SİNEMA",
     "T RK": "TÜRK",
@@ -30,10 +29,6 @@ NAME_CORRECTIONS = {
     "D Ğ N": "DOĞAN",
     "VINC": "VINCI",
     "KOMEDİI": "KOMEDİ",
-    
-
-
-    
 }
 
 def normalize_tvg_id(name):
@@ -53,12 +48,25 @@ def fetch_turkey_channels():
 
     channels = response.json()
     turkey_channels = [ch for ch in channels if ch.get("country") == "Turkey"]
-    
-    
+
     for ch in turkey_channels:
         ch["name"] = fix_channel_name(ch.get("name", ""))
 
-    return sorted(turkey_channels, key=lambda ch: ch.get("name", "").translate(TURKISH_CHAR_MAP).lower())
+    def sort_key(ch):
+        name = ch.get("name", "")
+        name_ascii = name.translate(TURKISH_CHAR_MAP).lower()
+
+        
+        if "bein sports" in name_ascii:
+            priority = 0
+        elif "spor" in name_ascii:
+            priority = 1
+        else:
+            priority = 2
+
+        return (priority, name_ascii)
+
+    return sorted(turkey_channels, key=sort_key)
 
 def generate_m3u(channels):
     with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
