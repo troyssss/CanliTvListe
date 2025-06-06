@@ -30,8 +30,11 @@ jobs:
       - name: Alive 1
         run: curl https://kerimmkirac-vavoo.hf.space/
 
-      - name: Vavoo M3U dosyasını oluştur
+      - name: Vavoo Tr
         run: python vavoo.py
+
+      - name: Vavoo All
+        run: python vavooall.py
 
       - name: Değişiklik kontrolü
         id: git-check
