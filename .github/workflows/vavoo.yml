@@ -1,4 +1,4 @@
-name: Vavoo M3U Güncelle
+name: Vavoo Kontrol
 
 on:
   schedule:
