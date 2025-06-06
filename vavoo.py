@@ -90,7 +90,7 @@ def generate_m3u(channels):
 
             f.write(
                 f'#EXTINF:-1 tvg-name="{name}" tvg-language="Türkçe" '
-                f'tvg-country="TR" tvg-id="{tvg_id}" tvg-logo="{LOGO_URL}" '
+                f'tvg-country="Türkiye" tvg-id="{tvg_id}" tvg-logo="{LOGO_URL}" '
                 f'group-title="{group_title}",{name}\n{proxy_url}\n'
             )
 
