@@ -56,7 +56,6 @@ def fetch_turkey_channels():
         name = ch.get("name", "")
         name_ascii = name.translate(TURKISH_CHAR_MAP).lower()
 
-        
         if "bein sports" in name_ascii:
             priority = 0
         elif "spor" in name_ascii:
@@ -69,6 +68,13 @@ def fetch_turkey_channels():
     return sorted(turkey_channels, key=sort_key)
 
 def generate_m3u(channels):
+    
+    spor_channels = [ch for ch in channels if "spor" in ch.get("name", "").lower()]
+    genel_channels = [ch for ch in channels if "spor" not in ch.get("name", "").lower()]
+
+    spor_count = len(spor_channels)
+    genel_count = len(genel_channels)
+
     with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
         f.write("#EXTM3U\n")
         for ch in channels:
@@ -76,10 +82,16 @@ def generate_m3u(channels):
             tvg_id = normalize_tvg_id(name)
             proxy_url = PROXY_BASE.format(ch.get("id"))
 
+            
+            if "spor" in name.lower():
+                group_title = f"Spor ({spor_count})"
+            else:
+                group_title = f"Genel Kanallar ({genel_count})"
+
             f.write(
                 f'#EXTINF:-1 tvg-name="{name}" tvg-language="Türkçe" '
                 f'tvg-country="TR" tvg-id="{tvg_id}" tvg-logo="{LOGO_URL}" '
-                f'group-title="Ulusal",{name}\n{proxy_url}\n'
+                f'group-title="{group_title}",{name}\n{proxy_url}\n'
             )
 
     print(f"{len(channels)} Tane kanal bulundu → '{OUTPUT_FILE}' dosyasına yazıldı.")
