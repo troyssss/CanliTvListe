@@ -1,4 +1,4 @@
-name: TRGoals, MonoTV ve M3U Güncelleme Workflow (Birleşik)
+name: Birleşik kontrol
 concurrency:
   group: ${{ github.workflow }}-${{ github.event_name }}-${{ github.ref }}
   cancel-in-progress: true
