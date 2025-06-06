@@ -3,7 +3,7 @@ name: Vavoo M3U Güncelle
 on:
   schedule:
     - cron: '0 */10 * * *'  
-  workflow_dispatch:        
+  workflow_dispatch:       
 
 jobs:
   update-vavoo:
@@ -12,6 +12,8 @@ jobs:
     steps:
       - name: Repo'yu klonla
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0  
 
       - name: Python kurulumu
         uses: actions/setup-python@v5
@@ -29,10 +31,7 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          if git diff --quiet; then
-            echo "changed=false" >> $GITHUB_OUTPUT
-          else
-            echo "changed=true" >> $GITHUB_OUTPUT
+          git diff --quiet || echo "changed=true" >> $GITHUB_OUTPUT
 
       - name: Commit ve push (eğer değişiklik varsa)
         if: steps.git-check.outputs.changed == 'true'
