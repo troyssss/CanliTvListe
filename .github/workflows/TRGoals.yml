@@ -44,6 +44,9 @@ jobs:
       - name: Alive 3
         run: curl https://kerimmkirac-daddyliveevents.hf.space
 
+      - name: Alive 4
+        run: curl https://kerimmkirac-vavoo.hf.space/
+
       
 
       - name: daddylive.m3u dosyasını oluştur 
