@@ -20,6 +20,7 @@ jobs:
 
       - name: Vavoo M3U dosyasını oluştur
         run: |
+          python <<EOF
           import requests
           import re
 
@@ -83,7 +84,6 @@ jobs:
                       name = ch.get("name", "Unknown").strip()
                       tvg_id = normalize_tvg_id(name)
                       proxy_url = PROXY_BASE.format(ch.get("id"))
-
                       f.write(
                           f'#EXTINF:-1 tvg-name="{name}" tvg-language="Türkçe" '
                           f'tvg-country="TR" tvg-id="{tvg_id}" tvg-logo="{LOGO_URL}" '
@@ -94,6 +94,7 @@ jobs:
 
           turkey_channels = fetch_turkey_channels()
           generate_m3u(turkey_channels)
+          EOF
 
       - name: Değişiklik kontrolü
         id: git-check
