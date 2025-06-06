@@ -1,4 +1,4 @@
-name: Kablo M3U Güncelleme
+name: Kablo Kontrol
 
 concurrency:
   group: ${{ github.workflow }}-${{ github.event_name }}-${{ github.ref }}
