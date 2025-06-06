@@ -27,6 +27,9 @@ jobs:
       - name: Gerekli paketleri yükle
         run: pip install requests
 
+      - name: Alive 1
+        run: curl https://kerimmkirac-vavoo.hf.space/
+
       - name: Vavoo M3U dosyasını oluştur
         run: python vavoo.py
 
