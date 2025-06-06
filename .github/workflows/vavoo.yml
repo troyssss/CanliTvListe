@@ -47,9 +47,9 @@ jobs:
             echo "changed=false" >> $GITHUB_OUTPUT
           fi
 
-      - name: Commit ve push (eğer değişiklik varsa)
+      - name: Commit ve push 
         if: steps.git-check.outputs.changed == 'true'
         run: |
-          git add vavoo.m3u
-          git commit -m "🔁 vavoo.m3u güncellendi - $(date +'%Y-%m-%d %H:%M:%S')"
+          git add vavoo.m3u vavooall.m3u
+          git commit -m "🔁 M3U dosyaları güncellendi - $(date +'%Y-%m-%d %H:%M:%S')"
           git push origin HEAD:main
