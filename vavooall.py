@@ -52,6 +52,24 @@ COUNTRY_LANG_MAP = {
     "Turkey": "Türkçe",
     "United Kingdom": "İngilizce"
 }
+COUNTRY_NAME_MAP = {
+    "Albania": "Arnavutluk",
+    "Arabia": "Arabistan",
+    "Balkans": "Balkanlar",
+    "Bulgaria": "Bulgaristan",
+    "France": "Fransa",
+    "Germany": "Almanya",
+    "Italy": "İtalya",
+    "Netherlands": "Hollanda",
+    "Poland": "Polonya",
+    "Portugal": "Portekiz",
+    "Romania": "Romanya",
+    "Russia": "Rusya",
+    "Spain": "İspanya",
+    "Turkey": "Türkiye",
+    "United Kingdom": "İngiltere"
+}
+
 
 
 
@@ -95,18 +113,20 @@ def generate_m3u(channels):
             name = ch.get("name", "Unknown").strip()
             tvg_id = normalize_tvg_id(name)
             proxy_url = PROXY_BASE.format(ch.get("id"))
-            country = ch.get("country", "Unknown")
+            country_en = ch.get("country", "Unknown")
 
-            lang = COUNTRY_LANG_MAP.get(country, "Bilinmiyor")
-            group_title = f"{country} ({country_counts.get(country, 0)})"
+            lang = COUNTRY_LANG_MAP.get(country_en, "Bilinmiyor")
+            country_tr = COUNTRY_NAME_MAP.get(country_en, country_en)
+            group_title = f"{country_tr} ({country_counts.get(country_en, 0)})"
 
             f.write(
                 f'#EXTINF:-1 tvg-name="{name}" tvg-language="{lang}" '
-                f'tvg-country="{country}" tvg-id="{tvg_id}" tvg-logo="{LOGO_URL}" '
+                f'tvg-country="{country_tr}" tvg-id="{tvg_id}" tvg-logo="{LOGO_URL}" '
                 f'group-title="{group_title}",{name}\n{proxy_url}\n'
             )
 
     print(f"{len(channels)} Tane kanal bulundu → '{OUTPUT_FILE}' dosyasına yazıldı.")
+
 
 if __name__ == "__main__":
     all_channels = fetch_all_channels()
