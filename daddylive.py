@@ -280,7 +280,7 @@ def format_channel(channel):
     return info_line + '\n' + channel['url']
 
 def main():
-    
+   
     url = "https://kerimmkirac-daddylive.hf.space/playlist/channels"
     content = get_playlist_from_url(url)
     
@@ -299,11 +299,11 @@ def main():
     
     other_channels.sort(key=lambda x: x.get('country', ''))
     
-   
+    
     sorted_channels = turkish_bein + other_bein + other_channels
     
     
-    new_content = "#EXTM3U\n"
+    new_content = "#EXTM3U url-tvg=\"https://raw.githubusercontent.com/pigzillaaaaa/daddylive/refs/heads/main/epgs/daddylive-channels-epg.xml\"\n"
     for channel in sorted_channels:
         new_content += format_channel(channel) + "\n"
     
