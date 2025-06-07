@@ -29,6 +29,9 @@ jobs:
           
       - name: TRGoals.py Çalıştır
         run: python TRGoals.py
+
+      - name: TRGoal.py Çalıştır
+        run: python trgoal.py
         
       - name: MonoTV.py Çalıştır
         run: python MonoTV.py
