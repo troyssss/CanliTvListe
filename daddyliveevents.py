@@ -37,7 +37,10 @@ for group in groups:
     groups[group] = sorted(groups[group], key=get_title)
 
 
-sorted_content = ""
+
+header = '#EXTM3U url-tvg="https://raw.githubusercontent.com/pigzillaaaaa/daddylive/refs/heads/main/epgs/daddylive-events-epg.xml"\n\n'
+
+sorted_content = header
 for group in sorted(groups.keys()):
     sorted_content += "\n".join(groups[group]) + "\n"
 
@@ -45,4 +48,4 @@ for group in sorted(groups.keys()):
 with open("daddyliveevents.m3u", "w", encoding="utf-8") as f:
     f.write(sorted_content)
 
-print("Gruplanmış ve alfabetik sıralanmış playlist daddyliveevents.m3u dosyasına yazıldı ve logo URL'si güncellendi.")
+print("daddylive.m3u dosyası kontrol edildi")
