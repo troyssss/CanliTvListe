@@ -49,19 +49,11 @@ jobs:
 
       
 
-      - name: daddylive.m3u dosyasını oluştur 
-        run: |
-          curl -s "https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/dl/dl-daddyliveall.m3u" | \
-          sed -e 's|https://tinyurl.com/lattedl|https://kerimmkirac-daddylive.hf.space/watch|g' \
-              -e 's|https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/vavoo.png|https://raw.githubusercontent.com/kerimmkirac/CanliTvListe/refs/heads/main/subaicon.jpeg|g' \
-          > daddylive.m3u
+      - name: Daddylive
+        run: python daddylive.py
 
-      - name: daddyliveevents.m3u dosyasını oluştur 
-        run: |
-          curl -s "https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/dl/daddyliveevents.m3u" | \
-          sed -e 's|https://tinyurl.com/lattedl|https://kerimmkirac-daddyliveevents.hf.space/watch|g' \
-              -e 's|https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/vavoo.png|https://raw.githubusercontent.com/kerimmkirac/CanliTvListe/refs/heads/main/subaicon.jpeg|g' \
-          > daddyliveevents.m3u
+      
+        
 
 
 
